@@ -1,0 +1,82 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+.cache/
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*_backup
+*_old
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Build Outputs
+build/
+dist/
+*.egg-info/
+
+# Private/Sensitive
+private/
+secrets/
+*.key
+*.pem
+.env
+.env.local
+
+# Archives (keep source, ignore downloads)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+# But keep specific tool archives documented
+!reztools.zip
+!txatools.zip
+
+# Large Files
+*.pkl
+*.db
+*.sqlite
+
+# Project Specific
+/drafts/
+/old-versions/
+/temp/
+research_notes_private.txt
+
+# Keep these
+!.gitignore
+!.gitkeep
