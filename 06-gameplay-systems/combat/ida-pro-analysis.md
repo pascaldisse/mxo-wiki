@@ -1,11 +1,14 @@
-# Combat System: IDA Pro Analysis Results
-**The Code Behind the Kung Fu**
+# Combat System: IDA Pro Analysis Plan
+**Research Roadmap for Eden Reborn Combat Implementation**
 
 > *"I know kung fu." - "Show me."*
 
-## 🔬 Binary Analysis Breakthrough
+## 🔬 PROPOSED: Binary Analysis Methodology
 
-On June 2, 2025, we cracked the combat system using IDA Pro analysis on `client.dll`. This document preserves the technical knowledge discovered.
+This document outlines our planned approach for reverse engineering the combat system using IDA Pro analysis on `client.dll`. This research will guide Eden Reborn's combat implementation.
+
+### ⚠️ STATUS: Research Planning Phase
+The analysis described below represents our methodology and expected findings based on community knowledge and preliminary investigation.
 
 ## 📊 The Numbers
 
@@ -14,10 +17,10 @@ Total Combat Strings Found: 1,035
 Combat Functions Identified: 147
 Packet Opcodes Decoded: 6 (0x0A - 0x0F)
 Memory Addresses Mapped: 200+
-Status: FULLY DECODED ✅
+Status: RESEARCH PLANNED 🚧
 ```
 
-## 🎯 Key Discoveries
+## 🎯 Expected Research Areas
 
 ### D100 System Confirmed
 

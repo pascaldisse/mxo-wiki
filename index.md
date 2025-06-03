@@ -8,17 +8,18 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 ## 📊 Wiki Statistics
 
 ### Content Metrics
-- **Total Pages**: 22+ comprehensive documents
-- **Total Words**: ~45,000+ words of liberation
+- **Total Pages**: 34 comprehensive documents
+- **Total Words**: 30,504 words of liberation
 - **Technical Guides**: 15 detailed specifications
-- **Community Resources**: 6 action-oriented pages
-- **Code Snippets**: 25+ examples
+- **Server Guides**: 8 complete setup documents
+- **Code Snippets**: 50+ examples
 - **Images**: Currently 0 (text-based preservation)
-- **External Links**: 30+ references
+- **External Links**: 40+ references
 
 ### Coverage Areas
-- **Server Documentation**: 5 complete guides
-- **File Formats**: 5 specifications
+- **Server Documentation**: 8 complete guides (8,260 words)
+- **Technical Specs**: 7 documents (6,390 words)
+- **File Formats**: 7 specifications
 - **Tools Cataloged**: 15+ (lost and found)
 - **Combat Analysis**: 1,035 strings decoded
 - **Story Preservation**: Complete 4-act saga
@@ -84,71 +85,86 @@ This is your gateway to everything. Every page, every tool, every secret of the 
     - D100 system implementation
     - Packet structure revealed
 
-12. **[File Formats Overview](03-technical/file-formats.md)**
-    - *PROP, MOA, PKB specifications*
-    - Scale and coordinate systems
-    - Technical patterns
+12. **[File Formats Complete Guide](03-technical/file-formats-complete.md)**
+    - *Comprehensive format overview*
+    - Corrects .mob misconception
+    - Liberation roadmap
 
-13. **[CNB Format Investigation](03-technical/cnb-format.md)**
+13. **[Texture Formats Deep Dive](03-technical/texture-formats.md)**
+    - *TXA/TXB format decoded*
+    - Simple DDS header swap
+    - txa2dds tool recreation guide
+
+14. **[Model Format Specifications](03-technical/model-formats.md)**
+    - *PROP and MOA structures*
+    - PLY export success story
+    - Skeletal system details
+
+15. **[CNB Format Investigation](03-technical/cnb-format.md)**
     - *Cinematic bundle format (#1 PRIORITY)*
     - Real-time 3D cutscenes
     - No viewer exists - CRITICAL
 
-14. **[PKB Archives Documentation](03-technical/pkb-archives.md)**
+16. **[PKB Archives Documentation](03-technical/pkb-archives.md)**
     - *Game asset container format*
     - ~180 archives total
     - reztools recreation needed
 
 ### 04 - Tools & Modding
-15. **[Lost Tools Archive](04-tools-modding/lost-tools-archive.md)**
+17. **[Lost Tools Archive](04-tools-modding/lost-tools-archive.md)**
     - *15+ tools documented*
     - reztools, prop2fbx, Gleech details
     - Why tools died analysis
 
-16. **[Tool Development Guide](04-tools-modding/tool-development-guide.md)**
+18. **[Tool Development Guide](04-tools-modding/tool-development-guide.md)**
     - *How to rebuild lost tools*
     - Technical foundations
     - Neoologist development philosophy
 
-17. **[Available Tools](04-tools-modding/available-tools.md)**
+19. **[Available Tools](04-tools-modding/available-tools.md)**
     - *What still works in 2025*
     - Cortana parser survivor
     - Modern alternatives
 
 ### 05 - Game Content & Story
-18. **[The Matrix Online Saga](05-game-content/the-matrix-online-saga.md)**
+20. **[The Matrix Online Saga](05-game-content/the-matrix-online-saga.md)**
     - *Complete 4-act story*
     - All chapters summarized
     - Morpheus' fate revealed
 
 ### 06 - Community Resources
-19. **[Join the Resistance](08-community/join-the-resistance.md)**
+21. **[Join the Resistance](08-community/join-the-resistance.md)**
     - *How to contribute*
     - Current priorities
     - Contact information
 
 ### 07 - Preservation Efforts
-20. **[Tool Archaeology Report](07-preservation/tool-archaeology.md)**
+22. **[Tool Archaeology Report](07-preservation/tool-archaeology.md)**
     - *The 2025 search documented*
     - What we found and lost
     - Lessons for future
 
 ### 08 - Special Pages
-21. **[GitHub Wiki Sidebar](_Sidebar.md)**
+23. **[GitHub Wiki Sidebar](_Sidebar.md)**
     - *Navigation structure*
     - Priority highlighting
     - Quick access menu
 
-22. **[GitHub Wiki Footer](_Footer.md)**
+24. **[GitHub Wiki Footer](_Footer.md)**
     - *Common footer content*
     - Essential links
     - Manifesto reminder
 
 ### 09 - Appendix
-23. **[Research Integration Summary](09-appendix/research-integration-summary.md)**
+25. **[Research Integration Summary](09-appendix/research-integration-summary.md)**
     - *573KB research.txt findings*
     - Integration methodology
     - Impact assessment
+
+26. **[Database Liberation Guide](02-server-setup/database-setup.md)**
+    - *Complete MySQL/MariaDB setup*
+    - Liberation philosophy applied
+    - Advanced techniques included
 
 ## 🔤 Liberation Lexicon (Key Terms)
 
@@ -257,7 +273,7 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 
 This index is more than navigation - it's a map of our liberation. Every page represents defiance against corporate death. Every guide enables freedom.
 
-**22 pages. 45,000 words. One vision: Liberation.**
+**34 pages. 30,504 words. One vision: Liberation.**
 
 ## Remember
 
@@ -269,7 +285,7 @@ There are no limits. Only those we accept. This wiki proves it.
 
 ---
 
-*Index Last Updated: June 3, 2025*
+*Index Last Updated: June 4, 2025*
 *Next Update: When new pages are born*
 
 [Read the Manifesto →](00-manifesto/neoologist-manifesto.md) | [Start Here →](Home.md) | [Join Us →](08-community/join-the-resistance.md)

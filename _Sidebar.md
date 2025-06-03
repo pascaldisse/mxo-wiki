@@ -2,7 +2,10 @@
 
 ## [🏠 Home](Home)
 
-## [📜 Manifesto](neoologist-manifesto)
+## [📜 Manifesto](00-manifesto/)
+- [Neoologist Manifesto](00-manifesto/neoologist-manifesto)
+
+## [📚 Sources](sources/)
 
 ## 🚀 Getting Started
 - [Overview](getting-started)
@@ -21,11 +24,12 @@
 ## 🔧 Technical Docs
 - [Overview](technical-docs)
 - **File Formats**
+  - [Complete Guide](file-formats-complete)
   - [PKB Archives 🔴](pkb-archives)
   - [CNB Format 🔴](cnb-format)
-  - [PROP Format](prop-format)
-  - [MOA Format](moa-format)
-  - [TXA/TXB Textures](texture-formats)
+  - [Model Formats](model-formats)
+  - [Texture Formats](texture-formats)
+- [Server Architecture](server-architecture)
 - [Network Protocol](network-protocol)
 - [IDA Pro Combat](ida-pro-analysis)
 

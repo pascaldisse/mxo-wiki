@@ -5,27 +5,28 @@
 
 ## The Current Truth
 
-As of June 3, 2025, we have achieved what many thought impossible:
-- **HD Enhanced Server**: FULLY OPERATIONAL ✅
-- **Combat System**: WORKING ✅
-- **2.8+ Million Objects**: LOADED ✅
-- **The Dream**: REALIZED ✅
+As of December 2024, the Matrix Online emulation landscape:
+- **Basic Servers**: Login and movement work
+- **Combat System**: NOT IMPLEMENTED ❌
+- **Full Features**: Still in development
+- **Eden Reborn**: NEW PROJECT IN PROGRESS 🚧
 
-But the journey here was long, and every attempt taught us something.
+Every server attempt has contributed to our understanding.
 
-## 🏆 The Victor: HD Enhanced (Eden Reborn)
+## 🚧 The Future: Eden Reborn (In Development)
 
-### The Liberation Server
-**Based on**: Hardline Dreams  
-**Enhanced by**: The Neoologists  
-**Status**: 🟢 **LIVE AND OPERATIONAL**
+### The Liberation Project
+**Based on**: Forking Hardline Dreams and MXOEmu
+**Developer**: Pascal Disse  
+**Status**: 🚧 **WORK IN PROGRESS**
+**Started**: June 3, 2025
 
-**What Makes It Special**:
-- Fixed authentication deadlock that plagued others
-- Implemented full D100 combat system
+**Development Goals**:
+- Fix authentication issues
+- Implement full D100 combat system
 - Cross-platform support via Wine
 - Plugin architecture for expansion
-- **IT ACTUALLY WORKS**
+- **OPEN SOURCE FOREVER**
 
 [**Run This Server →**](eden-reborn-success.md)
 
@@ -107,20 +108,20 @@ But the journey here was long, and every attempt taught us something.
 
 ## 📊 Feature Comparison Matrix
 
-| Feature | HD Enhanced | Reality (Old) | HDS v1 | GenesisSharp |
+| Feature | Eden Reborn (WIP) | Reality (Old) | HDS v1 | GenesisSharp |
 |---------|-------------|---------------|---------|--------------|
 | **Core Systems** |
-| Login | ✅ Perfect | ✅ Working | ✅ Working | ⚠️ Basic |
-| Movement | ✅ Smooth | ✅ Working | ✅ Working | ❌ Broken |
-| Combat | ✅ **FULL D100** | ⚠️ Basic | ⚠️ One-hit | ❌ None |
+| Login | 🚧 Planned | ✅ Working | ✅ Working | ⚠️ Basic |
+| Movement | 🚧 Planned | ✅ Working | ✅ Working | ❌ Broken |
+| Combat | 🚧 **Goal: D100** | ❌ None | ❌ None | ❌ None |
 | **Content** |
-| Missions | ✅ Enhanced | ⚠️ Partial | ⚠️ Partial | ❌ None |
-| NPCs | ✅ Full AI | ✅ Basic | ⚠️ Buggy | ❌ None |
-| World | ✅ Complete | ✅ Complete | ✅ Complete | ⚠️ Partial |
+| Missions | 🚧 Planned | ⚠️ Partial | ⚠️ Partial | ❌ None |
+| NPCs | 🚧 Planned | ✅ Basic | ⚠️ Buggy | ❌ None |
+| World | 🚧 Planned | ✅ Complete | ✅ Complete | ⚠️ Partial |
 | **Systems** |
-| Chat | ✅ XMPP | ✅ Basic | ✅ Basic | ❌ None |
-| Database | ✅ Optimized | ✅ MySQL | ✅ MySQL | ✅ MySQL |
-| Plugins | ✅ **Yes** | ❌ No | ❌ No | ❌ No |
+| Chat | 🚧 XMPP Goal | ✅ Basic | ✅ Basic | ❌ None |
+| Database | 🚧 MySQL | ✅ MySQL | ✅ MySQL | ✅ MySQL |
+| Plugins | 🚧 **Planned** | ❌ No | ❌ No | ❌ No |
 
 ## 🔮 The Philosophical Differences
 
