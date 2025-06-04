@@ -67,9 +67,9 @@ Start here: [Technical Documentation](03-technical/index.md)
 ## 🎯 Current Status
 
 ### ✅ Major Achievements
-- **June 3, 2025**: Eden Reborn project launched with comprehensive documentation
+- **June 3, 2025**: Eden Reborn project documentation and planning phase launched
 - Complete technical documentation for MXO file formats and protocols  
-- 186+ wiki pages covering all aspects of MXO preservation and development
+- 190+ wiki pages covering all aspects of MXO preservation and development
 - Cross-platform development resources and guides
 - Active community development and collaboration
 
@@ -132,7 +132,7 @@ Read the full [Neoologist Manifesto](00-manifesto/neoologist-manifesto.md)
 
 ## 📊 Wiki Stats
 
-- **Total Pages**: 186+ comprehensive documents
+- **Total Pages**: 190+ comprehensive documents
 - **File Formats Documented**: 8+ complete specifications  
 - **Tools Catalogued**: 20+ (lost and found)
 - **Story Chapters**: Complete 4-act saga
