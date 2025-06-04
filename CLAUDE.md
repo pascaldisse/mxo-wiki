@@ -370,3 +370,33 @@ This wiki is not just documentation - it's a living manifesto for game liberatio
 
 *Last Updated: December 2024 - Comprehensive Wiki Check Complete*  
 *Next Priority: Directory consolidation and duplicate removal*
+
+---
+
+## Session Update (December 2024 - MOMS Documentation)
+
+### Tasks Completed
+1. **Updated MOMS References**:
+   - Corrected "moms-enhanced" to "MOMS" in available-tools-catalog.md
+   - Updated repository link to https://github.com/pascaldisse/moms
+   - Changed developer from "codejunky" to "pascaldisse"
+
+2. **Created New Documentation**:
+   - Created comprehensive MOMS documentation page (moms-matrix-online-modding-suite.md)
+   - Added detailed technical documentation, usage guides, and development roadmap
+   - Included installation, building, and contribution instructions
+
+3. **Updated Navigation**:
+   - Added MOMS page to 04-tools-modding/index.md
+   - Updated _Sidebar.md to include MOMS in tools section
+
+### MOMS Project Details
+- **Full Name**: Matrix Online Modding Suite
+- **Repository**: https://github.com/pascaldisse/moms
+- **Status**: Active Development (v0.1.x)
+- **Purpose**: View, extract, and convert MXO game assets
+- **Key Features**: PROP/MOA viewing, texture display, OBJ/FBX export
+
+---
+
+*Last Updated: December 2024 - MOMS Documentation Added*

@@ -84,7 +84,7 @@ software_dependencies:
 ### Step 1: Repository Setup
 ```bash
 # Clone the enhanced server repository
-git clone https://github.com/codejunky/mxo-hd-enhanced.git
+git clone https://github.com/pascaldisse/mxo-hd-enhanced.git
 cd mxo-hd-enhanced
 
 # Verify all files present

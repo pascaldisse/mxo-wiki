@@ -72,6 +72,13 @@ Comprehensive masterplan for systematic recreation of all lost Matrix Online too
 
 Live catalog of what tools currently exist, their status, and where to find them.
 
+#### [MOMS - Matrix Online Modding Suite](moms-matrix-online-modding-suite.md)
+**Status**: 🟡 Active Development  
+**Priority**: Essential Tool  
+**Impact**: Model viewing and asset extraction  
+
+Comprehensive modding suite for viewing and converting Matrix Online game assets. Key tool for content preservation and modification.
+
 ### 🟢 Specialized Guides
 
 #### [AI-Assisted Development Advanced](ai-assisted-development-advanced.md)

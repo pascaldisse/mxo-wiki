@@ -245,5 +245,5 @@ class WikiLinkValidator:
         print(f"\n💾 Detailed report saved to: {report_path}")
 
 if __name__ == "__main__":
-    validator = WikiLinkValidator("/Users/pascaldisse/mxoemu_forum_scrape/wiki")
+    validator = WikiLinkValidator("/mxo/forum_scrape/wiki")
     validator.run_validation()

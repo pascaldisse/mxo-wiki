@@ -43,13 +43,13 @@ parser.generate_navmesh("downtown_nav.nav")
 
 **Liberation Impact**: Understanding world structure enables custom content.
 
-### 2. MOMS Enhanced (Matrix Online Model Suite)
+### 2. MOMS (Matrix Online Modding Suite)
 **Status**: 🟡 FUNCTIONAL WITH LIMITATIONS  
-**Developer**: codejunky (2025 enhancement)  
+**Developer**: pascaldisse (2025 development)  
 **Language**: C++/Python  
 **License**: MIT  
 
-**Repository**: [https://github.com/codejunky/moms-enhanced](https://github.com/codejunky/moms-enhanced) *(Community fork)*
+**Repository**: [https://github.com/pascaldisse/moms](https://github.com/pascaldisse/moms)
 
 **What It Does**:
 - Views .prop and .moa files
@@ -64,8 +64,8 @@ parser.generate_navmesh("downtown_nav.nav")
 
 **Building**:
 ```bash
-git clone https://github.com/codejunky/moms-enhanced
-cd moms-enhanced
+git clone https://github.com/pascaldisse/moms
+cd moms
 mkdir build && cd build
 cmake ..
 make
@@ -291,7 +291,7 @@ docker run -it -v $(pwd):/workspace edenreborn/mxo-build
 **Language**: Python  
 **License**: Public Domain  
 
-**Repository**: [https://gist.github.com/mxo-tools/file-organizer](https://gist.github.com/mxo-tools/file-organizer)
+**Repository**: [File Organizer Gist](https://github.com/mxo-community/tools) *(Community tools collection)*
 
 **What It Does**:
 - Organizes extracted game files

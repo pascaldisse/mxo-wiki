@@ -11,7 +11,7 @@ from pathlib import Path
 def analyze_link_issues():
     """Analyze the link validation results and map to actual file structure."""
     
-    wiki_root = Path("/Users/pascaldisse/mxoemu_forum_scrape/wiki")
+    wiki_root = Path("/mxo/forum_scrape/wiki")
     
     # Load validation results
     with open(wiki_root / "link_validation_results.json") as f:

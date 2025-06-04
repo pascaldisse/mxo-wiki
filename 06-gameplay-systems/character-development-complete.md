@@ -732,4 +732,4 @@ This comprehensive character development system provides the foundation for crea
 
 ---
 
-[← Back to Gameplay](index.md) | [Mission System →](mission-system-complete.md) | [Combat System →](../03-technical/combat-system-analysis.md)
+[← Back to Gameplay](index.md) | [Mission System →](../05-game-content/mission-system-complete.md) | [Combat System →](../03-technical/combat-system-analysis.md)

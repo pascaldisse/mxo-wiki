@@ -34,6 +34,8 @@
 - [Combat Implementation](03-technical/combat-implementation-guide)
 
 ## [🛠️ Tools & Modding](04-tools-modding/index)
+- [Available Tools Catalog](04-tools-modding/available-tools-catalog)
+- [MOMS Modding Suite](04-tools-modding/moms-matrix-online-modding-suite)
 - [Lost Tools Archive](04-tools-modding/lost-tools-archive)
 - [Tool Development Guide](04-tools-modding/tool-development-guide)
 - [CNB Viewer Development](04-tools-modding/cnb-viewer-development)
