@@ -28,9 +28,9 @@ The sources directory mirrors the wiki structure:
 - Game Files: Client and server binaries
 
 ## Coverage Statistics
-- Total Pages: 34
-- Fully Sourced: 0 (0%)
+- Total Pages: 76
+- Fully Sourced: 6 (8%)
 - Partially Sourced: 0 (0%)
-- Needs Sources: 34 (100%)
+- Needs Sources: 70 (92%)
 
 Last Updated: December 2024

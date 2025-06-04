@@ -71,7 +71,7 @@
 - [Wiki Progress](WIKI_PROGRESS)
 - [Task List](NEOOLOGIST_WIKI_TASK_LIST)
 - [Claude Status](CLAUDE)
-- [Eden Reborn Status](/EDEN_REBORN_STATUS)
+- [Eden Reborn Status](../EDEN_REBORN_STATUS)
 
 ---
 

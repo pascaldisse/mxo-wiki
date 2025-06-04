@@ -10,7 +10,7 @@ On June 3, 2025, Eden Reborn project began - a new Matrix Online server developm
 **This page documents our DEVELOPMENT GOALS and PLANNED FEATURES.**
 
 ### 🚧 IMPORTANT: Everything Below Represents Future Goals
-Eden Reborn is in early development. Features, statistics, and capabilities described are our targets, not current functionality. See [EDEN_REBORN_STATUS.md](/EDEN_REBORN_STATUS.md) for current progress.
+Eden Reborn is in early development. Features, statistics, and capabilities described are our targets, not current functionality. See [EDEN_REBORN_STATUS.md](../../EDEN_REBORN_STATUS.md) for current progress.
 
 ## 🎯 What We're Building
 
@@ -191,4 +191,4 @@ The Matrix Online is no longer just a memory. It's a living, breathing world aga
 
 ---
 
-[← Back to Server Setup](index.md) | [Quick Start Guide →](eden-quickstart.md) | [Technical Details →](eden-technical.md)
+[← Back to Server Setup](index.md) | [Server Comparison →](server-projects-comparison.md) | [Setup Guide →](mxoemu-setup.md)
