@@ -1,73 +1,81 @@
-# Combat System: IDA Pro Analysis Plan
-**Research Roadmap for Eden Reborn Combat Implementation**
+# 🚧 RESEARCH ROADMAP: IDA Pro Combat Analysis Plan
+**Proposed Methodology for Eden Reborn Development**
 
 > *"I know kung fu." - "Show me."*
 
-## 🔬 PROPOSED: Binary Analysis Methodology
+## ⚠️ IMPORTANT: This is a RESEARCH PLAN, Not Completed Analysis
 
-This document outlines our planned approach for reverse engineering the combat system using IDA Pro analysis on `client.dll`. This research will guide Eden Reborn's combat implementation.
+This document outlines our **PLANNED APPROACH** for reverse engineering the combat system. All memory addresses, code snippets, and technical details below represent:
+- **Research goals** for Eden Reborn development
+- **Expected patterns** based on community knowledge
+- **Proposed methodology** for future analysis
+- **NOT actual completed IDA Pro work**
 
-### ⚠️ STATUS: Research Planning Phase
-The analysis described below represents our methodology and expected findings based on community knowledge and preliminary investigation.
+### 📋 Document Status: PLANNING PHASE
+Everything below is our roadmap for understanding and implementing combat in Eden Reborn.
 
-## 📊 The Numbers
+## 📊 Expected Research Targets
 
 ```
-Total Combat Strings Found: 1,035
-Combat Functions Identified: 147
-Packet Opcodes Decoded: 6 (0x0A - 0x0F)
-Memory Addresses Mapped: 200+
-Status: RESEARCH PLANNED 🚧
+Combat Strings to Find: ~1,000+ (estimate)
+Combat Functions to Map: Unknown
+Packet Opcodes to Decode: 6+ expected
+Memory Addresses to Map: Many
+Status: PLANNING RESEARCH 🚧
 ```
 
 ## 🎯 Expected Research Areas
 
-### D100 System Confirmed
+### D100 System (Research Target)
 
-**Function**: `getTacticRoll`  
-**Address**: `0x8D8395`  
+**Target Function**: `getTacticRoll` (hypothetical)  
+**Address**: TBD through analysis  
 **Purpose**: Core dice roll calculation
 
 ```cpp
-// Decompiled logic
+// PROPOSED implementation based on D100 mechanics:
 int getTacticRoll(int tacticBonus, int stanceModifier) {
     int roll = rand() % 100 + 1;  // D100 roll
     return roll + tacticBonus + stanceModifier;
 }
+// NOTE: This is our implementation goal, not decompiled code
 ```
 
-### Combat Packet Structure
+### Expected Combat Packet Structure
 
 ```c
+// PROPOSED packet structure for implementation:
 struct CombatActionPacket {
-    uint16_t opcode;        // 0x0A for combat action
+    uint16_t opcode;        // Expected: combat action opcode
     uint16_t length;        // Packet size
     uint32_t source_id;     // Attacker GameObject ID
     uint32_t target_id;     // Target GameObject ID
-    uint16_t ability_id;    // From abilityIDs.csv
-    uint8_t  action_type;   // 0=Melee, 1=Ranged, 2=Ability
-    uint8_t  stance;        // 0=Speed, 1=Power, 2=Grab, 3=Block
+    uint16_t ability_id;    // Reference to ability system
+    uint8_t  action_type;   // Combat type flags
+    uint8_t  stance;        // Stance selection
     float    position[3];   // World coordinates
     uint32_t timestamp;     // Server sync
 };
+// NOTE: Structure to be verified through packet analysis
 ```
 
-## 🥊 Combat Flow Decoded
+## 🥊 Proposed Combat Flow (Research Goals)
 
-### 1. Interlock Initiation
-**Function**: `requestInterlock`  
-**Address**: `0x8D7F20`
+### 1. Interlock Initiation (To Research)
+**Target Function**: `requestInterlock` (name TBD)  
+**Address**: To be discovered
 ```
-Player → Server: REQUEST_INTERLOCK (0x0A)
-Server → Players: INTERLOCK_STARTED (0x0B)
+Expected flow:
+Player → Server: REQUEST_INTERLOCK
+Server → Players: INTERLOCK_STARTED
 ```
 
-### 2. Action Selection
-**Function**: `selectCombatAction`  
-**Address**: `0x8D8120`
-- Player chooses ability/stance
-- Client validates prerequisites
-- Sends to server for resolution
+### 2. Action Selection (To Research)
+**Target Function**: `selectCombatAction` (name TBD)  
+**Address**: To be discovered
+- Research how player selects abilities
+- Understand client validation
+- Map server communication
 
 ### 3. Roll Resolution
 **Server-side** (reconstructed from packet analysis):
@@ -87,20 +95,22 @@ Server → All: COMBAT_RESULT (0x0C)
 - Animation triggers
 ```
 
-## 💫 Status Effects System
+## 💫 Status Effects System (Research Target)
 
-### All 8 Effects Located
+### Expected Effects to Find
 
-| Effect | Memory Address | Duration | Stack |
+| Effect | Research Goal | Expected Duration | Stack |
 |--------|---------------|----------|--------|
-| Stun | 0x8D9A10 | 2-5 sec | No |
-| Slow | 0x8D9A18 | 5-10 sec | Yes |
-| Confuse | 0x8D9A20 | 3-8 sec | No |
-| Blind | 0x8D9A28 | 5-15 sec | No |
-| Root | 0x8D9A30 | 2-6 sec | No |
-| DOT | 0x8D9A38 | Variable | Yes |
-| Buff | 0x8D9A40 | 30-300 sec | Yes |
-| Debuff | 0x8D9A48 | 10-60 sec | Yes |
+| Stun | Find implementation | 2-5 sec | No |
+| Slow | Find implementation | 5-10 sec | Yes |
+| Confuse | Find implementation | 3-8 sec | No |
+| Blind | Find implementation | 5-15 sec | No |
+| Root | Find implementation | 2-6 sec | No |
+| DOT | Find implementation | Variable | Yes |
+| Buff | Find implementation | 30-300 sec | Yes |
+| Debuff | Find implementation | 10-60 sec | Yes |
+
+*Memory addresses to be discovered through analysis*
 
 ## 🎮 Combat States
 
@@ -235,18 +245,22 @@ This knowledge was locked away, hidden in binary. The Old Guard would have kept 
 
 ---
 
-### Tools Used
-- IDA Pro 7.6
+### Tools Planned for Research
+- IDA Pro (when available)
 - Binary analysis scripts
-- Pattern recognition
-- Community knowledge
-- Determination
+- Pattern recognition techniques
+- Community knowledge gathering
+- Collaborative analysis
 
-### Next Steps
-- Implement in HD Enhanced
-- Create combat tutorials
-- Build training simulators
-- Expand the system
+### Research Roadmap
+1. Acquire necessary tools
+2. Begin client.dll analysis
+3. Document actual findings
+4. Implement in Eden Reborn
+5. Test and refine
+
+## ⚠️ REMINDER
+This entire document represents our RESEARCH PLAN for Eden Reborn development. No actual IDA Pro analysis has been completed yet. All technical details are hypothetical targets based on community knowledge of the D100 combat system.
 
 ---
 

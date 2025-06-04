@@ -18,17 +18,17 @@ Every server attempt has contributed to our understanding.
 ### The Liberation Project
 **Based on**: Forking Hardline Dreams and MXOEmu
 **Developer**: Pascal Disse  
-**Status**: 🚧 **WORK IN PROGRESS**
-**Started**: June 3, 2025
+**Status**: 🚧 **EARLY DEVELOPMENT - WORK IN PROGRESS**
+**Started**: June 3, 2025 (Project inception)
 
-**Development Goals**:
-- Fix authentication issues
-- Implement full D100 combat system
-- Cross-platform support via Wine
-- Plugin architecture for expansion
-- **OPEN SOURCE FOREVER**
+**Development Goals** (Not Yet Implemented):
+- ⏳ Fix authentication issues
+- ⏳ Implement full D100 combat system
+- ⏳ Cross-platform support via Wine
+- ⏳ Plugin architecture for expansion
+- ⏳ **OPEN SOURCE FOREVER**
 
-[**Run This Server →**](eden-reborn-success.md)
+[**Learn About This Project →**](eden-reborn-success.md)
 
 ## 📜 The History: Every Attempt Mattered
 
@@ -108,20 +108,21 @@ Every server attempt has contributed to our understanding.
 
 ## 📊 Feature Comparison Matrix
 
-| Feature | Eden Reborn (WIP) | Reality (Old) | HDS v1 | GenesisSharp |
+| Feature | Eden Reborn | Reality (Old) | HDS v1 | GenesisSharp |
 |---------|-------------|---------------|---------|--------------|
 | **Core Systems** |
-| Login | 🚧 Planned | ✅ Working | ✅ Working | ⚠️ Basic |
-| Movement | 🚧 Planned | ✅ Working | ✅ Working | ❌ Broken |
-| Combat | 🚧 **Goal: D100** | ❌ None | ❌ None | ❌ None |
+| Login | 🚧 Planning | ✅ Working | ✅ Working | ⚠️ Basic |
+| Movement | 🚧 Planning | ✅ Working | ✅ Working | ❌ Broken |
+| Combat | 🚧 **Research Phase** | ❌ None | ❌ None | ❌ None |
 | **Content** |
-| Missions | 🚧 Planned | ⚠️ Partial | ⚠️ Partial | ❌ None |
-| NPCs | 🚧 Planned | ✅ Basic | ⚠️ Buggy | ❌ None |
-| World | 🚧 Planned | ✅ Complete | ✅ Complete | ⚠️ Partial |
+| Missions | 🚧 Future Goal | ⚠️ Partial | ⚠️ Partial | ❌ None |
+| NPCs | 🚧 Future Goal | ✅ Basic | ⚠️ Buggy | ❌ None |
+| World | 🚧 Future Goal | ✅ Complete | ✅ Complete | ⚠️ Partial |
 | **Systems** |
-| Chat | 🚧 XMPP Goal | ✅ Basic | ✅ Basic | ❌ None |
-| Database | 🚧 MySQL | ✅ MySQL | ✅ MySQL | ✅ MySQL |
-| Plugins | 🚧 **Planned** | ❌ No | ❌ No | ❌ No |
+| Chat | 🚧 Designing | ✅ Basic | ✅ Basic | ❌ None |
+| Database | 🚧 Planning | ✅ MySQL | ✅ MySQL | ✅ MySQL |
+| Plugins | 🚧 Architecture Design | ❌ No | ❌ No | ❌ No |
+| **Status** | **IN DEVELOPMENT** | Historical | Base for Eden | Abandoned |
 
 ## 🔮 The Philosophical Differences
 
@@ -142,20 +143,20 @@ Every server attempt has contributed to our understanding.
 
 ## 🎯 Choosing Your Path
 
-### For Players
-**The Answer is Clear**: HD Enhanced (Eden Reborn)
-- It works. Completely.
-- Combat functions
-- Stable and smooth
-- Active development
-- Community supported
+### For Players Today
+**Current Options**: HD or MXOEmu
+- Basic functionality works
+- No combat yet
+- Movement and chat functional
+- Limited content
+- Eden Reborn coming in future
 
 ### For Developers
 **Study Everything**:
-1. **Run HD Enhanced** - See perfection
+1. **Run HD/MXOEmu** - See current state
 2. **Study Original Reality** - Learn foundations
 3. **Examine GenesisSharp** - Understand pitfalls
-4. **Contribute to Eden** - Build the future
+4. **Contribute to Eden Reborn** - Help build the future
 
 ### For Historians
 **Preserve All Attempts**:
@@ -181,10 +182,10 @@ Every server attempt has contributed to our understanding.
 ## 🚀 The Future Path
 
 ### Current Development
-- **HD Enhanced**: Adding features daily
+- **Eden Reborn**: Planning and research phase
 - **Tool Recreation**: CNB viewer priority
 - **Documentation**: This wiki grows
-- **Community**: Expanding constantly
+- **Community**: Building support
 
 ### Next Horizons
 - Modern graphics upgrades
@@ -219,19 +220,19 @@ Every failure contributed:
 
 There is no "perfect" server. There is only the server we build together.
 
-HD Enhanced succeeded because:
-- We shared instead of hoarded
-- We released instead of perfected
-- We included instead of excluded
-- We persisted instead of quit
+Eden Reborn will succeed because:
+- We share instead of hoard
+- We document everything
+- We include everyone
+- We persist through challenges
 
-**The best server is the one that exists.**
+**The best server is the one we're building together.**
 
 ---
 
-### Join the Winner
-Eden Reborn awaits. HD Enhanced runs NOW.
+### Join the Journey
+Eden Reborn is in development. Existing servers work TODAY.
 
-**Your Matrix. Your rules. Your paradise.**
+**The future Matrix. Built by all of us.**
 
 [Setup HD Enhanced →](hardline-dreams-setup.md) | [Read Success Story →](eden-reborn-success.md) | [Contribute →](../08-community/join-the-resistance.md)

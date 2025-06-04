@@ -60,39 +60,39 @@ Admin Console:  localhost:55557 (planned)
 Status:         🚧 UNDER DEVELOPMENT
 ```
 
-## 🎮 Player Experience Restored
+## 🎮 Planned Player Experience
 
-### You Can Now:
-- Launch the original Matrix Online client
-- Connect to your own private server
-- Create characters and explore the full world
-- Experience enhanced combat and missions
-- Use the complete chat system
-- Access GM commands for content creation
+### What We're Building Towards:
+- ⏳ Launch the original Matrix Online client
+- ⏳ Connect to Eden Reborn server
+- ⏳ Create characters and explore
+- ⏳ Full combat system (major goal)
+- ⏳ Complete chat integration
+- ⏳ GM tools for content creation
 
-### The Complete Package
+### Future Setup Process (PLANNED)
 ```bash
-# Simple as:
-1. Start enhanced server
-2. Launch HDS.exe
+# Goal:
+1. Start Eden Reborn server
+2. Launch patched client
 3. Click "Start Game"
-4. Welcome to Eden Reborn
+4. Enter the Matrix
 ```
 
 ## 📜 The Journey Here
 
-### From Dream to Reality
-- **Years of Reverse Engineering**: By rajkosto and community
-- **Hardline Dreams Foundation**: By pahefu and neowhoru
-- **Binary Analysis**: IDA Pro combat decoding
-- **Community Persistence**: Never giving up hope
-- **June 3 Breakthrough**: Everything came together
+### Building on History
+- **Years of Research**: Learning from rajkosto and community
+- **HD/MXOEmu Foundation**: Forking existing codebases
+- **Planned Analysis**: IDA Pro combat research goals
+- **Community Support**: Open development approach
+- **June 3, 2025**: Project inception date
 
-### Key Victories
-1. **Binary Patching Success**: Redirected all server calls
-2. **IL Injection**: Added logging to .NET assemblies
-3. **Combat Decoded**: 1,035 strings analyzed
-4. **Database Connected**: Full game world accessible
+### Development Milestones (PLANNED)
+1. **Binary Patching**: Will redirect server calls to localhost
+2. **Logging System**: Planning comprehensive debugging
+3. **Combat Research**: Studying D100 system implementation
+4. **Database Design**: Planning optimized world loading
 
 ## 🌟 What This Means
 
@@ -183,9 +183,9 @@ The Matrix Online is no longer just a memory. It's a living, breathing world aga
 
 ## Join the Revolution
 
-**Server Status**: 🟢 OPERATIONAL  
-**Players Online**: The future is yours  
-**Next Event**: Whenever you choose  
+**Server Status**: 🚧 IN DEVELOPMENT  
+**Target Launch**: When it's ready  
+**Development**: Active and ongoing  
 
 *"There is no spoon" - but there IS a server, and it's beautiful.*
 
