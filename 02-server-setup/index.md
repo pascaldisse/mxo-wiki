@@ -80,24 +80,24 @@ Alternative implementation by pahefu and neowhoru with active development.
 - [MXOEmu Complete Setup](mxoemu-setup.md)
 - [Hardline Dreams Setup](hardline-dreams-setup.md)
 - [Database Configuration](database-setup.md)
-- [Network Requirements](network-setup.md)
+- [Network Setup](network-setup.md)
 
 ### Client Configuration
 - [Client Patching Guide](client-patches.md)
-- [Launcher Configuration](launcher-setup.md)
-- [Connection Troubleshooting](connection-issues.md)
+- [Server Setup Comparison](server-projects-comparison.md)
+- [Troubleshooting Guide](troubleshooting.md)
 
 ### Administration
-- [GM Commands Reference](gm-commands.md)
-- [Server Monitoring](monitoring.md)
-- [Backup Strategies](backup-guide.md)
-- [Performance Tuning](performance.md)
+- [Server Administration Guide](../04-tools-modding/index.md)
+- [Database Management](database-setup.md)
+- [Tools & Development](../04-tools-modding/tool-development-guide.md)
+- [Available Tools Catalog](../04-tools-modding/available-tools-catalog.md)
 
 ### Advanced Topics
-- [Custom Content](custom-content.md)
-- [Scripting System](scripting.md)
-- [Database Queries](database-queries.md)
-- [Development Setup](development.md)
+- [Technical Documentation](../03-technical-docs/index.md)
+- [File Formats Reference](../03-technical-docs/file-formats/index.md)
+- [Combat Implementation](../06-gameplay-systems/combat/index.md)
+- [Tool Development](../04-tools-modding/tool-development-guide.md)
 
 ## 💻 System Requirements
 
@@ -189,19 +189,19 @@ mysqldump -u root -p mxodb > backup_%date%.sql
 
 ### Documentation
 - [File Format Reference](../03-technical-docs/file-formats/index.md)
-- [Network Protocol Docs](../03-technical-docs/network-protocol.md)
-- [Database Schema](../03-technical-docs/database-schema.md)
+- [Server Architecture](../03-technical/server-architecture.md)
+- [Technical Overview](../03-technical-docs/index.md)
 
 ### Tools
-- [Server Admin Tools](../04-tools-modding/admin-tools.md)
-- [Development Tools](../04-tools-modding/dev-tools.md)
-- [Monitoring Solutions](../04-tools-modding/monitoring.md)
+- [Available Tools Catalog](../04-tools-modding/available-tools-catalog.md)
+- [Tool Development Guide](../04-tools-modding/tool-development-guide.md)
+- [Lost Tools Archive](../04-tools-modding/lost-tools-archive.md)
 
 ### Support
 - [FAQ](faq.md)
-- [Known Issues](known-issues.md)
-- [Discord](https://discord.gg/3QXTAGB9)
 - [Troubleshooting Guide](troubleshooting.md)
+- [Community Resources](../08-community/index.md)
+- [Discord](https://discord.gg/3QXTAGB9)
 
 ## 🎯 Next Steps
 
