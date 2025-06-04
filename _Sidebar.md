@@ -21,10 +21,10 @@
 
 ## [🔧 Technical Docs](03-technical/index)
 - **File Formats**
-  - [Overview](03-technical/file-formats/index)
-  - [PKB Archives 🔴](03-technical/file-formats/pkb-archives)
-  - [CNB Format 🔴](03-technical/file-formats/cnb-format)
-  - [PROP Format Complete](03-technical/file-formats/prop-format-complete)
+  - [Overview](03-technical/file-formats)
+  - [PKB Archives 🔴](03-technical/pkb-archives)
+  - [CNB Format 🔴](03-technical/cnb-format)
+  - [PROP Format Complete](03-technical/prop-format-complete)
 
 ## [💻 Technical Deep Dives](03-technical/index)
 - [File Formats Complete](03-technical/file-formats-complete)
@@ -72,7 +72,7 @@
 - [Wiki Progress](WIKI_PROGRESS)
 - [Task List](NEOOLOGIST_WIKI_TASK_LIST)
 - [Claude Status](CLAUDE)
-- [Eden Reborn Status](../EDEN_REBORN_STATUS)
+- [Eden Reborn Project](02-server-setup/eden-reborn-success)
 
 ---
 
