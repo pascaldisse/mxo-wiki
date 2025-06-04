@@ -28,6 +28,13 @@ Welcome to the complete preservation of The Matrix Online's story and content. T
 
 The definitive documentation of The Matrix Online's 4-act story, including all major plot points, character development, and world-changing events.
 
+#### [Factions: The Paradise War](factions/index.md)
+**Status**: 🚧 Planned for Eden Reborn  
+**Priority**: Future Content  
+**Impact**: Revolutionary faction system expansion  
+
+New faction system exploring consciousness, identity, and paradise through The Overseers, Neoologists, and Sovereignty Movement.
+
 #### [Story Preservation Guide](story-preservation-guide.md)
 **Status**: ✅ Complete  
 **Priority**: For Contributors  

@@ -43,6 +43,7 @@
 
 ## [📖 Game Content](05-game-content/index)
 - [The MXO Saga](05-game-content/story/the-matrix-online-saga)
+- [Factions: Paradise War](05-game-content/factions/index)
 
 ## [⚔️ Gameplay Systems](06-gameplay-systems/index)
 - [🚧 IDA Pro Analysis Plan](06-gameplay-systems/combat/ida-pro-analysis)

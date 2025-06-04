@@ -128,6 +128,15 @@ Status:         🚧 UNDER DEVELOPMENT
 - Expanded world areas
 - New gameplay systems
 
+### 🔮 Revolutionary Content: The Paradise War
+Eden Reborn will introduce groundbreaking new factions that explore consciousness, identity, and the nature of paradise:
+
+- **[The Overseers](../05-game-content/factions/new-factions-paradise-war.md#-the-overseers)** - Collective consciousness through human-AI merger
+- **[The Neoologists](../05-game-content/factions/new-factions-paradise-war.md#-the-neoologists)** - Individual transcendence while preserving identity
+- **[Sovereignty Movement](../05-game-content/factions/new-factions-paradise-war.md#️-the-resistance-coalition)** - Cross-species alliance defending individual consciousness
+
+These factions will introduce new gameplay mechanics like conversion attempts, identity strength systems, and philosophical choice consequences that fundamentally expand Matrix Online's storytelling possibilities.
+
 ## 🙏 Credits & Recognition
 
 ### The Liberators

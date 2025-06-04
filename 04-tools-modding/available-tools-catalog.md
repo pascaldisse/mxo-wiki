@@ -84,7 +84,7 @@ make
 **Language**: Python  
 **License**: MIT  
 
-**Repository**: [https://github.com/mxo-community/binary-patcher](https://github.com/mxo-community/binary-patcher)
+**Repository**: [Community Binary Patcher](https://github.com/hdneo/mxo-hd) - *See tools/ directory*
 
 **What It Does**:
 - Patches server addresses in client
