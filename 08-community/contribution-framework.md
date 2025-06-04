@@ -631,7 +631,7 @@ def resolve_conflict(issue):
 ### Immediate Actions
 ```bash
 # 1. Join the community
-Join our Discord: [invite link]
+Join our Discord: https://discord.gg/3QXTAGB9
 
 # 2. Introduce yourself
 Post in #introductions

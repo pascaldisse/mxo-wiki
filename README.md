@@ -99,7 +99,7 @@ See [Contributing Guide](08-community/contribute.md) for details.
 - [Original MXOEmu](https://github.com/rajkosto/mxoemu)
 
 ### Community
-- Discord: [Join the Resistance](08-community/join-the-resistance.md)
+- Discord: [Join Eden Reborn Discord](https://discord.gg/3QXTAGB9)
 - Forums: Community-run (ask in Discord)
 - Reddit: r/MatrixOnline
 

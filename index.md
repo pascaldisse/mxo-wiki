@@ -269,6 +269,18 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 4. Document in CLAUDE.md
 5. Consider priority changes
 
+## 🌐 Join the Community
+
+### Eden Reborn Discord
+**🔗 [Join us on Discord](https://discord.gg/3QXTAGB9)**
+
+Connect with other redpills:
+- Development discussions
+- Server support
+- Tool collaboration
+- Event coordination
+- Story preservation
+
 ## 🌟 The Index Teaches
 
 This index is more than navigation - it's a map of our liberation. Every page represents defiance against corporate death. Every guide enables freedom.

@@ -17,7 +17,7 @@ You're here because you know something. What you know you can't explain, but you
 - Event coordination
 - Voice chat for raids
 
-*Note: We respect operational security. Ask in public channels for invites.*
+**🔗 [Join Eden Reborn Discord](https://discord.gg/3QXTAGB9)**
 
 ### GitHub Organizations
 **The Code Repositories**

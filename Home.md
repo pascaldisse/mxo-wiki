@@ -111,7 +111,7 @@ This wiki contains:
 - [Database Schema](database-setup)
 
 ### Community
-- [Discord Server](discord)
+- [Discord Server](https://discord.gg/3QXTAGB9)
 - [Contributing](contributing)
 - [Contact Team](contact)
 - [FAQ](faq)
