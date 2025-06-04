@@ -2,7 +2,7 @@
 **The Comprehensive Resource for MXO Liberation**
 
 > ### 🚧 **EDEN REBORN PROJECT IN DEVELOPMENT**
-> **[Read the Development Status →](02-server-setup/eden-reborn-success)**  
+> **[Read the Development Status →](02-server-setup/eden-reborn-success.md)**  
 > *June 3, 2025: Eden Reborn project launched - comprehensive MXO revival in active development*
 >
 Welcome to Eden Reborn - where The Matrix Online lives again, free from corporate control.
@@ -17,24 +17,24 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 
 ### 🎮 For Players
 **Get into the Matrix in 30 minutes**
-- [Download Client](01-getting-started/index)
-- [Patch for Private Servers](02-server-setup/client-patches)
-- [Getting Started Guide](01-getting-started/index)
-- [Server Setup](02-server-setup/index)
+- [Download Client](01-getting-started/index.md)
+- [Patch for Private Servers](02-server-setup/client-patches.md)
+- [Getting Started Guide](01-getting-started/index.md)
+- [Server Setup](02-server-setup/index.md)
 
-[**Start Here →**](01-getting-started/index)
+[**Start Here →**](01-getting-started/index.md)
 
 </td>
 <td width="50%">
 
 ### 🖥️ For Server Operators
 **Run your own Matrix**
-- [Server Setup Guide](02-server-setup/index)
-- [MXOEmu Setup](02-server-setup/mxoemu-setup)
-- [Hardline Dreams Setup](02-server-setup/hardline-dreams-setup)
-- [Database Setup](02-server-setup/database-setup)
+- [Server Setup Guide](02-server-setup/index.md)
+- [MXOEmu Setup](02-server-setup/mxoemu-setup.md)
+- [Hardline Dreams Setup](02-server-setup/hardline-dreams-setup.md)
+- [Database Setup](02-server-setup/database-setup.md)
 
-[**Run a Server →**](02-server-setup/index)
+[**Run a Server →**](02-server-setup/index.md)
 
 </td>
 </tr>
@@ -45,15 +45,15 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 ## 📚 Essential Documentation
 
 ### 🔴 Critical Priorities
-1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development)** - Unlock the story cinematics (#1 PRIORITY)
-2. **[PKB Archive Tools](03-technical-docs/file-formats/pkb-archives)** - Recreate reztools for asset extraction
-3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis)** - Complete the D100 system
+1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development.md)** - Unlock the story cinematics (#1 PRIORITY)
+2. **[PKB Archive Tools](03-technical-docs/file-formats/pkb-archives.md)** - Recreate reztools for asset extraction
+3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis.md)** - Complete the D100 system
 
 ### 📖 Popular Pages
-- [Timeline of Liberation](01-getting-started/timeline-of-liberation) - How we got here
-- [The Matrix Online Saga](05-game-content/story/the-matrix-online-saga) - Complete story
-- [Lost Tools Archive](04-tools-modding/lost-tools-archive) - What we need to rebuild
-- [Join the Resistance](08-community/join-the-resistance) - How to contribute
+- [Timeline of Liberation](01-getting-started/timeline-of-liberation.md) - How we got here
+- [The Matrix Online Saga](05-game-content/story/the-matrix-online-saga.md) - Complete story
+- [Lost Tools Archive](04-tools-modding/lost-tools-archive.md) - What we need to rebuild
+- [Join the Resistance](08-community/join-the-resistance.md) - How to contribute
 
 ---
 
@@ -69,7 +69,7 @@ This wiki contains:
 - ✅ Combat system implementation details
 - ✅ Community resources and guides
 
-**Read the [Neoologist Manifesto](00-manifesto/neoologist-manifesto)** to understand our mission.
+**Read the [Neoologist Manifesto](00-manifesto/neoologist-manifesto.md)** to understand our mission.
 
 ---
 
@@ -83,8 +83,8 @@ This wiki contains:
 
 ### How to Help
 1. [Join our Discord](https://discord.gg/3QXTAGB9)
-2. [Read the contribution guide](08-community/contribution-framework)
-3. [Check available tools](04-tools-modding/available-tools-catalog)
+2. [Read the contribution guide](08-community/contribution-framework.md)
+3. [Check available tools](04-tools-modding/available-tools-catalog.md)
 4. Pick a project and dive in!
 
 ---
@@ -105,22 +105,22 @@ This wiki contains:
 ## 🔗 Quick Navigation
 
 ### Technical
-- [File Formats](03-technical-docs/file-formats/index)
-- [Server Architecture](03-technical/server-architecture)
-- [Combat System](06-gameplay-systems/combat/ida-pro-analysis)
-- [Database Setup](02-server-setup/database-setup)
+- [File Formats](03-technical-docs/file-formats/index.md)
+- [Server Architecture](03-technical/server-architecture.md)
+- [Combat System](06-gameplay-systems/combat/ida-pro-analysis.md)
+- [Database Setup](02-server-setup/database-setup.md)
 
 ### Community
 - [Discord Server](https://discord.gg/3QXTAGB9)
-- [Contributing](08-community/contribution-framework)
-- [Join the Resistance](08-community/join-the-resistance)
-- [GitHub Workflow](08-community/github-workflow-standards)
+- [Contributing](08-community/contribution-framework.md)
+- [Join the Resistance](08-community/join-the-resistance.md)
+- [GitHub Workflow](08-community/github-workflow-standards.md)
 
 ### Resources
-- [Wiki Progress](WIKI_PROGRESS)
-- [Tool Development](04-tools-modding/tool-development-guide)
-- [Lost Tools Archive](04-tools-modding/lost-tools-archive)
-- [Tool Status](04-tools-modding/available-tools-catalog)
+- [Wiki Progress](WIKI_PROGRESS.md)
+- [Tool Development](04-tools-modding/tool-development-guide.md)
+- [Lost Tools Archive](04-tools-modding/lost-tools-archive.md)
+- [Tool Status](04-tools-modding/available-tools-catalog.md)
 
 ---
 
@@ -154,7 +154,7 @@ The Matrix Online died in 2009 when corporations pulled the plug. But we refused
 - ✅ **April 2025** - Wiki documentation started
 - ✅ **Community** - Growing Discord and GitHub presence
 
-[View Full Timeline →](01-getting-started/timeline-of-liberation)
+[View Full Timeline →](01-getting-started/timeline-of-liberation.md)
 
 ---
 
@@ -174,4 +174,4 @@ The Matrix Online died in 2009 when corporations pulled the plug. But we refused
 
 ---
 
-[Enter the Wiki →](01-getting-started/index) | [Read the Manifesto →](00-manifesto/neoologist-manifesto) | [Join Us →](08-community/join-the-resistance)
+[Enter the Wiki →](01-getting-started/index.md) | [Read the Manifesto →](00-manifesto/neoologist-manifesto.md) | [Join Us →](08-community/join-the-resistance.md)
