@@ -65,7 +65,7 @@
 
 ## 🔴 Critical Priorities
 1. [CNB Viewer Development](04-tools-modding/cnb-viewer-development)
-2. [PKB Tools](03-technical/file-formats/pkb-archives)
+2. [PKB Tools](03-technical/pkb-archives)
 3. [Combat Research](06-gameplay-systems/combat/ida-pro-analysis)
 
 ## 📊 Project Status

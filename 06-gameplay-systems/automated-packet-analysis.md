@@ -1232,4 +1232,4 @@ With these automated analysis tools, you're not just watching traffic - you're u
 
 ---
 
-[← Gameplay Hub](index.md) | [→ Pattern Recognition](../04-tools-modding/pattern-recognition-binary-guide.md) | [→ Combat Implementation](combat-implementation-guide.md)
+[← Gameplay Hub](index.md) | [→ Pattern Recognition](../04-tools-modding/pattern-recognition-binary-guide.md) | [→ Combat Implementation](../03-technical/combat-implementation-guide.md)

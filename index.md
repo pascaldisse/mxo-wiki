@@ -181,7 +181,7 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 
 ### 🔴 Critical Priorities
 1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development.md)** - Unlock story cinematics
-2. **[PKB Archives](03-technical/file-formats/pkb-archives.md)** - Asset extraction tools
+2. **[PKB Archives](03-technical/pkb-archives.md)** - Asset extraction tools
 3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis.md)** - Core gameplay
 
 ### 📈 Most Popular
@@ -200,13 +200,13 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 
 ### By Topic
 - **Combat**: [IDA Pro Analysis](06-gameplay-systems/combat/ida-pro-analysis.md), [Server Architecture](03-technical/server-architecture.md)
-- **File Formats**: [PKB Archives](03-technical/file-formats/pkb-archives.md), [CNB Format](03-technical/file-formats/cnb-format.md)
+- **File Formats**: [PKB Archives](03-technical/pkb-archives.md), [CNB Format](03-technical/cnb-format.md)
 - **Tools**: [CNB Viewer](04-tools-modding/cnb-viewer-development.md), [Lost Tools](04-tools-modding/lost-tools-archive.md)
 - **Story**: [MXO Saga](05-game-content/story/the-matrix-online-saga.md), [Preservation](05-game-content/story-preservation-guide.md)
 
 ### By Skill Level
 - **Beginners**: [Getting Started](01-getting-started/index.md), [Server Setup](02-server-setup/index.md)
-- **Technical**: [File Formats](03-technical/file-formats/index.md), [Architecture](03-technical/server-architecture.md)
+- **Technical**: [File Formats](03-technical/file-formats.md), [Architecture](03-technical/server-architecture.md)
 - **Advanced**: [Combat Research](06-gameplay-systems/combat/ida-pro-analysis.md), [Tool Development](04-tools-modding/cnb-viewer-development.md)
 
 ### By Project Role

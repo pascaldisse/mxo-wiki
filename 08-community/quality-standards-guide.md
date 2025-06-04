@@ -458,4 +458,4 @@ The best documentation doesn't just inform - it empowers. The best review doesn'
 
 ---
 
-[← Community Hub](index.md) | [→ Contribution Framework](contribution-framework.md) | [→ Documentation Standards](../03-technical/documentation-standards.md)
+[← Community Hub](index.md) | [→ Contribution Framework](contribution-framework.md) | [→ Technical Documentation](../03-technical/index.md)

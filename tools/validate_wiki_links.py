@@ -15,7 +15,7 @@ from datetime import datetime
 
 class WikiLinkValidator:
     def __init__(self, wiki_path):
-        self.wiki_path = Path(wiki_path)
+        self.wiki_path = Path(wiki_path).resolve()
         self.total_files = 0
         self.total_links = 0
         self.working_links = 0
