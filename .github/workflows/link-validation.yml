@@ -1,0 +1,96 @@
+name: Wiki Link Validation
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - '**.md'
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - '**.md'
+  schedule:
+    # Run weekly on Sundays at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Run link validation
+      run: |
+        python tools/validate_wiki_links.py --output link-validation-report.json
+        
+    - name: Upload validation report
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: link-validation-report
+        path: link-validation-report.json
+        
+    - name: Comment PR with results
+      uses: actions/github-script@v6
+      if: github.event_name == 'pull_request'
+      with:
+        script: |
+          const fs = require('fs');
+          const report = JSON.parse(fs.readFileSync('link-validation-report.json', 'utf8'));
+          
+          const summary = report.summary;
+          const health = summary.health_percentage;
+          
+          let grade = 'F';
+          let emoji = '🔴';
+          if (health >= 90) { grade = 'A'; emoji = '🟢'; }
+          else if (health >= 80) { grade = 'B'; emoji = '🟡'; }
+          else if (health >= 70) { grade = 'C'; emoji = '🟠'; }
+          else if (health >= 60) { grade = 'D'; emoji = '🟠'; }
+          
+          const comment = `## ${emoji} Wiki Link Validation Report
+          
+          **Health Score**: ${health}% (Grade: ${grade})
+          
+          | Metric | Value |
+          |--------|-------|
+          | Total Files | ${summary.total_files} |
+          | Total Links | ${summary.total_links} |
+          | Working Links | ${summary.working_links} |
+          | Broken Links | ${summary.broken_links} |
+          
+          ${summary.broken_links > 0 ? '⚠️ **Action Required**: Please fix broken links before merging.' : '✅ All links are valid!'}
+          
+          [View detailed report](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})`;
+          
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: comment
+          });
+          
+    - name: Fail if health is too low
+      run: |
+        python -c "
+        import json
+        with open('link-validation-report.json') as f:
+            report = json.load(f)
+        health = report['summary']['health_percentage']
+        if health < 60:
+            print(f'❌ Wiki health critically low: {health}%')
+            exit(1)
+        elif health < 70:
+            print(f'⚠️  Wiki health needs improvement: {health}%')
+            # Don't fail, just warn
+        else:
+            print(f'✅ Wiki health acceptable: {health}%')
+        "
