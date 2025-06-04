@@ -1,0 +1,864 @@
+Matrix Online Wiki Link Validation Report
+========================================
+Generated on: Wed Jun  4 05:06:44 CEST 2025
+
+Found      126 markdown files to scan
+
+Total links found:      789
+
+BROKEN LINKS:
+=============
+FILE: ../sources/01-getting-started/timeline-liberation-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/timeline-liberation-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/timeline-liberation-complete-sources.md
+
+FILE: ../sources/02-server-setup/advanced-admin-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/advanced-admin.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/advanced-admin-sources.md
+
+FILE: database-setup-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands-administration.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/database-setup-guide.md
+
+FILE: server-security-hardening.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands-administration.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-security-hardening.md
+
+FILE: eden-reborn-setup.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-aspirational-setup.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/eden-reborn-setup.md
+
+FILE: ../04-tools-modding/development-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-realistic-setup.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-guide.md
+
+FILE: gm-commands.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands.md
+
+FILE: custom-content.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/custom-content.md
+
+FILE: ../01-getting-started/server-connection.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/server-connection.md
+
+FILE: performance-monitoring.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/performance-monitoring.md
+
+FILE: ../sources/02-server-setup/server-troubleshooting-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/server-troubleshooting-sources.md
+
+FILE: cnb-research-team.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-format.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-research-team.md
+
+FILE: pkb-research.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-archives.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-research.md
+
+FILE: ../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/prop-format-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+
+FILE: moa-format.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/prop-format.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/moa-format.md
+
+FILE: ../06-file-formats/index.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-development-guide.md
+  Target: /index.md
+
+FILE: cnb-research-findings.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-development-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-research-findings.md
+
+FILE: pkb-archive-investigation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-investigation.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-archive-investigation.md
+
+FILE: ida-pro-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/ida-pro-analysis.md
+
+FILE: combat-testing.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-testing.md
+
+FILE: ../04-tools-modding/moa-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/moa-format-specification.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/moa-tools.md
+
+FILE: ../04-tools-modding/advanced-extraction-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-advanced-extraction.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/advanced-extraction-tools.md
+
+FILE: ../04-tools-modding/prop-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/prop-format-specification.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/prop-tools.md
+
+FILE: combat-implementation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/server-architecture.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation.md
+
+FILE: network-protocol.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/server-architecture.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/network-protocol.md
+
+FILE: ai-prompts.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-assisted-development.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-prompts.md
+
+FILE: ai-ethics.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-assisted-development.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-ethics.md
+
+FILE: pkb-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/asset-modification-workflows.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+
+FILE: ../sources/04-tools-modding/automation-scripts-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/automation-scripts.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/automation-scripts-sources.md
+
+FILE: ../sources/04-tools-modding/development-tools-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-tools.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/development-tools-sources.md
+
+FILE: pkb-archive-investigation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/lost-tools-complete-archive.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-archive-investigation.md
+
+FILE: pkb-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/texture-tools-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+
+FILE: ../03-technical/file-formats.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/tool-development-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats.md
+
+FILE: ../03-technical/pkb-archive-investigation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/tool-recreation-masterplan.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-archive-investigation.md
+
+FILE: mission-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/complete-storyline-documentation.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-archive.md
+
+FILE: character-profiles.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/complete-storyline-documentation.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-profiles.md
+
+FILE: districts-map.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/district-guide-mystical.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-map.md
+
+FILE: faction-territories.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/district-guide-mystical.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/faction-territories.md
+
+FILE: hardline-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-of-mega-city.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/hardline-guide.md
+
+FILE: awakening-paths.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-of-mega-city.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/awakening-paths.md
+
+FILE: navigation-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/landmarks-and-coordinates.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/navigation-tools.md
+
+FILE: character-development-complete.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-development-complete.md
+
+FILE: ../07-story-lore/complete-storyline-documentation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-complete.md
+  Target: /complete-storyline-documentation.md
+
+FILE: mission-examples.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-examples.md
+
+FILE: mission-creator.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-creator.md
+
+FILE: submit-story.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story-preservation-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/submit-story.md
+
+FILE: ../missions/index.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/the-matrix-online-saga.md
+  Target: /index.md
+
+FILE: characters.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/the-matrix-online-saga.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/characters.md
+
+FILE: screenshot-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/visual-preservation-archive.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/screenshot-guide.md
+
+FILE: texture-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/visual-preservation-archive.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/texture-archive.md
+
+FILE: mission-system-complete.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/character-development-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/mission-system-complete.md
+
+FILE: combat-system-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/character-development-complete.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/combat-system-analysis.md
+
+FILE: ../sources/06-gameplay-systems/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/06-gameplay-systems/index-sources.md
+
+FILE: ../sources/08-community/contact-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/contact.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/contact-sources.md
+
+FILE: event-calendar.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-planning-templates.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-calendar.md
+
+FILE: community-guidelines.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-planning-templates.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/community-guidelines.md
+
+FILE: contributing-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/github-workflow-contribution-framework.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/contributing-guide.md
+
+FILE: code-review-guidelines.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/github-workflow-contribution-framework.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/code-review-guidelines.md
+
+FILE: ../sources/08-community/navigation-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/navigation-guide.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/navigation-guide-sources.md
+
+FILE: ../sources/08-community/search-api-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/search-api.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/search-api-sources.md
+
+FILE: future-roadmap.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/wiki-generation-ai-system.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/future-roadmap.md
+
+FILE: ../sources/01-getting-started/timeline-liberation-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /timeline-liberation-complete-sources.md
+
+FILE: advanced-admin.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/advanced-admin.md
+
+FILE: eden-reborn-setup.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/eden-reborn-setup.md
+
+FILE: server-troubleshooting.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/server-troubleshooting.md
+
+FILE: server-troubleshooting.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/server-troubleshooting.md
+
+FILE: ../../EDEN_REBORN_STATUS.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/EDEN_REBORN_STATUS.md
+
+FILE: ../03-technical/file-formats.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /file-formats.md
+
+FILE: ../sources/01-getting-started/timeline-liberation-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /timeline-liberation-complete-sources.md
+
+FILE: advanced-admin.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/advanced-admin.md
+
+FILE: ../../EDEN_REBORN_STATUS.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/EDEN_REBORN_STATUS.md
+
+FILE: eden-reborn-setup.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/eden-reborn-setup.md
+
+FILE: server-troubleshooting.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/server-troubleshooting.md
+
+FILE: server-troubleshooting.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/server-troubleshooting.md
+
+FILE: ../04-tools-modding/development-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /development-guide.md
+
+FILE: gm-commands.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/gm-commands.md
+
+FILE: custom-content.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/custom-content.md
+
+FILE: ../01-getting-started/server-connection.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /server-connection.md
+
+FILE: database-setup-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/database-setup-guide.md
+
+FILE: server-security-hardening.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/server-security-hardening.md
+
+FILE: cnb-research-team.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/cnb-research-team.md
+
+FILE: pkb-research.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-research.md
+
+FILE: ../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /prop-format-complete-sources.md
+
+FILE: moa-format.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/moa-format.md
+
+FILE: ../06-file-formats/index.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index.md
+
+FILE: cnb-research-findings.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/cnb-research-findings.md
+
+FILE: ../04-tools-modding/development-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /development-tools.md
+
+FILE: ida-pro-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/ida-pro-analysis.md
+
+FILE: combat-testing.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/combat-testing.md
+
+FILE: pkb-archives.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-archives.md
+
+FILE: combat-system-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/combat-system-analysis.md
+
+FILE: network-protocol-documentation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/network-protocol-documentation.md
+
+FILE: ../04-tools-modding/moa-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /moa-tools.md
+
+FILE: animation-systems.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/animation-systems.md
+
+FILE: pkb-archives.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-archives.md
+
+FILE: combat-system-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/combat-system-analysis.md
+
+FILE: ../04-tools-modding/advanced-extraction-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /advanced-extraction-tools.md
+
+FILE: ../06-file-formats/index.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index.md
+
+FILE: ../04-tools-modding/pkb-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /pkb-tools.md
+
+FILE: ../04-tools-modding/prop-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /prop-tools.md
+
+FILE: combat-implementation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/combat-implementation.md
+
+FILE: network-protocol.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/network-protocol.md
+
+FILE: development-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/development-tools.md
+
+FILE: automation-scripts.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/automation-scripts.md
+
+FILE: ai-prompts.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/ai-prompts.md
+
+FILE: ai-ethics.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/ai-ethics.md
+
+FILE: ../sources/04-tools-modding/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index-sources.md
+
+FILE: asset-modification-workflows.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/asset-modification-workflows.md
+
+FILE: pkb-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-tools.md
+
+FILE: ../03-technical/file-formats.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /file-formats.md
+
+FILE: mission-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-archive.md
+
+FILE: character-profiles.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/character-profiles.md
+
+FILE: districts-map.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/districts-map.md
+
+FILE: faction-territories.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/faction-territories.md
+
+FILE: hardline-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/hardline-guide.md
+
+FILE: awakening-paths.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/awakening-paths.md
+
+FILE: ../sources/05-game-content/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index-sources.md
+
+FILE: navigation-tools.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/navigation-tools.md
+
+FILE: character-development-complete.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/character-development-complete.md
+
+FILE: ../07-story-lore/complete-storyline-documentation.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /complete-storyline-documentation.md
+
+FILE: mission-examples.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-examples.md
+
+FILE: mission-creator.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-creator.md
+
+FILE: submit-story.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/submit-story.md
+
+FILE: ../missions/index.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index.md
+
+FILE: characters.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/characters.md
+
+FILE: screenshot-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/screenshot-guide.md
+
+FILE: texture-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/texture-archive.md
+
+FILE: mission-system-complete.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-system-complete.md
+
+FILE: combat-system-analysis.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/combat-system-analysis.md
+
+FILE: ../sources/06-gameplay-systems/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index-sources.md
+
+FILE: ../sources/07-preservation/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /index-sources.md
+
+FILE: ../sources/08-community/contact-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /contact-sources.md
+
+FILE: event-calendar.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/event-calendar.md
+
+FILE: community-guidelines.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/community-guidelines.md
+
+FILE: contributing-guide.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/contributing-guide.md
+
+FILE: code-review-guidelines.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/code-review-guidelines.md
+
+FILE: ../sources/08-community/navigation-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /navigation-guide-sources.md
+
+FILE: ../sources/08-community/search-api-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /search-api-sources.md
+
+FILE: future-roadmap.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/future-roadmap.md
+
+FILE: contact.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/contact.md
+
+FILE: pkb-archives.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-archives.md
+
+FILE: ../03-technical/file-formats.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /file-formats.md
+
+FILE: gm-commands.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/gm-commands.md
+
+FILE: mission-examples.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-examples.md
+
+FILE: ../00-manifesto/neoologist-manifesto.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /neoologist-manifesto.md
+
+FILE: ../02-server-setup/server-projects-comparison.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /server-projects-comparison.md
+
+FILE: ../04-tools-modding/lost-tools-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /lost-tools-archive.md
+
+FILE: 01-getting-started/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/index-sources.md
+
+FILE: 01-getting-started/timeline-liberation-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/timeline-liberation-complete-sources.md
+
+FILE: 02-server-setup/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/index-sources.md
+
+FILE: 02-server-setup/mxoemu-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup-sources.md
+
+FILE: 02-server-setup/hardline-dreams-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hardline-dreams-setup-sources.md
+
+FILE: 02-server-setup/hd-enhanced-realistic-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-realistic-setup-sources.md
+
+FILE: 02-server-setup/hd-enhanced-aspirational-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-aspirational-setup-sources.md
+
+FILE: 02-server-setup/client-patches-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/client-patches-sources.md
+
+FILE: 02-server-setup/database-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/database-setup-sources.md
+
+FILE: 02-server-setup/reality-server-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/reality-server-guide-sources.md
+
+FILE: 03-technical-docs/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/index-sources.md
+
+FILE: 03-technical-docs/file-formats/pkb-archives-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-archives-sources.md
+
+FILE: 03-technical-docs/file-formats/cnb-format-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-format-sources.md
+
+FILE: 03-technical-docs/file-formats/prop-format-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/prop-format-complete-sources.md
+
+FILE: 03-technical/file-formats-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats-complete-sources.md
+
+FILE: 03-technical/model-formats-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/model-formats-sources.md
+
+FILE: 03-technical/texture-formats-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/texture-formats-sources.md
+
+FILE: 03-technical/server-architecture-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/server-architecture-sources.md
+
+FILE: 03-technical/combat-implementation-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation-guide-sources.md
+
+FILE: 04-tools-modding/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/index-sources.md
+
+FILE: 04-tools-modding/tool-development-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/tool-development-guide-sources.md
+
+FILE: 04-tools-modding/ai-assisted-development-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-assisted-development-sources.md
+
+FILE: 05-game-content/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/index-sources.md
+
+FILE: 05-game-content/story/the-matrix-online-saga-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/the-matrix-online-saga-sources.md
+
+FILE: 06-gameplay-systems/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/index-sources.md
+
+FILE: 07-preservation/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/07-preservation/index-sources.md
+
+FILE: 07-preservation/tool-archaeology-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/07-preservation/tool-archaeology-sources.md
+
+FILE: 08-community/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/index-sources.md
+
+FILE: 08-community/join-the-resistance-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/join-the-resistance-sources.md
+
+FILE: 09-appendix/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/09-appendix/index-sources.md
+
+FILE: 09-appendix/research-integration-summary-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/LINK_VALIDATION_REPORT.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/09-appendix/research-integration-summary-sources.md
+
+FILE: ../00-manifesto/neoologist-manifesto.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/00-manifesto/neoologist-manifesto-sources.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/00-manifesto/neoologist-manifesto.md
+
+FILE: ../02-server-setup/server-projects-comparison.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/server-projects-comparison-sources.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/server-projects-comparison.md
+
+FILE: ../04-tools-modding/lost-tools-archive.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/lost-tools-archive-sources.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/lost-tools-archive.md
+
+FILE: 01-getting-started/timeline-liberation-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/timeline-liberation-complete-sources.md
+
+FILE: 02-server-setup/mxoemu-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/mxoemu-setup-sources.md
+
+FILE: 02-server-setup/hardline-dreams-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hardline-dreams-setup-sources.md
+
+FILE: 02-server-setup/hd-enhanced-realistic-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-realistic-setup-sources.md
+
+FILE: 02-server-setup/hd-enhanced-aspirational-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-aspirational-setup-sources.md
+
+FILE: 02-server-setup/client-patches-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/client-patches-sources.md
+
+FILE: 02-server-setup/database-setup-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/database-setup-sources.md
+
+FILE: 02-server-setup/reality-server-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/reality-server-guide-sources.md
+
+FILE: 03-technical-docs/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/index-sources.md
+
+FILE: 03-technical-docs/file-formats/prop-format-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+
+FILE: 03-technical/file-formats-complete-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats-complete-sources.md
+
+FILE: 03-technical/model-formats-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/model-formats-sources.md
+
+FILE: 03-technical/texture-formats-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/texture-formats-sources.md
+
+FILE: 03-technical/server-architecture-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/server-architecture-sources.md
+
+FILE: 03-technical/combat-implementation-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/combat-implementation-guide-sources.md
+
+FILE: 04-tools-modding/tool-development-guide-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/tool-development-guide-sources.md
+
+FILE: 04-tools-modding/ai-assisted-development-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/ai-assisted-development-sources.md
+
+FILE: 05-game-content/story/the-matrix-online-saga-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/05-game-content/story/the-matrix-online-saga-sources.md
+
+FILE: 06-gameplay-systems/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/06-gameplay-systems/index-sources.md
+
+FILE: 07-preservation/tool-archaeology-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/07-preservation/tool-archaeology-sources.md
+
+FILE: 08-community/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/index-sources.md
+
+FILE: 08-community/join-the-resistance-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/join-the-resistance-sources.md
+
+FILE: 09-appendix/index-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/index-sources.md
+
+FILE: 09-appendix/research-integration-summary-sources.md
+  Source: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+  Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/research-integration-summary-sources.md
+
+
+SUMMARY:
+========
+Total links scanned:      789
+Working links: 582
+Broken links: 205
+  - Broken files (.md): 205
+  - Broken directories: 0
+
+TOP 10 MOST FREQUENTLY BROKEN LINKS:
+====================================
+  4 occurrences: server-troubleshooting.md
+  4 occurrences: combat-system-analysis.md
+  4 occurrences: ../03-technical/file-formats.md
+  3 occurrences: pkb-tools.md
+  3 occurrences: pkb-archives.md
+  3 occurrences: mission-examples.md
+  3 occurrences: gm-commands.md
+  3 occurrences: eden-reborn-setup.md
+  3 occurrences: ../sources/01-getting-started/timeline-liberation-complete-sources.md
+  3 occurrences: ../06-file-formats/index.md
+
+FILES WITH MOST BROKEN LINKS:
+=============================
+  117 broken links in: LINK_VALIDATION_REPORT.md
+  24 broken links in: index.md
+  3 broken links in: mxoemu-setup.md
+  2 broken links in: github-workflow-contribution-framework.md
+  2 broken links in: event-planning-templates.md
+  2 broken links in: character-development-complete.md
+  2 broken links in: visual-preservation-archive.md
+  2 broken links in: the-matrix-online-saga.md
+  2 broken links in: mission-system-guide.md
+  2 broken links in: mission-system-complete.md

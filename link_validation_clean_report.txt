@@ -1,0 +1,554 @@
+Matrix Online Wiki Link Validation Report (Clean)
+================================================
+Generated on: Wed Jun  4 05:07:51 CEST 2025
+
+Found      124 markdown files to scan
+
+Total links found:      669
+
+BROKEN LINKS:
+=============
+
+[1] FILE: ../sources/01-getting-started/timeline-liberation-complete-sources.md
+    Source: timeline-liberation-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/timeline-liberation-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/../sources/01-getting-started/timeline-liberation-complete-sources.md
+
+[2] FILE: ../sources/02-server-setup/advanced-admin-sources.md
+    Source: advanced-admin.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/advanced-admin.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/../sources/02-server-setup/advanced-admin-sources.md
+
+[3] FILE: database-setup-guide.md
+    Source: gm-commands-administration.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands-administration.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/database-setup-guide.md
+
+[4] FILE: server-security-hardening.md
+    Source: gm-commands-administration.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands-administration.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-security-hardening.md
+
+[5] FILE: eden-reborn-setup.md
+    Source: hd-enhanced-aspirational-setup.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-aspirational-setup.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/eden-reborn-setup.md
+
+[6] FILE: ../04-tools-modding/development-guide.md
+    Source: hd-enhanced-realistic-setup.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/hd-enhanced-realistic-setup.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/../04-tools-modding/development-guide.md
+
+[7] FILE: gm-commands.md
+    Source: mxoemu-setup.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands.md
+
+[8] FILE: custom-content.md
+    Source: mxoemu-setup.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/custom-content.md
+
+[9] FILE: ../01-getting-started/server-connection.md
+    Source: mxoemu-setup.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/mxoemu-setup.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/../01-getting-started/server-connection.md
+
+[10] FILE: performance-monitoring.md
+    Source: server-troubleshooting.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/performance-monitoring.md
+
+[11] FILE: ../sources/02-server-setup/server-troubleshooting-sources.md
+    Source: server-troubleshooting.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/../sources/02-server-setup/server-troubleshooting-sources.md
+
+[12] FILE: cnb-research-team.md
+    Source: cnb-format.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-format.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-research-team.md
+
+[13] FILE: pkb-research.md
+    Source: pkb-archives.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-archives.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-research.md
+
+[14] FILE: ../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+    Source: prop-format-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/prop-format-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+
+[15] FILE: moa-format.md
+    Source: prop-format.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/prop-format.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/moa-format.md
+
+[16] FILE: ../06-file-formats/index.md
+    Source: cnb-format-development-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-development-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/../06-file-formats/index.md
+
+[17] FILE: cnb-research-findings.md
+    Source: cnb-format-development-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-development-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-research-findings.md
+
+[18] FILE: pkb-archive-investigation.md
+    Source: cnb-format-investigation.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-format-investigation.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-archive-investigation.md
+
+[19] FILE: ida-pro-analysis.md
+    Source: combat-implementation-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/ida-pro-analysis.md
+
+[20] FILE: combat-testing.md
+    Source: combat-implementation-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-testing.md
+
+[21] FILE: ../04-tools-modding/moa-tools.md
+    Source: moa-format-specification.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/moa-format-specification.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/../04-tools-modding/moa-tools.md
+
+[22] FILE: ../04-tools-modding/advanced-extraction-tools.md
+    Source: pkb-advanced-extraction.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-advanced-extraction.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/../04-tools-modding/advanced-extraction-tools.md
+
+[23] FILE: ../04-tools-modding/prop-tools.md
+    Source: prop-format-specification.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/prop-format-specification.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/../04-tools-modding/prop-tools.md
+
+[24] FILE: combat-implementation.md
+    Source: server-architecture.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/server-architecture.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation.md
+
+[25] FILE: network-protocol.md
+    Source: server-architecture.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/server-architecture.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/network-protocol.md
+
+[26] FILE: ai-prompts.md
+    Source: ai-assisted-development.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-assisted-development.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-prompts.md
+
+[27] FILE: ai-ethics.md
+    Source: ai-assisted-development.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-assisted-development.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-ethics.md
+
+[28] FILE: pkb-tools.md
+    Source: asset-modification-workflows.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/asset-modification-workflows.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+
+[29] FILE: ../sources/04-tools-modding/automation-scripts-sources.md
+    Source: automation-scripts.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/automation-scripts.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/../sources/04-tools-modding/automation-scripts-sources.md
+
+[30] FILE: ../sources/04-tools-modding/development-tools-sources.md
+    Source: development-tools.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-tools.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/../sources/04-tools-modding/development-tools-sources.md
+
+[31] FILE: pkb-archive-investigation.md
+    Source: lost-tools-complete-archive.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/lost-tools-complete-archive.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-archive-investigation.md
+
+[32] FILE: pkb-tools.md
+    Source: texture-tools-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/texture-tools-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+
+[33] FILE: ../03-technical/file-formats.md
+    Source: tool-development-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/tool-development-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/../03-technical/file-formats.md
+
+[34] FILE: ../03-technical/pkb-archive-investigation.md
+    Source: tool-recreation-masterplan.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/tool-recreation-masterplan.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/../03-technical/pkb-archive-investigation.md
+
+[35] FILE: mission-archive.md
+    Source: complete-storyline-documentation.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/complete-storyline-documentation.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-archive.md
+
+[36] FILE: character-profiles.md
+    Source: complete-storyline-documentation.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/complete-storyline-documentation.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-profiles.md
+
+[37] FILE: districts-map.md
+    Source: district-guide-mystical.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/district-guide-mystical.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-map.md
+
+[38] FILE: faction-territories.md
+    Source: district-guide-mystical.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/district-guide-mystical.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/faction-territories.md
+
+[39] FILE: hardline-guide.md
+    Source: districts-of-mega-city.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-of-mega-city.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/hardline-guide.md
+
+[40] FILE: awakening-paths.md
+    Source: districts-of-mega-city.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-of-mega-city.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/awakening-paths.md
+
+[41] FILE: navigation-tools.md
+    Source: landmarks-and-coordinates.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/landmarks-and-coordinates.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/navigation-tools.md
+
+[42] FILE: character-development-complete.md
+    Source: mission-system-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-development-complete.md
+
+[43] FILE: ../07-story-lore/complete-storyline-documentation.md
+    Source: mission-system-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/../07-story-lore/complete-storyline-documentation.md
+
+[44] FILE: mission-examples.md
+    Source: mission-system-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-examples.md
+
+[45] FILE: mission-creator.md
+    Source: mission-system-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-system-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-creator.md
+
+[46] FILE: submit-story.md
+    Source: story-preservation-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story-preservation-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/submit-story.md
+
+[47] FILE: ../missions/index.md
+    Source: the-matrix-online-saga.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/the-matrix-online-saga.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/../missions/index.md
+
+[48] FILE: characters.md
+    Source: the-matrix-online-saga.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/the-matrix-online-saga.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/characters.md
+
+[49] FILE: screenshot-guide.md
+    Source: visual-preservation-archive.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/visual-preservation-archive.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/screenshot-guide.md
+
+[50] FILE: texture-archive.md
+    Source: visual-preservation-archive.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/visual-preservation-archive.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/texture-archive.md
+
+[51] FILE: mission-system-complete.md
+    Source: character-development-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/character-development-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/mission-system-complete.md
+
+[52] FILE: combat-system-analysis.md
+    Source: character-development-complete.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/character-development-complete.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/combat-system-analysis.md
+
+[53] FILE: ../sources/06-gameplay-systems/index-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/../sources/06-gameplay-systems/index-sources.md
+
+[54] FILE: ../sources/08-community/contact-sources.md
+    Source: contact.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/contact.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/../sources/08-community/contact-sources.md
+
+[55] FILE: event-calendar.md
+    Source: event-planning-templates.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-planning-templates.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-calendar.md
+
+[56] FILE: community-guidelines.md
+    Source: event-planning-templates.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-planning-templates.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/community-guidelines.md
+
+[57] FILE: contributing-guide.md
+    Source: github-workflow-contribution-framework.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/github-workflow-contribution-framework.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/contributing-guide.md
+
+[58] FILE: code-review-guidelines.md
+    Source: github-workflow-contribution-framework.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/github-workflow-contribution-framework.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/code-review-guidelines.md
+
+[59] FILE: ../sources/08-community/navigation-guide-sources.md
+    Source: navigation-guide.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/navigation-guide.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/../sources/08-community/navigation-guide-sources.md
+
+[60] FILE: ../sources/08-community/search-api-sources.md
+    Source: search-api.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/search-api.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/../sources/08-community/search-api-sources.md
+
+[61] FILE: future-roadmap.md
+    Source: wiki-generation-ai-system.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/wiki-generation-ai-system.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/future-roadmap.md
+
+[62] FILE: ../00-manifesto/neoologist-manifesto.md
+    Source: neoologist-manifesto-sources.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/00-manifesto/neoologist-manifesto-sources.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/00-manifesto/../00-manifesto/neoologist-manifesto.md
+
+[63] FILE: ../02-server-setup/server-projects-comparison.md
+    Source: server-projects-comparison-sources.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/server-projects-comparison-sources.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/../02-server-setup/server-projects-comparison.md
+
+[64] FILE: ../04-tools-modding/lost-tools-archive.md
+    Source: lost-tools-archive-sources.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/lost-tools-archive-sources.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/../04-tools-modding/lost-tools-archive.md
+
+[65] FILE: 01-getting-started/timeline-liberation-complete-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/timeline-liberation-complete-sources.md
+
+[66] FILE: 02-server-setup/mxoemu-setup-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/mxoemu-setup-sources.md
+
+[67] FILE: 02-server-setup/hardline-dreams-setup-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hardline-dreams-setup-sources.md
+
+[68] FILE: 02-server-setup/hd-enhanced-realistic-setup-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-realistic-setup-sources.md
+
+[69] FILE: 02-server-setup/hd-enhanced-aspirational-setup-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-aspirational-setup-sources.md
+
+[70] FILE: 02-server-setup/client-patches-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/client-patches-sources.md
+
+[71] FILE: 02-server-setup/database-setup-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/database-setup-sources.md
+
+[72] FILE: 02-server-setup/reality-server-guide-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/reality-server-guide-sources.md
+
+[73] FILE: 03-technical-docs/index-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/index-sources.md
+
+[74] FILE: 03-technical-docs/file-formats/prop-format-complete-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+
+[75] FILE: 03-technical/file-formats-complete-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats-complete-sources.md
+
+[76] FILE: 03-technical/model-formats-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/model-formats-sources.md
+
+[77] FILE: 03-technical/texture-formats-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/texture-formats-sources.md
+
+[78] FILE: 03-technical/server-architecture-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/server-architecture-sources.md
+
+[79] FILE: 03-technical/combat-implementation-guide-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/combat-implementation-guide-sources.md
+
+[80] FILE: 04-tools-modding/tool-development-guide-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/tool-development-guide-sources.md
+
+[81] FILE: 04-tools-modding/ai-assisted-development-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/ai-assisted-development-sources.md
+
+[82] FILE: 05-game-content/story/the-matrix-online-saga-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/05-game-content/story/the-matrix-online-saga-sources.md
+
+[83] FILE: 06-gameplay-systems/index-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/06-gameplay-systems/index-sources.md
+
+[84] FILE: 07-preservation/tool-archaeology-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/07-preservation/tool-archaeology-sources.md
+
+[85] FILE: 08-community/index-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/index-sources.md
+
+[86] FILE: 08-community/join-the-resistance-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/join-the-resistance-sources.md
+
+[87] FILE: 09-appendix/index-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/index-sources.md
+
+[88] FILE: 09-appendix/research-integration-summary-sources.md
+    Source: index.md
+    Full Source Path: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/index.md
+    Expected Target: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/research-integration-summary-sources.md
+
+
+SUMMARY:
+========
+Total markdown files scanned:      124
+Total links found:      669
+Working links: 581
+Broken links: 88
+  - Broken file links (.md): 88
+  - Broken directory links: 0
+  - Link health: 86%
+
+TOP 10 MOST FREQUENTLY BROKEN LINKS:
+====================================
+  2 occurrences: pkb-tools.md
+  2 occurrences: pkb-archive-investigation.md
+  1 occurrences: texture-archive.md
+  1 occurrences: submit-story.md
+  1 occurrences: server-security-hardening.md
+  1 occurrences: screenshot-guide.md
+  1 occurrences: pkb-research.md
+  1 occurrences: performance-monitoring.md
+  1 occurrences: network-protocol.md
+  1 occurrences: navigation-tools.md
+
+FILES WITH MOST BROKEN LINKS:
+=============================
+  24 broken links in: sources/index.md
+  3 broken links in: 02-server-setup/mxoemu-setup.md
+  2 broken links in: 08-community/github-workflow-contribution-framework.md
+  2 broken links in: 08-community/event-planning-templates.md
+  2 broken links in: 06-gameplay-systems/character-development-complete.md
+  2 broken links in: 05-game-content/visual-preservation-archive.md
+  2 broken links in: story/the-matrix-online-saga.md
+  2 broken links in: 05-game-content/mission-system-guide.md
+  2 broken links in: 05-game-content/mission-system-complete.md
+  2 broken links in: 05-game-content/districts-of-mega-city.md
+
+BROKEN LINKS BY DIRECTORY:
+==========================
+  7 broken links to directory: 02-server-setup/
+  5 broken links to directory: 03-technical/
+  5 broken links to directory: ../04-tools-modding/
+  3 broken links to directory: ../sources/08-community/
+  2 broken links to directory: pkb-tools.md/
+  2 broken links to directory: pkb-archive-investigation.md/
+  2 broken links to directory: 09-appendix/
+  2 broken links to directory: 08-community/
+  2 broken links to directory: 04-tools-modding/
+  2 broken links to directory: ../sources/04-tools-modding/
+  2 broken links to directory: ../sources/02-server-setup/
+  2 broken links to directory: ../03-technical/
+  1 broken links to directory: texture-archive.md/
+  1 broken links to directory: submit-story.md/
+  1 broken links to directory: server-security-hardening.md/
+  1 broken links to directory: screenshot-guide.md/
+  1 broken links to directory: pkb-research.md/
+  1 broken links to directory: performance-monitoring.md/
+  1 broken links to directory: network-protocol.md/
+  1 broken links to directory: navigation-tools.md/
+  1 broken links to directory: moa-format.md/
+  1 broken links to directory: mission-system-complete.md/
+  1 broken links to directory: mission-examples.md/
+  1 broken links to directory: mission-creator.md/
+  1 broken links to directory: mission-archive.md/
+  1 broken links to directory: ida-pro-analysis.md/
+  1 broken links to directory: hardline-guide.md/
+  1 broken links to directory: gm-commands.md/
+  1 broken links to directory: future-roadmap.md/
+  1 broken links to directory: faction-territories.md/
+  1 broken links to directory: event-calendar.md/
+  1 broken links to directory: eden-reborn-setup.md/
+  1 broken links to directory: districts-map.md/
+  1 broken links to directory: database-setup-guide.md/
+  1 broken links to directory: custom-content.md/
+  1 broken links to directory: contributing-guide.md/
+  1 broken links to directory: community-guidelines.md/
+  1 broken links to directory: combat-testing.md/
+  1 broken links to directory: combat-system-analysis.md/
+  1 broken links to directory: combat-implementation.md/
+  1 broken links to directory: code-review-guidelines.md/
+  1 broken links to directory: cnb-research-team.md/
+  1 broken links to directory: cnb-research-findings.md/
+  1 broken links to directory: characters.md/
+  1 broken links to directory: character-profiles.md/
+  1 broken links to directory: character-development-complete.md/
+  1 broken links to directory: awakening-paths.md/
+  1 broken links to directory: ai-prompts.md/
+  1 broken links to directory: ai-ethics.md/
+  1 broken links to directory: 07-preservation/
+  1 broken links to directory: 06-gameplay-systems/
+  1 broken links to directory: 05-game-content/story/
+  1 broken links to directory: 03-technical-docs/file-formats/
+  1 broken links to directory: 03-technical-docs/
+  1 broken links to directory: 01-getting-started/
+  1 broken links to directory: ../sources/06-gameplay-systems/
+  1 broken links to directory: ../sources/01-getting-started/
+  1 broken links to directory: ../missions/
+  1 broken links to directory: ../07-story-lore/
+  1 broken links to directory: ../06-file-formats/
+  1 broken links to directory: ../02-server-setup/
+  1 broken links to directory: ../01-getting-started/
+  1 broken links to directory: ../00-manifesto/
+  1 broken links to directory: ../../sources/03-technical-docs/file-formats/

@@ -8,8 +8,8 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 ## 📊 Wiki Statistics
 
 ### Content Metrics
-- **Total Pages**: 85 comprehensive documents *updated*
-- **Total Words**: 107,000+ words of liberation *estimated*
+- **Total Pages**: 126 comprehensive documents *updated*
+- **Total Words**: 110,000+ words of liberation *estimated*
 - **Technical Guides**: 25+ detailed specifications
 - **Server Guides**: 12 complete setup documents
 - **Code Snippets**: 100+ examples
