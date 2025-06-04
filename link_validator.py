@@ -1,286 +1,240 @@
 #!/usr/bin/env python3
 """
-Comprehensive Link Validator for Matrix Online Wiki
-Validates all markdown links and reports broken ones with detailed analysis.
+Matrix Online Wiki Link Validator
+Systematically checks all markdown links for broken references.
 """
 
 import os
 import re
 import json
-from collections import defaultdict
 from pathlib import Path
+from collections import defaultdict
 
 class WikiLinkValidator:
     def __init__(self, wiki_root):
         self.wiki_root = Path(wiki_root)
-        self.all_files = set()
-        self.results = {
-            'total_files': 0,
-            'total_links': 0,
-            'broken_links': 0,
-            'files_with_broken_links': {},
-            'broken_by_category': defaultdict(list),
-            'link_types': defaultdict(int),
-            'most_broken_files': [],
-            'all_broken_links': []
-        }
-    
-    def find_all_files(self):
-        """Build a set of all files in the wiki for reference checking."""
-        for root, dirs, files in os.walk(self.wiki_root):
-            for file in files:
-                rel_path = os.path.relpath(os.path.join(root, file), self.wiki_root)
-                self.all_files.add(rel_path)
-                self.all_files.add(rel_path.replace('.md', ''))  # Add without .md extension
-    
-    def extract_links(self, content):
+        self.broken_links = []
+        self.external_links = []
+        self.total_links = 0
+        self.files_processed = 0
+        
+        # Track broken links by category
+        self.broken_by_category = defaultdict(list)
+        self.broken_by_file = defaultdict(list)
+        
+    def extract_markdown_links(self, content):
         """Extract all markdown links from content."""
         # Pattern for [text](link) format
         link_pattern = r'\[([^\]]*)\]\(([^)]+)\)'
-        matches = re.findall(link_pattern, content)
-        
-        links = []
-        for text, url in matches:
-            links.append({
-                'text': text,
-                'url': url,
-                'type': self.classify_link(url)
-            })
-        
-        return links
+        return re.findall(link_pattern, content)
     
-    def classify_link(self, url):
-        """Classify the type of link."""
-        if url.startswith('http://') or url.startswith('https://'):
-            return 'external'
-        elif url.startswith('#'):
-            return 'anchor'
-        elif url.startswith('/'):
-            return 'absolute_internal'
-        else:
-            return 'relative_internal'
+    def is_external_link(self, link):
+        """Check if link is external (http/https/discord etc.)"""
+        return link.startswith(('http://', 'https://', 'discord:', 'mailto:'))
     
-    def resolve_link_path(self, current_file, link_url):
-        """Resolve the actual file path that a link should point to."""
-        current_dir = os.path.dirname(current_file)
+    def normalize_link_path(self, link, current_file_path):
+        """Convert relative link to absolute file path."""
+        # Remove anchors
+        link = link.split('#')[0]
         
-        if link_url.startswith('/'):
-            # Absolute path from wiki root
-            target_path = link_url.lstrip('/')
-        else:
-            # Relative path from current file
-            target_path = os.path.join(current_dir, link_url)
-            target_path = os.path.normpath(target_path)
+        # Skip empty links and anchors
+        if not link or link.startswith('#'):
+            return None
+            
+        # Handle external links
+        if self.is_external_link(link):
+            return None
+            
+        # Convert relative path to absolute
+        current_dir = current_file_path.parent
         
+        # Handle links without .md extension
+        if not link.endswith('.md') and not link.endswith('/'):
+            link += '.md'
+        elif link.endswith('/'):
+            link += 'index.md'
+            
+        target_path = (current_dir / link).resolve()
         return target_path
     
-    def check_link_exists(self, current_file, link):
-        """Check if a link target exists."""
-        url = link['url']
-        link_type = link['type']
-        
-        if link_type == 'external':
-            return True, "External link (not validated)"
-        
-        if link_type == 'anchor':
-            return True, "Anchor link (not validated)"
-        
-        # Internal link validation
-        target_path = self.resolve_link_path(current_file, url)
-        
-        # Check various possible target files
-        possible_targets = [
-            target_path,
-            target_path + '.md',
-            target_path + '/index.md',
-            target_path.replace('.md', ''),
-        ]
-        
-        for target in possible_targets:
-            if target in self.all_files:
-                return True, f"Found: {target}"
-        
-        # Check if it's a directory that should exist
-        if os.path.isdir(os.path.join(self.wiki_root, target_path)):
-            return True, f"Valid directory: {target_path}"
-        
-        return False, f"Missing: {target_path} (tried: {', '.join(possible_targets)})"
-    
-    def validate_file(self, file_path):
+    def validate_file_links(self, file_path):
         """Validate all links in a single markdown file."""
-        rel_path = os.path.relpath(file_path, self.wiki_root)
-        
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
         except Exception as e:
-            return {
-                'file': rel_path,
-                'error': f"Could not read file: {e}",
-                'links': [],
-                'broken_links': []
-            }
+            print(f"Error reading {file_path}: {e}")
+            return []
         
-        links = self.extract_links(content)
-        broken_links = []
+        links = self.extract_markdown_links(content)
+        file_broken_links = []
         
-        for link in links:
-            self.results['link_types'][link['type']] += 1
+        for link_text, link_url in links:
+            self.total_links += 1
             
-            if link['type'] in ['relative_internal', 'absolute_internal']:
-                exists, reason = self.check_link_exists(rel_path, link)
-                if not exists:
-                    broken_links.append({
-                        'text': link['text'],
-                        'url': link['url'],
-                        'type': link['type'],
-                        'reason': reason
-                    })
-        
-        return {
-            'file': rel_path,
-            'total_links': len(links),
-            'broken_links': broken_links,
-            'links': links
-        }
-    
-    def categorize_broken_link(self, broken_link):
-        """Categorize the type of broken link."""
-        url = broken_link['url']
-        reason = broken_link['reason']
-        
-        if 'index.md' in reason:
-            return 'missing_index'
-        elif url.endswith('.md'):
-            return 'missing_md_file'
-        elif '/' in url:
-            return 'missing_directory_or_file'
-        else:
-            return 'missing_file'
-    
-    def run_validation(self):
-        """Run complete validation on all markdown files."""
-        print("🔍 Starting comprehensive wiki link validation...")
-        
-        # Find all files first
-        self.find_all_files()
-        
-        # Find all markdown files
-        md_files = list(self.wiki_root.glob('**/*.md'))
-        self.results['total_files'] = len(md_files)
-        
-        print(f"📁 Found {len(md_files)} markdown files")
-        print(f"📄 Total files in wiki: {len(self.all_files)}")
-        
-        # Validate each file
-        for md_file in md_files:
-            file_result = self.validate_file(md_file)
-            
-            if file_result.get('error'):
-                print(f"❌ Error in {file_result['file']}: {file_result['error']}")
+            if self.is_external_link(link_url):
+                self.external_links.append((str(file_path), link_text, link_url))
                 continue
-            
-            self.results['total_links'] += file_result['total_links']
-            
-            if file_result['broken_links']:
-                self.results['files_with_broken_links'][file_result['file']] = file_result['broken_links']
-                self.results['broken_links'] += len(file_result['broken_links'])
                 
-                # Categorize broken links
-                for broken_link in file_result['broken_links']:
-                    category = self.categorize_broken_link(broken_link)
-                    self.results['broken_by_category'][category].append({
-                        'file': file_result['file'],
-                        'link': broken_link
-                    })
-                    
-                    self.results['all_broken_links'].append({
-                        'file': file_result['file'],
-                        'text': broken_link['text'],
-                        'url': broken_link['url'],
-                        'reason': broken_link['reason'],
-                        'category': category
-                    })
+            # Normalize and check internal links
+            target_path = self.normalize_link_path(link_url, file_path)
+            
+            if target_path is None:
+                continue  # Skip anchors and empty links
+                
+            if not target_path.exists():
+                # Try to make path relative to wiki_root, fallback to absolute
+                try:
+                    expected_path = str(target_path.relative_to(self.wiki_root))
+                except ValueError:
+                    expected_path = str(target_path)
+                
+                broken_link = {
+                    'source_file': str(file_path.relative_to(self.wiki_root)),
+                    'link_text': link_text,
+                    'link_url': link_url,
+                    'expected_path': expected_path,
+                    'category': self.categorize_broken_link(link_url, target_path)
+                }
+                
+                self.broken_links.append(broken_link)
+                file_broken_links.append(broken_link)
+                self.broken_by_category[broken_link['category']].append(broken_link)
+                self.broken_by_file[broken_link['source_file']].append(broken_link)
         
-        # Calculate most broken files
-        broken_counts = [(f, len(links)) for f, links in self.results['files_with_broken_links'].items()]
-        self.results['most_broken_files'] = sorted(broken_counts, key=lambda x: x[1], reverse=True)
-        
-        return self.results
+        return file_broken_links
     
-    def print_report(self):
-        """Print a comprehensive validation report."""
-        results = self.results
+    def categorize_broken_link(self, link_url, target_path):
+        """Categorize the type of broken link."""
+        if 'index.md' in str(target_path):
+            return 'missing_index'
+        elif target_path.suffix == '.md':
+            return 'missing_page'
+        elif '/' in link_url and not target_path.parent.exists():
+            return 'missing_directory'
+        else:
+            return 'other'
+    
+    def validate_all_links(self):
+        """Validate links in all markdown files."""
+        md_files = list(self.wiki_root.rglob('*.md'))
+        
+        print(f"Found {len(md_files)} markdown files to validate...")
+        
+        for md_file in md_files:
+            self.files_processed += 1
+            if self.files_processed % 10 == 0:
+                print(f"Processed {self.files_processed}/{len(md_files)} files...")
+            
+            self.validate_file_links(md_file)
+    
+    def generate_report(self):
+        """Generate comprehensive link validation report."""
+        report = {
+            'summary': {
+                'total_files_processed': self.files_processed,
+                'total_links_found': self.total_links,
+                'broken_links_count': len(self.broken_links),
+                'external_links_count': len(self.external_links),
+                'broken_link_percentage': round((len(self.broken_links) / self.total_links * 100), 2) if self.total_links > 0 else 0
+            },
+            'broken_links_by_category': dict(self.broken_by_category),
+            'files_with_most_broken_links': self.get_top_broken_files(),
+            'critical_navigation_issues': self.find_critical_navigation_issues(),
+            'all_broken_links': self.broken_links,
+            'external_links': self.external_links[:10]  # Sample of external links
+        }
+        
+        return report
+    
+    def get_top_broken_files(self, limit=10):
+        """Get files with the most broken links."""
+        file_counts = [(file, len(links)) for file, links in self.broken_by_file.items()]
+        file_counts.sort(key=lambda x: x[1], reverse=True)
+        return file_counts[:limit]
+    
+    def find_critical_navigation_issues(self):
+        """Identify broken links that affect main navigation."""
+        critical_files = ['Home.md', 'index.md', '_Sidebar.md', '_Footer.md']
+        critical_issues = []
+        
+        for broken_link in self.broken_links:
+            source_file = broken_link['source_file']
+            if any(critical in source_file for critical in critical_files):
+                critical_issues.append(broken_link)
+        
+        return critical_issues
+    
+    def print_summary_report(self):
+        """Print a human-readable summary report."""
+        report = self.generate_report()
         
         print("\n" + "="*80)
         print("🔍 MATRIX ONLINE WIKI LINK VALIDATION REPORT")
         print("="*80)
         
-        # Summary
-        print(f"\n📊 SUMMARY:")
-        print(f"   Total files analyzed: {results['total_files']}")
-        print(f"   Total links found: {results['total_links']}")
-        print(f"   Broken links: {results['broken_links']}")
-        print(f"   Files with broken links: {len(results['files_with_broken_links'])}")
-        print(f"   Success rate: {((results['total_links'] - results['broken_links']) / results['total_links'] * 100):.1f}%")
+        print(f"\n📊 SUMMARY STATISTICS")
+        print(f"Files Processed: {report['summary']['total_files_processed']}")
+        print(f"Total Links Found: {report['summary']['total_links_found']}")
+        print(f"Broken Links: {report['summary']['broken_links_count']}")
+        print(f"External Links: {report['summary']['external_links_count']}")
+        print(f"Broken Link Rate: {report['summary']['broken_link_percentage']}%")
         
-        # Link types
-        print(f"\n🔗 LINK TYPES:")
-        for link_type, count in results['link_types'].items():
-            print(f"   {link_type}: {count}")
+        if report['summary']['broken_links_count'] > 0:
+            print(f"\n🚨 BROKEN LINKS BY CATEGORY")
+            for category, links in report['broken_links_by_category'].items():
+                print(f"  {category}: {len(links)} links")
         
-        # Most broken files
-        print(f"\n💥 MOST BROKEN FILES:")
-        for file, count in results['most_broken_files'][:10]:
-            print(f"   {file}: {count} broken links")
+        if report['files_with_most_broken_links']:
+            print(f"\n📁 FILES WITH MOST BROKEN LINKS")
+            for file_path, count in report['files_with_most_broken_links']:
+                print(f"  {file_path}: {count} broken links")
         
-        # Broken link categories
-        print(f"\n📋 BROKEN LINK CATEGORIES:")
-        for category, links in results['broken_by_category'].items():
-            print(f"   {category}: {len(links)} links")
+        if report['critical_navigation_issues']:
+            print(f"\n🔴 CRITICAL NAVIGATION ISSUES ({len(report['critical_navigation_issues'])})")
+            for issue in report['critical_navigation_issues'][:10]:  # Show first 10
+                print(f"  {issue['source_file']}: [{issue['link_text']}]({issue['link_url']})")
+                print(f"    → Expected: {issue['expected_path']}")
         
-        # Critical files analysis
-        critical_files = ['Home.md', '_Sidebar.md', 'index.md', 'README.md']
-        print(f"\n🚨 CRITICAL FILES ANALYSIS:")
-        for file in critical_files:
-            matching_files = [f for f in results['files_with_broken_links'].keys() if file in f]
-            if matching_files:
-                for match in matching_files:
-                    count = len(results['files_with_broken_links'][match])
-                    print(f"   {match}: {count} broken links")
-            else:
-                print(f"   {file}: No broken links found")
-        
-        # Sample broken links
-        print(f"\n🔍 SAMPLE BROKEN LINKS:")
-        for i, broken_link in enumerate(results['all_broken_links'][:20]):
-            print(f"   {i+1}. [{broken_link['text']}]({broken_link['url']}) in {broken_link['file']}")
-            print(f"      Reason: {broken_link['reason']}")
-        
-        if len(results['all_broken_links']) > 20:
-            print(f"   ... and {len(results['all_broken_links']) - 20} more broken links")
-        
-        # Recommendations
-        print(f"\n💡 RECOMMENDATIONS:")
-        if results['broken_links'] > 0:
-            print("   1. Fix navigation files first (Home.md, _Sidebar.md)")
-            print("   2. Create missing index.md files in directories")
-            print("   3. Update relative paths to use correct directory structure")
-            print("   4. Consider using absolute paths for better consistency")
+        print(f"\n📝 DETAILED BROKEN LINKS")
+        if len(self.broken_links) <= 20:
+            # Show all if not too many
+            for broken in self.broken_links:
+                print(f"  {broken['source_file']}: [{broken['link_text']}]({broken['link_url']})")
+                print(f"    → Expected: {broken['expected_path']} ({broken['category']})")
         else:
-            print("   🎉 All links are working correctly!")
+            # Show first 20 with count
+            for broken in self.broken_links[:20]:
+                print(f"  {broken['source_file']}: [{broken['link_text']}]({broken['link_url']})")
+                print(f"    → Expected: {broken['expected_path']} ({broken['category']})")
+            print(f"  ... and {len(self.broken_links) - 20} more broken links")
+        
+        print("\n" + "="*80)
+        print("🎯 VALIDATION COMPLETE")
+        print("="*80)
+
 
 def main():
-    wiki_root = "/Users/pascaldisse/mxoemu_forum_scrape/wiki"
+    wiki_root = '/Users/pascaldisse/mxoemu_forum_scrape/wiki'
+    
+    print("🕶️ Matrix Online Wiki Link Validator")
+    print("Initiating comprehensive link validation...")
+    
     validator = WikiLinkValidator(wiki_root)
-    validator.run_validation()
-    validator.print_report()
+    validator.validate_all_links()
     
-    # Save detailed results to JSON
-    with open(os.path.join(wiki_root, 'link_validation_results.json'), 'w') as f:
-        json.dump(validator.results, f, indent=2)
+    # Generate and save detailed report
+    report = validator.generate_report()
     
-    print(f"\n💾 Detailed results saved to: {wiki_root}/link_validation_results.json")
+    # Save JSON report
+    report_file = Path(wiki_root) / 'link_validation_report.json'
+    with open(report_file, 'w', encoding='utf-8') as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
+    
+    # Print summary
+    validator.print_summary_report()
+    
+    print(f"\n📄 Detailed report saved to: {report_file}")
 
 if __name__ == "__main__":
     main()
