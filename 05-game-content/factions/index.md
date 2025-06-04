@@ -18,7 +18,7 @@
 
 A revolutionary expansion of Matrix Online's faction system exploring deep philosophical questions about consciousness, individuality, and what constitutes true happiness.
 
-#### The Three New Forces
+#### The Four New Forces
 
 ##### 🌟 The Overseers
 - **Philosophy**: "Transcendence Through Unity"
@@ -37,6 +37,12 @@ A revolutionary expansion of Matrix Online's faction system exploring deep philo
 - **Goal**: Protect the right to remain yourself
 - **Method**: Cross-species alliance of humans and machines
 - **Appeal**: Freedom to be incomplete but authentic
+
+##### 🏛️ The Old Guard
+- **Philosophy**: "There Is No Paradise - Only What We Can Hold"
+- **Goal**: Preserve corrupted reality and prevent utopian disasters
+- **Method**: Maintain broken but stable Matrix systems
+- **Appeal**: Survival when all dreams fail
 
 ## 🎮 Faction Features
 
