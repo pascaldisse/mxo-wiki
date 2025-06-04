@@ -49,11 +49,15 @@ Before you begin, you'll need:
 - [Timeline of Liberation](timeline-of-liberation.md) - The complete history
 - [Server Projects Comparison](../02-server-setup/server-projects-comparison.md)
 - [Lost Tools Archive](../04-tools-modding/lost-tools-archive.md)
+- [Available Tools Catalog](../04-tools-modding/available-tools-catalog.md)
+- [Tool Recovery & Recreation](../04-tools-modding/tool-recovery-recreation.md)
 
 ### Technical Resources
 - [File Formats Complete](../03-technical/file-formats-complete.md)
 - [Combat Implementation Guide](../03-technical/combat-implementation-guide.md)
 - [CNB Viewer Development](../04-tools-modding/cnb-viewer-development.md)
+- [Model Formats](../03-technical/model-formats.md)
+- [Texture Formats](../03-technical/texture-formats.md)
 
 ## 🤔 Frequently Asked Questions
 
@@ -90,9 +94,12 @@ Once you have the basics covered:
 2. **Join the Community**
    - [Join the Resistance](../08-community/join-the-resistance.md)
    - [Discord](https://discord.gg/3QXTAGB9) for real-time community
+   - [Contribution Framework](../08-community/contribution-framework.md)
+   - [GitHub Workflow Standards](../08-community/github-workflow-standards.md)
 
 3. **Explore Advanced Topics**
    - [Tool Development](../04-tools-modding/tool-development-guide.md)
+   - [AI-Assisted Development](../04-tools-modding/ai-assisted-development.md)
    - [File Format Documentation](../03-technical-docs/file-formats/index.md)
    - [Preservation Efforts](../07-preservation/index.md)
 
