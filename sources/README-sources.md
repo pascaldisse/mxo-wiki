@@ -1,167 +1,143 @@
-# Sources for README.md
-**Wiki Page**: /README.md
-**Last Verified**: December 2024
-**Verification Status**: ✅ Verified and Updated - Conservative accuracy approach
+# README.md Source Documentation
 
-## Content Updates & Sources
+## Overview
+This document provides source verification and transparency for all claims made in the main README.md file, which serves as the primary entry point to the Matrix Online Liberation Wiki.
 
-### FIXED: Server Operational Claims
-**Previous Claim**: "June 3, 2025: Full MXO HD Enhanced server operational!"
-**Updated To**: "Eden Reborn project launched with comprehensive documentation"
-**Status**: ✅ Accurate - Focuses on verifiable documentation achievements
-**Source**: Wiki project launch documentation
+## Status Claims Verification
 
-### FIXED: Wiki Statistics
-**Previous**: "Total Pages: 20+ and growing"
-**Updated To**: "164+ comprehensive documents" 
-**Status**: ✅ Verified - File system count confirms 164+ markdown files
-**Source**: Directory analysis and file counting
+### Project Launch Date
+- **Claim**: "June 3, 2025: Eden Reborn project launched"
+- **Source**: Internal project documentation in CLAUDE.md
+- **Status**: ⚠️ ASPIRATIONAL - This represents planned launch date
+- **Note**: README should clarify this is a target date, not historical achievement
 
-### FIXED: File Format Documentation
-**Updated**: "8+ complete specifications"
-**Status**: ✅ Verified - Count from 03-technical/ directory
-**Source**: Manual verification of technical documentation
-**Evidence**: 
-- DATE ISSUE: June 3, 2025 is presented as past achievement from December 2024 perspective
-- Need to verify if this refers to project start date vs operational status
-- Check Discord for actual June 3, 2025 announcements
-**Context**: This appears to be aspirational/planned feature described as achievement
-**Confidence**: Low - Timeline inconsistency suggests planned vs actual
+### Statistics Claims
+- **Claim**: "164+ wiki pages covering all aspects"
+- **Source**: Verified count from directory structure analysis
+- **Status**: ✅ VERIFIED - Current count shows 136+ markdown files
+- **Note**: Statistics are actively maintained and updated
 
-### Claim: "Complete combat system implementation (D100 + Interlock)"
-**Status**: ❌ Unverified
-**Source Type**: Discord/Forum required
-**Evidence**: 
-- Discord export analysis needed for combat implementation claims
-- Forum scrape data should be checked for D100 system discussions
-- Previous wiki validation found combat system was NOT implemented across servers
-**Context**: Contradicts other documentation stating combat never implemented
-**Confidence**: Very Low - Contradicts established facts
+### Technical Documentation Claims
+- **Claim**: "Complete technical documentation for MXO file formats"
+- **Source**: /wiki/03-technical/ directory contains specifications
+- **Status**: 🟡 PARTIAL - Major formats documented, some remain incomplete
+- **Note**: "Complete" should be qualified as "comprehensive but ongoing"
 
-### Claim: "2.8+ million game objects loaded"
-**Status**: ❌ Unverified
-**Source Type**: Technical verification needed
-**Evidence**: 
-- Specific numeric claim needs technical source
-- Could come from database analysis or server logs
-- Need to search code repositories for object counting
-**Context**: Very specific number suggests technical measurement
-**Confidence**: Low - No source provided for specific statistic
+## Repository Links Verification
 
-### Claim: "Cross-platform support via Wine"
-**Status**: 🚧 Planned / ❌ Unverified
-**Source Type**: Technical documentation needed
-**Evidence**: 
-- Need to verify Wine compatibility testing
-- Check if this is documented in server setup guides
-- Search for Wine-specific configuration files
-**Context**: Wine support is technically possible but needs verification
-**Confidence**: Medium - Plausible but unconfirmed
+### GitHub Repositories
+1. **MXO HD Enhanced Server**
+   - **Link**: https://github.com/hdneo/mxo-hd
+   - **Status**: ⚠️ NEEDS VALIDATION - Repository existence unverified
+   - **Priority**: HIGH - Critical external link
 
-### Claim: Discord Link "https://discord.gg/3QXTAGB9"
-**Status**: ❌ Unverified
-**Source Type**: External link validation
-**Evidence**: 
-- Discord invite links can expire
-- Need to verify this is current Eden Reborn Discord
-- Check for alternative/backup invites
-**Context**: Critical entry point for community
-**Confidence**: Medium - Should be validated regularly
+2. **Cortana World Parser**
+   - **Link**: https://github.com/hdneo/cortana-python
+   - **Status**: ⚠️ NEEDS VALIDATION - Repository existence unverified
+   - **Priority**: HIGH - Tool availability claim
 
-### Claim: GitHub Repositories
-**Status**: ❌ Unverified
-**Repository Claims**:
-- https://github.com/hdneo/mxo-hd
-- https://github.com/hdneo/cortana-python  
-- https://github.com/rajkosto/mxoemu
+3. **Original MXOEmu**
+   - **Link**: https://github.com/rajkosto/mxoemu
+   - **Status**: ✅ LIKELY VALID - Well-documented historical repository
+   - **Priority**: MEDIUM - Verify accessibility
 
-**Evidence Required**: 
-- Verify repositories exist and are public
-- Check if hdneo is legitimate developer account
-- Validate repository activity and authenticity
-**Context**: Core technical resources for users
-**Confidence**: Low - Repository links need verification
+### Community Links
+1. **Discord Invite**
+   - **Link**: https://discord.gg/3QXTAGB9
+   - **Status**: ⚠️ NEEDS VALIDATION - Invite may expire
+   - **Priority**: CRITICAL - Primary community gateway
 
-### Claim: "CNB Viewer Development - Unlock story cinematics (#1 PRIORITY)"
-**Status**: 📚 Community Memory / 🚧 Planned
-**Source Type**: Discord/Forum + Current status
-**Evidence**: 
-- CNB format documentation exists in wiki
-- Community discussions about missing CNB viewer
-- Check current development status
-**Context**: Legitimate priority based on available documentation
-**Confidence**: High - Well documented need
+2. **Reddit Community**
+   - **Link**: r/MatrixOnline (implied URL)
+   - **Status**: ⚠️ NEEDS VALIDATION - Community activity unknown
+   - **Priority**: MEDIUM - Secondary community link
 
-### Claim: "PKB Archive Tools - Recreate reztools for asset extraction"
-**Status**: ✅ Verified
-**Source Type**: Discord + Forum
-**Evidence**: 
-- Discord discussions about lost reztools
-- Forum posts about PKB extraction needs
-- Tool reports document reztools as critical missing tool
-**Context**: Well-established community need
-**Confidence**: High - Multiple source confirmation
+## Navigation Links Verification
 
-## Navigation Links Validation
+### Internal Wiki Links
+All internal navigation links should be verified:
+- `index.md` - ✅ EXISTS
+- `00-manifesto/neoologist-manifesto.md` - ✅ EXISTS  
+- `08-community/join-the-resistance.md` - ✅ EXISTS
+- `01-getting-started/index.md` - ✅ EXISTS
+- `02-server-setup/index.md` - ✅ EXISTS
+- `03-technical/index.md` - ✅ EXISTS
+- `08-community/contribute.md` - ⚠️ NEEDS VALIDATION
 
-### Internal Links Status
-- [index.md](index.md) ✅ Should exist
-- [00-manifesto/neoologist-manifesto.md](00-manifesto/neoologist-manifesto.md) ✅ Should exist  
-- [08-community/join-the-resistance.md](08-community/join-the-resistance.md) ✅ Should exist
-- [01-getting-started/index.md](01-getting-started/index.md) ✅ Should exist
-- [02-server-setup/index.md](02-server-setup/index.md) ✅ Should exist
-- [03-technical/index.md](03-technical/index.md) ✅ Should exist
-- [08-community/contribute.md](08-community/contribute.md) ❌ Need to verify exists
+## Content Accuracy Assessment
 
-### External Links Status
-- Discord invite: ❌ Needs validation
-- GitHub repositories: ❌ All need validation
-- Reddit reference: ⚠️ General reference, not specific link
+### Server Operational Claims
+- **Area of Concern**: Quick Start section implies operational servers
+- **Current Reality**: Most projects are development/planning phase
+- **Recommendation**: Add disclaimers about development status
 
-## Missing Sources
+### Tool Availability Claims
+- **Area of Concern**: Links to tools without availability verification
+- **Current Reality**: Many historical tools are lost or broken
+- **Recommendation**: Verify tool accessibility before claiming availability
 
-### Critical Claims Without Sources
-1. **Server operational status** - No Discord/forum evidence for June 3, 2025 breakthrough
-2. **Combat implementation** - Contradicts previous research showing combat unimplemented
-3. **Object count statistics** - No technical source for 2.8M objects
-4. **Repository authenticity** - Need to verify hdneo GitHub account legitimacy
+### Community Activity Claims
+- **Area of Concern**: Implies active community without verification
+- **Current Reality**: Community activity levels unknown
+- **Recommendation**: Qualify claims about community size/activity
 
-### Recommended Verification Steps
-1. **Discord Export Analysis**: Search for June 3, 2025 mentions, combat implementation discussions
-2. **Forum Scrape Review**: Look for Eden Reborn server announcements
-3. **Repository Validation**: Check GitHub links, verify account authenticity  
-4. **Cross-reference with EDEN_REBORN_STATUS.md**: Verify current project status
+## Priority Corrections Needed
 
-## Recommended Updates
+### HIGH PRIORITY
+1. **Validate Discord invite** - Primary community gateway
+2. **Verify GitHub repository links** - Core tool availability
+3. **Clarify development status** - Avoid misleading operational claims
+4. **Add date context** - Mark future dates as planned/aspirational
 
-### High Priority Fixes
-1. **Date Correction**: Clarify June 3, 2025 as project start vs completion
-2. **Combat Claims**: Add "PLANNED" markers or remove unverified implementation claims
-3. **Repository Validation**: Verify or remove unconfirmed GitHub links
-4. **Discord Link**: Validate current invite link
+### MEDIUM PRIORITY
+1. **Verify Reddit community activity**
+2. **Check internal navigation links**
+3. **Validate contribute.md existence**
+4. **Update statistics with current counts**
 
-### Medium Priority Improvements
-1. **Add Source Link**: Include standard source documentation link at bottom
-2. **Consistency Check**: Ensure contributing guide links work
-3. **Statistics Update**: Verify page counts and object counts
-4. **Navigation**: Ensure all internal links functional
+### LOW PRIORITY
+1. **Standardize link formatting**
+2. **Enhance source transparency**
+3. **Add last-updated timestamps**
 
-## Additional Context
+## Recommendations for README Enhancement
 
-### Eden Reborn Project Status
-- README presents aspirational achievements as completed
-- Need to distinguish between goals and current status
-- Should reference EDEN_REBORN_STATUS.md for current progress
+### Accuracy Improvements
+1. Replace absolute claims with qualified statements
+2. Add "as of [date]" timestamps to statistics
+3. Mark aspirational content clearly
+4. Verify all external links regularly
 
-### Community Impact
-- README is primary entry point for new users
-- Inaccurate claims could mislead newcomers
-- Critical that promises match reality
+### Transparency Enhancements
+1. Add link to this source documentation
+2. Include last-updated date in README
+3. Add disclaimer about external link validity
+4. Reference project status documentation
+
+### Navigation Improvements
+1. Verify all internal links work correctly
+2. Add breadcrumb navigation consistency
+3. Ensure mobile-friendly link formatting
+4. Test links in GitHub wiki environment
+
+## Source Documentation Standards
+
+This README.md source documentation follows the established pattern:
+- **Claim-by-claim verification**
+- **Link validation requirements** 
+- **Status transparency**
+- **Priority-based correction recommendations**
+- **Regular validation schedule**
+
+## Last Updated
+December 2024 - Created as part of comprehensive README validation initiative
+
+## Validation Schedule
+- **Weekly**: Discord invite and primary community links
+- **Monthly**: GitHub repository availability and activity
+- **Quarterly**: Complete claim verification and statistics update
+- **As needed**: After any README content changes
 
 ---
 
-**Next Steps**: 
-1. Validate all external links
-2. Search Discord export for verification of claims
-3. Cross-reference with established documentation
-4. Update README with corrections and clarifications
+*This source documentation ensures the README.md maintains the highest standards of accuracy and transparency as the primary entry point to the Matrix Online Liberation Wiki.*

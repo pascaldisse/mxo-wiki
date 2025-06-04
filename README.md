@@ -161,8 +161,10 @@ We respect intellectual property while preserving gaming history.
 
 ---
 
+📚 [View Sources](sources/README-sources.md) | [Source Documentation Index](sources/index.md)
+
+---
+
 > *"There is no spoon."* - But there IS a wiki, and it's libre.
 
 **Welcome to Eden Reborn. Welcome home.**
-
----
