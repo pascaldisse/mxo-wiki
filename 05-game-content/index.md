@@ -166,7 +166,7 @@ Comprehensive guide to MXO's mission system, contact hierarchy, and story progre
 - **Social Media**: Community memories and screenshots
 
 ### Related Sections
-- **[Technical Documentation](../03-technical-docs/index.md)** - File format analysis
+- **[Technical Documentation](../03-technical/index.md)** - File format analysis
 - **[Preservation Hub](../07-preservation/index.md)** - General preservation methods
 - **[Community](../08-community/index.md)** - Get involved in story collection
 

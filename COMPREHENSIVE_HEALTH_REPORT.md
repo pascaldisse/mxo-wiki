@@ -67,7 +67,7 @@
    - Impact: Navigation flow disrupted
 
 3. **Duplicate Directory Structure** 
-   - `03-technical/` vs `03-technical-docs/` confusion
+   - `03-technical/` vs `03-technical/` confusion
    - `04-tools-modding/` vs `06-tools-modding/` overlap
 
 #### External Link Health

@@ -19,4 +19,4 @@
 
 ---
 
-[← Back to PKB Archives](../../../03-technical-docs/file-formats/pkb-archives.md) | [Sources Index →](../../index.md)
+[← Back to PKB Archives](../../../03-technical/file-formats/pkb-archives.md) | [Sources Index →](../../index.md)

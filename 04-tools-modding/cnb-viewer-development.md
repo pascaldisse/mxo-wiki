@@ -446,4 +446,4 @@ This guide shows the door to CNB liberation. Behind it lies the complete story o
 
 ---
 
-[← Back to Tools](index.md) | [CNB Format Details →](../03-technical-docs/file-formats/cnb-format.md) | [Join Development →](../08-community/join-the-resistance.md)
+[← Back to Tools](index.md) | [CNB Format Details →](../03-technical/cnb-format.md) | [Join Development →](../08-community/join-the-resistance.md)

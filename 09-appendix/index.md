@@ -44,7 +44,7 @@ The appendix serves as:
 
 ## 📚 Related Sections
 
-- [Technical Documentation](../03-technical-docs/index.md) - Specifications
+- [Technical Documentation](../03-technical/index.md) - Specifications
 - [Preservation](../07-preservation/index.md) - Archive efforts
 - [Community](../08-community/index.md) - Get involved
 

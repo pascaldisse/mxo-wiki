@@ -42,7 +42,7 @@ Start here: [Server Setup](02-server-setup/index.md)
 - Welcome your community
 
 ### For Developers
-Start here: [Technical Documentation](03-technical-docs/index.md)
+Start here: [Technical Documentation](03-technical/index.md)
 - File format specifications
 - Network protocols
 - Tool development guides
@@ -55,7 +55,7 @@ Start here: [Technical Documentation](03-technical-docs/index.md)
 ├── 00-manifesto/          # The Neoologist vision
 ├── 01-getting-started/    # New user guides
 ├── 02-server-setup/       # Server installation & config
-├── 03-technical-docs/     # File formats & protocols
+├── 03-technical/     # File formats & protocols
 ├── 04-tools-modding/      # Development tools
 ├── 05-game-content/       # Story, missions, lore
 ├── 06-gameplay-systems/   # Combat, mechanics

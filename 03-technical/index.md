@@ -28,7 +28,7 @@ Begin with [File Formats Complete](file-formats-complete.md) for an overview, th
 
 ## 📚 Related Sections
 
-- [Technical Documentation](../03-technical-docs/index.md) - File format specifications
+- [Technical Documentation](../03-technical/index.md) - File format specifications
 - [Tools & Modding](../04-tools-modding/index.md) - Development tools
 - [Server Setup](../02-server-setup/index.md) - Practical server guides
 

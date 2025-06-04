@@ -159,7 +159,7 @@ eden-reborn-wiki/
 │   ├── 03-technical/
 │   ├── 04-tools-modding/
 │   ├── 05-game-content/
-│   ├── 03-technical-docs/
+│   ├── 03-technical/
 │   ├── 07-preservation/
 │   └── 08-community/
 ├── tools/                      # Utilities and scripts

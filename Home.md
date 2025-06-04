@@ -46,7 +46,7 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 
 ### 🔴 Critical Priorities
 1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development.md)** - Unlock the story cinematics (#1 PRIORITY)
-2. **[PKB Archive Tools](03-technical-docs/file-formats/pkb-archives.md)** - Recreate reztools for asset extraction
+2. **[PKB Archive Tools](03-technical/pkb-archives.md)** - Recreate reztools for asset extraction
 3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis.md)** - Complete the D100 system
 
 ### 📖 Popular Pages
@@ -105,7 +105,7 @@ This wiki contains:
 ## 🔗 Quick Navigation
 
 ### Technical
-- [File Formats](03-technical-docs/file-formats/index.md)
+- [File Formats](03-technical/file-formats.md)
 - [Server Architecture](03-technical/server-architecture.md)
 - [Combat System](06-gameplay-systems/combat/ida-pro-analysis.md)
 - [Database Setup](02-server-setup/database-setup.md)

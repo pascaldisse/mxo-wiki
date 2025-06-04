@@ -32,7 +32,7 @@ The dramatic increase in broken links (119 → 229) indicates:
 **Pattern**: `../sources/*/***-sources.md` 
 **Impact**: 80+ broken links
 **Examples**:
-- `../sources/03-technical-docs/file-formats/prop-format-complete-sources.md`
+- `../sources/03-technical/file-formats/prop-format-complete-sources.md`
 - `../sources/04-tools-modding/automation-scripts-sources.md`
 - `../sources/02-server-setup/server-troubleshooting-sources.md`
 
@@ -58,7 +58,7 @@ The dramatic increase in broken links (119 → 229) indicates:
 
 #### 1. Create Missing Source Files Structure
 ```bash
-mkdir -p sources/{01-getting-started,02-server-setup,03-technical-docs/file-formats,03-technical,04-tools-modding,05-game-content/story,06-gameplay-systems,07-preservation,08-community,09-appendix}
+mkdir -p sources/{01-getting-started,02-server-setup,03-technical/file-formats,03-technical,04-tools-modding,05-game-content/story,06-gameplay-systems,07-preservation,08-community,09-appendix}
 ```
 
 #### 2. Fix Most Frequent Broken Links
@@ -110,7 +110,7 @@ mkdir -p sources/{01-getting-started,02-server-setup,03-technical-docs/file-form
 ### Critical Files (>50% broken links)
 1. **LINK_VALIDATION_REPORT.md** (93% broken) - Contains test/validation links
 2. **sources/index.md** (67% broken) - Core navigation hub
-3. **03-technical-docs/index.md** (100% broken) - Section entry point
+3. **03-technical/index.md** (100% broken) - Section entry point
 
 ### High-Impact Files (10+ broken links each)
 1. **LINK_VALIDATION_REPORT.md** - 118 broken links

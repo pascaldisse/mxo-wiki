@@ -76,18 +76,18 @@
 - `[← Back to Servers](index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/index.md
 - `[Database Setup →](database-setup-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/database-setup-guide.md
 - `[Server Security →](server-security-hardening.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/server-security-hardening.md
-### 03-technical-docs/file-formats/cnb-format.md
+### 03-technical/file-formats/cnb-format.md
 
-- `[Join CNB Research →](cnb-research-team.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-research-team.md
-### 03-technical-docs/file-formats/pkb-archives.md
+- `[Join CNB Research →](cnb-research-team.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats/cnb-research-team.md
+### 03-technical/file-formats/pkb-archives.md
 
-- `[Contributing to PKB Research →](pkb-research.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-research.md
-### 03-technical-docs/file-formats/prop-format-complete.md
+- `[Contributing to PKB Research →](pkb-research.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats/pkb-research.md
+### 03-technical/file-formats/prop-format-complete.md
 
-- `[View Sources](../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
-### 03-technical-docs/file-formats/prop-format.md
+- `[View Sources](../../sources/03-technical/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats/prop-format-complete-sources.md
+### 03-technical/file-formats/prop-format.md
 
-- `[MOA Format →](moa-format.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/moa-format.md
+- `[MOA Format →](moa-format.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats/moa-format.md
 ### 03-technical/cnb-format-development-guide.md
 
 - `[File Formats →](../06-file-formats/index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-file-formats/index.md
@@ -257,10 +257,10 @@
 - `[Client Patches](02-server-setup/client-patches-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/client-patches-sources.md
 - `[Database Setup](02-server-setup/database-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/database-setup-sources.md
 - `[Reality Server Guide](02-server-setup/reality-server-guide-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/reality-server-guide-sources.md
-- `[Overview](03-technical-docs/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/index-sources.md
-- `[PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/pkb-archives-sources.md
-- `[CNB Format](03-technical-docs/file-formats/cnb-format-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/cnb-format-sources.md
-- `[PROP Format Complete](03-technical-docs/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+- `[Overview](03-technical/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/index-sources.md
+- `[PKB Archives](03-technical/file-formats/pkb-archives-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats/pkb-archives-sources.md
+- `[CNB Format](03-technical/file-formats/cnb-format-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats/cnb-format-sources.md
+- `[PROP Format Complete](03-technical/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats/prop-format-complete-sources.md
 - `[File Formats Complete](03-technical/file-formats-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats-complete-sources.md
 - `[Model Formats](03-technical/model-formats-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/model-formats-sources.md
 - `[Texture Formats](03-technical/texture-formats-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/texture-formats-sources.md

@@ -152,7 +152,7 @@ Complete methodology for recovering lost Matrix Online tools, including search s
 
 ### Technical Resources
 - **[Tool Archaeology](tool-archaeology.md)** - Software recovery methods
-- **[File Formats](../03-technical-docs/file-formats/index.md)** - Technical specifications
+- **[File Formats](../03-technical/file-formats.md)** - Technical specifications
 - **[Community Hub](../08-community/index.md)** - Collaborative platforms
 
 ## 💡 The Philosophy of Preservation

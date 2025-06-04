@@ -19,12 +19,12 @@
 - [Client Patches](02-server-setup/client-patches)
 - [Database Setup](02-server-setup/database-setup)
 
-## [🔧 Technical Docs](03-technical-docs/index)
+## [🔧 Technical Docs](03-technical/index)
 - **File Formats**
-  - [Overview](03-technical-docs/file-formats/index)
-  - [PKB Archives 🔴](03-technical-docs/file-formats/pkb-archives)
-  - [CNB Format 🔴](03-technical-docs/file-formats/cnb-format)
-  - [PROP Format Complete](03-technical-docs/file-formats/prop-format-complete)
+  - [Overview](03-technical/file-formats/index)
+  - [PKB Archives 🔴](03-technical/file-formats/pkb-archives)
+  - [CNB Format 🔴](03-technical/file-formats/cnb-format)
+  - [PROP Format Complete](03-technical/file-formats/prop-format-complete)
 
 ## [💻 Technical Deep Dives](03-technical/index)
 - [File Formats Complete](03-technical/file-formats-complete)
@@ -63,7 +63,7 @@
 
 ## 🔴 Critical Priorities
 1. [CNB Viewer Development](04-tools-modding/cnb-viewer-development)
-2. [PKB Tools](03-technical-docs/file-formats/pkb-archives)
+2. [PKB Tools](03-technical/file-formats/pkb-archives)
 3. [Combat Research](06-gameplay-systems/combat/ida-pro-analysis)
 
 ## 📊 Project Status

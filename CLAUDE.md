@@ -49,7 +49,7 @@ Comprehensive Matrix Online liberation wiki incorporating Neoologist philosophy 
 - **Priority Items Identified**: CNB viewer, PKB tools, reztools
 - **Lost Tools Documented**: 15+ tools cataloged
 - **File Formats Documented**: 5 complete specifications
-- **Duplicate Directories Found**: 2 (03-technical-docs/ vs 03-technical/, 07-development/ vs 07-preservation/)
+- **Duplicate Directories Found**: 2 (03-technical/ vs 03-technical/, 07-development/ vs 07-preservation/)
 - **Duplicate Content Files**: ~15 files with similar names/content
 - **Source Documentation**: Started (14 docs created, 122 more needed)
 - **Link Validation**: 73 broken links found (down from 238)
@@ -344,7 +344,7 @@ This wiki is not just documentation - it's a living manifesto for game liberatio
 ### ✅ Phase 3: Structural Analysis (COMPLETE)
 - **Total Files**: 136 markdown files (not 76 as previously tracked)
 - **Duplicate Directories**:
-  - 03-technical-docs/ and 03-technical/ (consolidation needed)
+  - 03-technical/ and 03-technical/ (consolidation needed)
   - 07-development/ and 07-preservation/ (numbering conflict)
 - **Duplicate Content**: ~15 files with similar names/functionality
 - **Examples**:

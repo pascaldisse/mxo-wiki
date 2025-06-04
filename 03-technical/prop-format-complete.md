@@ -335,6 +335,6 @@ Every tool we create will be open source. Every format we decode will be documen
 
 ---
 
-📚 [View Sources](../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md)
+📚 [View Sources](../../sources/03-technical/file-formats/prop-format-complete-sources.md)
 
 [← Back to File Formats](index.md) | [CNB Format →](cnb-format.md) | [PKB Archives →](pkb-archives.md)

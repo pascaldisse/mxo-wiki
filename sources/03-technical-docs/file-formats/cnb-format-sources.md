@@ -164,4 +164,4 @@ Offset 0x10: [Additional metadata]
 
 ---
 
-[← Back to CNB Format](../../../03-technical-docs/file-formats/cnb-format.md) | [Sources Index →](../../index.md)
+[← Back to CNB Format](../../../03-technical/file-formats/cnb-format.md) | [Sources Index →](../../index.md)

@@ -38,8 +38,8 @@ Before you begin, you'll need:
 - [Database Setup](../02-server-setup/database-setup.md)
 
 ### For Developers
-**Start Here**: [Technical Documentation](../03-technical-docs/index.md)
-- [File Format Specifications](../03-technical-docs/file-formats/index.md)
+**Start Here**: [Technical Documentation](../03-technical/index.md)
+- [File Format Specifications](../03-technical/file-formats.md)
 - [Server Architecture](../03-technical/server-architecture.md)
 - [Tool Development Guide](../04-tools-modding/tool-development-guide.md)
 
@@ -101,7 +101,7 @@ Once you have the basics covered:
 3. **Explore Advanced Topics**
    - [Tool Development](../04-tools-modding/tool-development-guide.md)
    - [AI-Assisted Development](../04-tools-modding/ai-assisted-development.md)
-   - [File Format Documentation](../03-technical-docs/file-formats/index.md)
+   - [File Format Documentation](../03-technical/file-formats.md)
    - [Preservation Efforts](../07-preservation/index.md)
 
 ## 🆘 Need Help?

@@ -34,10 +34,10 @@ Complete index of source documentation for all wiki pages.
 - ❌ [Reality Server Guide](02-server-setup/reality-server-guide-sources.md) - Needs sources
 
 ### 03-technical-docs
-- ❌ [Overview](03-technical-docs/index-sources.md) - Needs sources
-- ✅ [PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md) - **Created**
-- ✅ [CNB Format](03-technical-docs/file-formats/cnb-format-sources.md) - **Created**
-- ❌ [PROP Format Complete](03-technical-docs/file-formats/prop-format-complete-sources.md) - Needs sources
+- ❌ [Overview](03-technical/index-sources.md) - Needs sources
+- ✅ [PKB Archives](03-technical/file-formats/pkb-archives-sources.md) - **Created**
+- ✅ [CNB Format](03-technical/file-formats/cnb-format-sources.md) - **Created**
+- ❌ [PROP Format Complete](03-technical/file-formats/prop-format-complete-sources.md) - Needs sources
 
 ### 03-technical (Deep Dives)
 - ❌ [File Formats Complete](03-technical/file-formats-complete-sources.md) - Needs sources

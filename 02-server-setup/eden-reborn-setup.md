@@ -388,7 +388,7 @@ make server-backup
 - [Go Tutorial](https://tour.golang.org/)
 - [PostgreSQL Docs](https://www.postgresql.org/docs/)
 - [Docker Guide](https://docs.docker.com/get-started/)
-- [MXO Technical Docs](../03-technical-docs/)
+- [MXO Technical Docs](../03-technical/)
 
 ## The Vision Lives On
 

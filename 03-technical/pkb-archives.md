@@ -357,7 +357,7 @@ Current community-developed PKB tools:
 - **Web PKB Viewer** - Browser-based archive explorer (planned)
 
 ### Development Resources
-- **[Technical Documentation](../03-technical-docs/file-formats/pkb-archives.md)** - Basic format info
+- **[Technical Documentation](pkb-archive-structure.md)** - Detailed format analysis
 - **[Tool Development Guide](../04-tools-modding/tool-development-guide.md)** - Development setup
 - **[Community Discord](https://discord.gg/3QXTAGB9)** - Real-time development discussion
 

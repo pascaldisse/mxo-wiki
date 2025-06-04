@@ -40,8 +40,8 @@ The apparent decline from 87.2% to 67.7% is due to:
 
 ### Most Frequent Broken Links
 1. `link` (10 occurrences) - Generic placeholder text
-2. `../03-technical-docs/index.md` (8 occurrences)
-3. `../03-technical-docs/file-formats/index.md` (6 occurrences)
+2. `../03-technical/index.md` (8 occurrences)
+3. `../03-technical/file-formats/index.md` (6 occurrences)
 4. Various `../sources/` paths (multiple occurrences)
 5. `pkb-archive-investigation.md` (4 occurrences)
 
@@ -70,8 +70,8 @@ Cycle 3 achieved its goal of improving wiki health while accommodating significa
 
 ### Priority 1: Structural Fixes
 1. Create missing `index.md` files in:
-   - `/03-technical-docs/`
-   - `/03-technical-docs/file-formats/`
+   - `/03-technical/`
+   - `/03-technical/file-formats/`
 2. Remove or fix placeholder "link" references
 3. Clean up validation report meta-links
 

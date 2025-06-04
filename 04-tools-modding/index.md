@@ -195,9 +195,9 @@ Advanced AI-assisted development techniques for Matrix Online tools, including m
 - **Documentation**: This wiki section
 
 ### File Format References
-- **[PKB Archives](../03-technical-docs/file-formats/pkb-archives.md)** - Archive format
-- **[CNB Format](../03-technical-docs/file-formats/cnb-format.md)** - Cutscene format
-- **[PROP Format](../03-technical-docs/file-formats/prop-format.md)** - Object format
+- **[PKB Archives](../03-technical/pkb-archives.md)** - Archive format
+- **[CNB Format](../03-technical/cnb-format.md)** - Cutscene format
+- **[PROP Format](../03-technical/prop-format.md)** - Object format
 
 ## 💡 The Vision
 
@@ -209,6 +209,6 @@ We're not just preserving the past - we're building the future.
 
 ---
 
-[← Back to Technical Docs](../03-technical-docs/index.md) | [Next: Game Content →](../05-game-content/index.md)
+[← Back to Technical Docs](../03-technical/index.md) | [Next: Game Content →](../05-game-content/index.md)
 
 📚 [View Sources](../sources/04-tools-modding/index-sources.md)

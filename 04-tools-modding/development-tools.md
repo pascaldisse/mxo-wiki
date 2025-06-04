@@ -627,7 +627,7 @@ gh issue list --state open
 - **CMake Tutorial**: https://cmake.org/cmake/help/latest/guide/tutorial/
 
 #### Matrix Online Specific
-- **File Format Documentation**: [Technical Docs](../03-technical-docs/index.md)
+- **File Format Documentation**: [Technical Docs](../03-technical/index.md)
 - **Server Architecture**: [Server Architecture](../03-technical/server-architecture.md)
 - **Tool Development Guide**: [Tool Development](tool-development-guide.md)
 
