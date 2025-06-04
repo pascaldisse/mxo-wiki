@@ -199,4 +199,4 @@ The research showed us the door. The integration opened it. Now we walk through.
 *Research Integration Complete: June 3, 2025*
 *Next Step: Build what was lost*
 
-[← Back to Appendix](index.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md) | [View Timeline →](../01-overview/timeline-complete.md)
+[← Back to Appendix](index.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md) | [View Timeline →](../01-getting-started/timeline-overview.md)

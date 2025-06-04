@@ -47,6 +47,7 @@ Before you begin, you'll need:
 
 ### Documentation
 - [Timeline of Liberation](timeline-of-liberation.md) - The complete history
+- [Timeline Overview](timeline-overview.md) - Executive summary of the journey
 - [Server Projects Comparison](../02-server-setup/server-projects-comparison.md)
 - [Lost Tools Archive](../04-tools-modding/lost-tools-archive.md)
 - [Available Tools Catalog](../04-tools-modding/available-tools-catalog.md)
