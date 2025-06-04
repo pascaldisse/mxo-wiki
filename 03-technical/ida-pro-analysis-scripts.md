@@ -1316,4 +1316,4 @@ These IDA Pro scripts are the tools that opened the door to understanding Matrix
 
 ---
 
-[← Back to Technical](index.md) | [Combat Analysis →](combat-system-analysis.md) | [Network Protocol →](network-protocol-documentation.md)
+[← Back to Technical](index.md) | [Combat Analysis →](combat-system-analysis.md) | [Network Protocol →](network-protocol-complete.md)

@@ -245,7 +245,7 @@ class WikiIndexer:
                 '03-technical': 'Technical',
                 '04-tools-modding': 'Tools & Modding',
                 '05-game-content': 'Game Content',
-                '06-file-formats': 'File Formats',
+                '03-technical-docs': 'Technical Docs',
                 '07-development': 'Development',
                 '08-community': 'Community'
             }

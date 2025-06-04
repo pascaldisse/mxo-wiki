@@ -1304,4 +1304,4 @@ PKB archives are the body of The Matrix Online - they contain every asset that m
 
 ---
 
-[← Back to Technical](index.md) | [File Formats →](../06-file-formats/index.md) | [PKB Tools →](../04-tools-modding/pkb-tools.md)
+[← Back to Technical](index.md) | [File Formats →](../03-technical-docs/file-formats/index.md) | [PKB Archives →](pkb-archives.md)
