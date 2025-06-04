@@ -1,10 +1,6 @@
 # 🕶️ The Matrix Online: Eden Reborn Wiki
 **The Comprehensive Resource for MXO Liberation**
 
-> ### 🎉 **BREAKING: MATRIX ONLINE FULLY OPERATIONAL!**
-> **[Read the Eden Reborn Project →](02-server-setup/eden-reborn-success)**  
-> *June 3, 2025: Complete MXO HD Enhanced server with working combat, missions, and 2.8+ million game objects!*
-
 Welcome to Eden Reborn - where The Matrix Online lives again, free from corporate control.
 
 ---
