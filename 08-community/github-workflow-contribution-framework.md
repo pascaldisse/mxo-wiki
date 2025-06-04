@@ -155,7 +155,7 @@ eden-reborn-wiki/
 │   └── PULL_REQUEST_TEMPLATE/  # PR guidelines
 ├── docs/                       # Main documentation
 │   ├── 01-getting-started/
-│   ├── 02-servers/
+│   ├── 02-server-setup/
 │   ├── 03-technical/
 │   ├── 04-tools-modding/
 │   ├── 05-game-content/

@@ -241,7 +241,7 @@ class WikiIndexer:
         if len(path_parts) > 1:
             category_map = {
                 '01-getting-started': 'Getting Started',
-                '02-servers': 'Servers',
+                '02-server-setup': 'Server Setup',
                 '03-technical': 'Technical',
                 '04-tools-modding': 'Tools & Modding',
                 '05-game-content': 'Game Content',

@@ -7,10 +7,10 @@ Complete index of source documentation for all wiki pages.
 ## Source Coverage Status
 
 ### Overall Statistics
-- **Total Wiki Pages**: 98 *(current count)*
-- **Source Documents Created**: 8 (8.2%)
+- **Total Wiki Pages**: 107 *(after cleanup and additions)*
+- **Source Documents Created**: 8 (7.5%)
 - **In Progress**: 0 (0%)
-- **Needs Documentation**: 90 (91.8%)
+- **Needs Documentation**: 99 (92.5%)
 
 ## Source Documents by Section
 

@@ -88,10 +88,10 @@ Alternative implementation by pahefu and neowhoru with active development.
 - [Troubleshooting Guide](troubleshooting.md)
 
 ### Administration
-- [Server Administration Guide](../04-tools-modding/index.md)
+- [Advanced Administration](advanced-admin.md)
+- [GM Commands & Administration](gm-commands-administration.md)
+- [Server Troubleshooting](server-troubleshooting.md)
 - [Database Management](database-setup.md)
-- [Tools & Development](../04-tools-modding/tool-development-guide.md)
-- [Available Tools Catalog](../04-tools-modding/available-tools-catalog.md)
 
 ### Advanced Topics
 - [Technical Documentation](../03-technical-docs/index.md)

@@ -251,7 +251,7 @@ Connect with other redpills:
 
 This index is more than navigation - it's a map of our liberation. Every page represents defiance against corporate death. Every guide enables freedom.
 
-**83 pages. 107,000+ words. One vision: Liberation.**
+**107 pages. 150,000+ words. One vision: Liberation.**
 
 ## Remember
 
