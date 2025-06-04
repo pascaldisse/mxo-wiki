@@ -77,6 +77,25 @@ secrets/
 /temp/
 research_notes_private.txt
 
+# Archive Folders (old reports and validation files)
+/_archive/
+# Keep only the validation-reports that are referenced
+!/_archive/validation-reports/LINK_VALIDATION_REPORT.md
+!/_archive/validation-reports/final_link_validation_report.md
+
+# Test and validation scripts (moved to archive)
+*.py
+*.sh
+!tools/validate_wiki_links.py
+!tools/README.md
+
+# Temporary validation outputs
+/tmp/
+validation_*.json
+validation_*.txt
+link_*.txt
+link_*.json
+
 # Keep these
 !.gitignore
 !.gitkeep
