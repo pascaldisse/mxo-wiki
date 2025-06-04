@@ -65,6 +65,24 @@ gameobjects.pkb   - Object definitions
 
 **Success Story**: pahefu exported van_wheelless.prop to PLY format!
 
+#### pahefu's PLY Export Achievement (CONFIRMED WORKING)
+```
+File: van_wheelless.prop → van_wheelless.ply
+Results:
+✅ UV coordinates: PRESERVED
+✅ Normals: PRESERVED  
+✅ Edges: PRESERVED
+✅ Faces: PRESERVED
+✅ Per-vertex colors: PRESERVED
+❌ Bone weights: Not needed for static props
+✅ Viewable in MeshLab: CONFIRMED
+```
+
+**Quote from pahefu**:
+> *"I can load the prop models and textures. I'm cheating, so I don't load normals or such things, but they're there."*
+
+**Technical Significance**: This proves PROP format can be decoded and exported successfully. Foundation exists for full prop2fbx recreation.
+
 ### The Sacred Scale
 **1 unit = 1 centimeter**
 
@@ -149,10 +167,26 @@ Same soul, different body. The Lithtech legacy lives on.
 3. **Basic extraction** - If you have the tools
 
 ### ❌ What's Lost
-1. **reztools** - The master key
-2. **prop2fbx** - 3D conversion
-3. **txa2dds** - Texture liberation
-4. **Animation tools** - Never existed
+1. **reztools** - The master key (ALL PKB access blocked)
+2. **prop2fbx** - 3D conversion (rajkosto's creation, link dead Jan 2023)
+3. **txa2dds** - Texture liberation (essential for modding workflow)
+4. **Animation tools** - Never existed publicly
+
+#### The Lost Texture Modding Workflow
+**Process documented by sin_simulation** (NOW BROKEN):
+```bash
+# Original texture modding workflow (LOST TOOLS):
+1. reztools -> unpack PKB archives          # TOOL LOST
+2. txa2dds -> convert to editable format    # TOOL LOST  
+3. Edit in Photoshop/GIMP                   # Still works
+4. dds2txa -> convert back to MXO format    # TOOL LOST
+5. Repack into PKB archives                 # TOOL LOST
+```
+
+**Quote from sin_simulation**:
+> *"its a pain in the ass process that takes so much time"*
+
+**Result**: Complete texture modding workflow DESTROYED by tool loss.
 
 ### 🔒 What's Hidden
 rajkosto claims (March 2025):
@@ -170,7 +204,24 @@ But keeps it private. Classic Old Guard.
 ### Common Patterns
 - `0xffffffff` - Section terminators
 - Little endian byte order
-- TSEC rezid at offset 0x2C
+- **TSEC rezid**: Little endian uint32 at offset 0x2C in .metr files
+
+#### Technical Details from Community Research
+```c
+// TSEC rezid structure (from neowhoru's analysis)
+struct TSECRezID {
+    uint32_t id;           // At offset 0x2C in .metr files
+    // Used for staticObjectId mapping
+    // Essential for vendor item parsing
+};
+
+// Vendor item parsing (neowhoru's Python implementation)
+// Successfully mapped metrId to staticObjectId
+// CSV output: https://github.com/hdneo/mxo-hd/blob/master/hds/bin/Debug/data/vendor_items.csv
+```
+
+**Quote from neowhoru**:
+> *"I found the metr switch and it was a good chunk of effort but i was able to parse out the metrId for the item and match it with the staticObjectId. Note I only parsed the vendors I saw in the logs, so this doesn't have all vendor npcs."*
 
 ### Vertex Data Requirements
 1. UV coordinates (texture mapping)

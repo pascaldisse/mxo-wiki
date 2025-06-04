@@ -8,9 +8,9 @@ Complete index of source documentation for all wiki pages.
 
 ### Overall Statistics
 - **Total Wiki Pages**: 107 *(after cleanup and additions)*
-- **Source Documents Created**: 8 (7.5%)
+- **Source Documents Created**: 10 (9.3%)
 - **In Progress**: 0 (0%)
-- **Needs Documentation**: 99 (92.5%)
+- **Needs Documentation**: 97 (90.7%)
 
 ## Source Documents by Section
 
@@ -18,7 +18,7 @@ Complete index of source documentation for all wiki pages.
 - ❌ [Neoologist Manifesto](00-manifesto/neoologist-manifesto-sources.md) - Needs sources
 
 ### 01-getting-started
-- ❌ [Overview](01-getting-started/index-sources.md) - Needs sources
+- ✅ [Overview](01-getting-started/index-sources.md) - **Created**
 - ❌ [Timeline of Liberation Complete](01-getting-started/timeline-liberation-complete-sources.md) - Needs sources
 
 ### 02-server-setup
@@ -36,7 +36,7 @@ Complete index of source documentation for all wiki pages.
 ### 03-technical-docs
 - ❌ [Overview](03-technical-docs/index-sources.md) - Needs sources
 - ❌ [PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md) - Needs sources
-- ❌ [CNB Format](03-technical-docs/file-formats/cnb-format-sources.md) - Needs sources
+- ✅ [CNB Format](03-technical-docs/file-formats/cnb-format-sources.md) - **Created**
 - ❌ [PROP Format Complete](03-technical-docs/file-formats/prop-format-complete-sources.md) - Needs sources
 
 ### 03-technical (Deep Dives)
@@ -47,14 +47,14 @@ Complete index of source documentation for all wiki pages.
 - ❌ [Combat Implementation Guide](03-technical/combat-implementation-guide-sources.md) - Needs sources
 
 ### 04-tools-modding
-- ❌ [Overview](04-tools-modding/index-sources.md) - Needs sources
+- ✅ [Overview](04-tools-modding/index-sources.md) - **Created**
 - ❌ [Lost Tools Archive](04-tools-modding/lost-tools-archive-sources.md) - Needs sources
 - ❌ [Tool Development Guide](04-tools-modding/tool-development-guide-sources.md) - Needs sources
-- ❌ [CNB Viewer Development](04-tools-modding/cnb-viewer-development-sources.md) - Needs sources
+- ✅ [CNB Viewer Development](04-tools-modding/cnb-viewer-development-sources.md) - **Created**
 - ❌ [AI-Assisted Development](04-tools-modding/ai-assisted-development-sources.md) - Needs sources
 
 ### 05-game-content
-- ❌ [Overview](05-game-content/index-sources.md) - Needs sources
+- ✅ [Overview](05-game-content/index-sources.md) - **Created**
 - ❌ [The Matrix Online Saga](05-game-content/story/the-matrix-online-saga-sources.md) - Needs sources
 
 ### 06-gameplay-systems
