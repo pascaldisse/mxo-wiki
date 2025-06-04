@@ -3,6 +3,14 @@
 
 > *"I know you're out there. I can feel you now. I know that you're afraid... afraid of us. You're afraid of change."*
 
+---
+
+### [Enter the Wiki →](index.md) | [Read the Manifesto →](00-manifesto/neoologist-manifesto.md) | [Join Us →](08-community/join-the-resistance.md)
+
+### 🔗 **[Join Eden Reborn Discord](https://discord.gg/3QXTAGB9)** - Connect with the community!
+
+---
+
 ## Welcome to Paradise
 
 This is not just a wiki. This is the comprehensive liberation documentation for The Matrix Online - a complete guide to running, understanding, and transcending the game that refused to die.
@@ -158,5 +166,3 @@ We respect intellectual property while preserving gaming history.
 **Welcome to Eden Reborn. Welcome home.**
 
 ---
-
-[Enter the Wiki →](index.md) | [Read the Manifesto →](00-manifesto/neoologist-manifesto.md) | [Join Us →](08-community/join-the-resistance.md)
