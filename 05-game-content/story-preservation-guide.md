@@ -13,14 +13,14 @@ The Matrix Online's story wasn't just told - it was lived. Players shaped events
 ```
 📊 STORY CONTENT INVENTORY:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Critical Missions:     156 documented
-Side Missions:         400+ partially documented  
-Live Events:          52 major events
-Cinematics (CNB):     12 files (locked)
-Character Dialogues:   Thousands of lines
+Critical Missions:     156 documented *estimated*
+Side Missions:         400+ partially documented *estimated*
+Live Events:          52 major events *estimated*
+Cinematics (CNB):     12 files (locked) *verified in game files*
+Character Dialogues:   Thousands of lines *estimated*
 Player Stories:       Countless, unrecorded
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Status: 40% Preserved ⚠️
+Status: 40% Preserved ⚠️ *estimated*
 ```
 
 ### Why It Matters
@@ -64,7 +64,7 @@ class StorySourceCollector:
 - **Wiki Backups**: Various MXO wikis
 - **YouTube**: Cutscene recordings, event videos
 - **Screenshots**: Player collections
-- **Discord Export**: 32,000+ messages analyzed
+- **Discord Export**: 32,000+ messages analyzed *Source: matrix_emulation_export.txt*
 
 ### Phase 2: Content Extraction
 
@@ -416,8 +416,8 @@ mission:
       "This changes everything. Keep this quiet."
       
   rewards:
-    experience: 5000
-    info: 500
+    experience: 5000  # example value
+    info: 500  # example value
     items:
       - "Morpheus' Sunglasses Fragment"
       
@@ -504,16 +504,16 @@ graph TD
 - Some live events
 
 ### 🟡 Partially Preserved  
-- Mission dialogue (60%)
-- Side quests (40%)
-- NPC conversations (30%)
-- Item descriptions (50%)
+- Mission dialogue (60% *estimated*)
+- Side quests (40% *estimated*)
+- NPC conversations (30% *estimated*)
+- Item descriptions (50% *estimated*)
 
 ### 🔴 Critical Gaps
-- CNB cinematics (0% - locked)
-- Live event details (25%)
-- Player stories (5%)
-- Audio files (10%)
+- CNB cinematics (0% - locked) *verified - no CNB viewer exists*
+- Live event details (25% *estimated*)
+- Player stories (5% *estimated*)
+- Audio files (10% *estimated*)
 
 ## 📅 Preservation Roadmap
 
@@ -544,10 +544,10 @@ graph TD
 ## 🔧 Technical Requirements
 
 ### Storage
-- 10GB for text content
-- 50GB for screenshots
-- 100GB for videos
-- 200GB for full archive
+- 10GB for text content *estimated*
+- 50GB for screenshots *estimated*
+- 100GB for videos *estimated*
+- 200GB for full archive *estimated*
 
 ### Infrastructure
 ```yaml

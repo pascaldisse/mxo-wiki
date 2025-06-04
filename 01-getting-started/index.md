@@ -1,6 +1,6 @@
 # Getting Started with The Matrix Online
 
-Welcome to The Matrix Online! Whether you're a returning veteran or new to the game, this section will help you get up and running quickly.
+Welcome to The Matrix Online! Whether you're a returning veteran or new to the game, this section will help you get up and running.
 
 ## 📋 Prerequisites
 
@@ -24,45 +24,36 @@ Before you begin, you'll need:
 
 ## 🎮 Choose Your Path
 
-### [For Players: Quick Start Guide](player-quickstart.md)
-Get connected to a server and playing in under 30 minutes.
-- Download and patch your client
-- Connect to active servers
-- Create your first character
-- Basic gameplay tutorial
+### For Players
+**Start Here**: [Server Setup Guides](../02-server-setup/index.md)
+- Choose between available server options
+- Set up your client and connect
+- Learn about Eden Reborn development project
 
-### [For Server Operators: Setup Overview](server-quickstart.md)
-Learn what's involved in running your own MXO server.
-- Server options comparison (MXOEmu vs Hardline Dreams)
-- Hardware and software requirements
-- Basic setup walkthrough
-- Managing your server
-
-### [For Developers: Development Setup](developer-quickstart.md)
-Set up your environment for MXO development.
-- Source code repositories
-- Development tools
-- Building from source
-- Contributing guidelines
-
-## 🚀 Quick Links
-
-### Essential Downloads
+### For Server Operators  
+**Start Here**: [Server Setup Documentation](../02-server-setup/index.md)
+- [MXOEmu Setup](../02-server-setup/mxoemu-setup.md)
+- [Hardline Dreams Setup](../02-server-setup/hardline-dreams-setup.md)
 - [Client Patches](../02-server-setup/client-patches.md)
-- [Server Software](../02-server-setup/server-downloads.md)
-- [Required Tools](../04-tools-modding/essential-tools.md)
+- [Database Setup](../02-server-setup/database-setup.md)
 
-### Guides
-- [Client Setup Step-by-Step](client-setup.md)
-- [Connecting to Servers](server-connection.md)
-- [Character Creation](character-creation.md)
-- [First Steps in Mega City](first-steps.md)
+### For Developers
+**Start Here**: [Technical Documentation](../03-technical-docs/index.md)
+- [File Format Specifications](../03-technical-docs/file-formats/index.md)
+- [Server Architecture](../03-technical/server-architecture.md)
+- [Tool Development Guide](../04-tools-modding/tool-development-guide.md)
 
-### Troubleshooting
-- [Common Issues](troubleshooting.md)
-- [Connection Problems](connection-issues.md)
-- [Performance Optimization](performance.md)
-- [Error Messages](error-messages.md)
+## 🚀 Available Resources
+
+### Documentation
+- [Timeline of Liberation](timeline-of-liberation.md) - The complete history
+- [Server Projects Comparison](../02-server-setup/server-projects-comparison.md)
+- [Lost Tools Archive](../04-tools-modding/lost-tools-archive.md)
+
+### Technical Resources
+- [File Formats Complete](../03-technical/file-formats-complete.md)
+- [Combat Implementation Guide](../03-technical/combat-implementation-guide.md)
+- [CNB Viewer Development](../04-tools-modding/cnb-viewer-development.md)
 
 ## 🤔 Frequently Asked Questions
 
@@ -72,7 +63,7 @@ Set up your environment for MXO development.
 A: Yes! Through private server emulators, you can still experience MXO. The official servers closed in 2009, but the community has kept the game alive.
 
 **Q: Which server should I join?**
-A: Currently, there are several server projects in various stages of development. Check our [Server Status](server-status.md) page for the latest information.
+A: Currently, there are several server projects in various stages of development. Check our [Server Projects Comparison](../02-server-setup/server-projects-comparison.md) for details.
 
 **Q: Is this legal?**
 A: Server emulation for preservation purposes is generally considered legal, but you should own a legitimate copy of the game client.
@@ -80,41 +71,39 @@ A: Server emulation for preservation purposes is generally considered legal, but
 ### Technical Questions
 
 **Q: Can I play on Mac/Linux?**
-A: Yes, using Wine or virtual machines. See our [Alternative Platforms Guide](alternative-platforms.md).
+A: Yes, using Wine or virtual machines. MXO was designed for Windows but can run on other platforms.
 
 **Q: Do I need the original game discs?**
 A: While recommended, there are community resources available. Always ensure you have legal rights to the game.
 
-**Q: What about controller support?**
-A: MXO was designed for keyboard and mouse, but third-party tools can add controller support.
+**Q: What about Eden Reborn?**
+A: Eden Reborn is a new development project started June 3, 2025. It's currently in early development phase - see [Eden Reborn Project](../02-server-setup/eden-reborn-success.md) for details.
 
 ## 📚 Next Steps
 
 Once you have the basics covered:
 
-1. **Learn the Game**
-   - [Interface Guide](interface-guide.md)
-   - [Basic Controls](controls.md)
-   - [Combat Tutorial](combat-basics.md)
+1. **Learn the Game Systems**
+   - [Timeline of Liberation](timeline-of-liberation.md) - Understand the journey
+   - [Server Architecture](../03-technical/server-architecture.md) - Technical overview
 
 2. **Join the Community**
-   - [Discord Servers](../08-community/discord.md)
-   - [Forums and Social Media](../08-community/social.md)
-   - [Events Calendar](../08-community/events.md)
+   - [Join the Resistance](../08-community/join-the-resistance.md)
+   - [Discord](https://discord.gg/3QXTAGB9) for real-time community
 
 3. **Explore Advanced Topics**
-   - [Modding Introduction](../04-tools-modding/modding-intro.md)
-   - [Server Administration](../02-server-setup/admin-guide.md)
-   - [Development Contributing](../03-technical-docs/contributing.md)
+   - [Tool Development](../04-tools-modding/tool-development-guide.md)
+   - [File Format Documentation](../03-technical-docs/file-formats/index.md)
+   - [Preservation Efforts](../07-preservation/index.md)
 
 ## 🆘 Need Help?
 
-- **Quick Support**: Join our [Discord](../08-community/discord.md) for real-time help
-- **Detailed Issues**: Post in the [troubleshooting forum](troubleshooting.md)
-- **Bug Reports**: Submit to the appropriate server project
+- **Community Support**: Join our [Discord](https://discord.gg/3QXTAGB9) for real-time help
+- **Technical Issues**: Check [Tool Development Guide](../04-tools-modding/tool-development-guide.md)
+- **Project Updates**: Follow Eden Reborn development progress
 
 ---
 
 *Remember: The Matrix Online community is small but dedicated. Be patient, be helpful, and welcome to the Matrix!*
 
-[← Back to Main Index](../index.md) | [Next: Client Setup →](client-setup.md)
+[← Back to Main Index](../index.md) | [Timeline of Liberation →](timeline-of-liberation.md)

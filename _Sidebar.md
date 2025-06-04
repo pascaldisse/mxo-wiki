@@ -2,78 +2,83 @@
 
 ## [🏠 Home](Home)
 
-## [📜 Manifesto](00-manifesto/)
+## [📜 Manifesto](00-manifesto/index)
 - [Neoologist Manifesto](00-manifesto/neoologist-manifesto)
 
-## [📚 Sources](sources/)
+## [🌐 Overview](01-overview/index)
+- [Timeline Complete](01-overview/timeline-complete)
 
-## 🚀 Getting Started
-- [Overview](getting-started)
-- [Timeline of Liberation](timeline-of-liberation)
-- [Quick Start Player](player-quickstart)
-- [Quick Start Server](server-quickstart)
+## [🚀 Getting Started](01-getting-started/index)
+- [Timeline of Liberation](01-getting-started/timeline-of-liberation)
 
-## 🖥️ Server Setup
-- [Overview](server-setup)
-- [**🎉 Eden Reborn Success**](eden-reborn-success)
-- [MXOEmu Setup](mxoemu-setup)
-- [Hardline Dreams Setup](hardline-dreams-setup)
-- [Client Patching](client-patches)
-- [Database Setup](database-setup)
+## [🖥️ Server Setup](02-server-setup/index)
+- [🚧 Eden Reborn Project](02-server-setup/eden-reborn-success)
+- [Server Comparison](02-server-setup/server-projects-comparison)
+- [MXOEmu Setup](02-server-setup/mxoemu-setup)
+- [Hardline Dreams Setup](02-server-setup/hardline-dreams-setup)
+- [Reality Server Guide](02-server-setup/reality-server-guide)
+- [Client Patches](02-server-setup/client-patches)
+- [Database Setup](02-server-setup/database-setup)
 
-## 🔧 Technical Docs
-- [Overview](technical-docs)
+## [🔧 Technical Docs](03-technical-docs/index)
 - **File Formats**
-  - [Complete Guide](file-formats-complete)
-  - [PKB Archives 🔴](pkb-archives)
-  - [CNB Format 🔴](cnb-format)
-  - [Model Formats](model-formats)
-  - [Texture Formats](texture-formats)
-- [Server Architecture](server-architecture)
-- [Network Protocol](network-protocol)
-- [IDA Pro Combat](ida-pro-analysis)
+  - [Overview](03-technical-docs/file-formats/index)
+  - [PKB Archives 🔴](03-technical-docs/file-formats/pkb-archives)
+  - [CNB Format 🔴](03-technical-docs/file-formats/cnb-format)
+  - [PROP Format](03-technical-docs/file-formats/prop-format)
 
-## 🛠️ Tools & Modding
-- [Overview](tools-modding)
-- [Lost Tools Archive](lost-tools-archive)
-- [Available Tools](available-tools)
-- [Tool Development](tool-development)
+## [💻 Technical Deep Dives](03-technical/index)
+- [File Formats Complete](03-technical/file-formats-complete)
+- [Model Formats](03-technical/model-formats)
+- [Texture Formats](03-technical/texture-formats)
+- [Server Architecture](03-technical/server-architecture)
+- [Combat Implementation](03-technical/combat-implementation-guide)
 
-## 📖 Game Content
-- [Overview](game-content)
-- [The MXO Saga](the-matrix-online-saga)
-- [Missions](missions)
-- [Characters](characters)
-- [World Guide](world-guide)
+## [🛠️ Tools & Modding](04-tools-modding/index)
+- [Lost Tools Archive](04-tools-modding/lost-tools-archive)
+- [Tool Development Guide](04-tools-modding/tool-development-guide)
+- [CNB Viewer Development](04-tools-modding/cnb-viewer-development)
+- [AI-Assisted Development](04-tools-modding/ai-assisted-development)
 
-## ⚔️ Gameplay
-- [Overview](gameplay-systems)
-- [Combat System](combat-system)
-- [Character Development](character-development)
-- [Economy](economy)
+## [📖 Game Content](05-game-content/index)
+- [The MXO Saga](05-game-content/story/the-matrix-online-saga)
 
-## 💾 Preservation
-- [Overview](preservation)
-- [Archive Organization](archive-organization)
-- [Media Collection](media-collection)
+## [⚔️ Gameplay Systems](06-gameplay-systems/index)
+- [🚧 IDA Pro Analysis Plan](06-gameplay-systems/combat/ida-pro-analysis)
 
-## 🤝 Community
-- [Join the Resistance](join-the-resistance)
-- [Contributing](contributing)
-- [Discord](discord)
-- [Contact](contact)
+## [💾 Preservation](07-preservation/index)
+- [Tool Archaeology](07-preservation/tool-archaeology)
+
+## [🤝 Community](08-community/index)
+- [Join the Resistance](08-community/join-the-resistance)
+- [Discord](https://discord.gg/3QXTAGB9)
+
+## [📚 Appendix](09-appendix/index)
+- [Research Integration](09-appendix/research-integration-summary)
+
+## [📁 Sources](sources/index)
+- [Source Documentation](sources/README)
+- [Eden Reborn Sources](sources/02-server-setup/eden-reborn-success-sources)
 
 ---
 
 ## 🔴 Critical Priorities
-1. [CNB Viewer](cnb-format)
-2. [PKB Tools](pkb-archives)
-3. [Combat Implementation](combat-system)
+1. [CNB Viewer Development](04-tools-modding/cnb-viewer-development)
+2. [PKB Tools](03-technical-docs/file-formats/pkb-archives)
+3. [Combat Research](06-gameplay-systems/combat/ida-pro-analysis)
+
+## 📊 Project Status
+- [Wiki Progress](WIKI_PROGRESS)
+- [Task List](NEOOLOGIST_WIKI_TASK_LIST)
+- [Claude Status](CLAUDE)
+- [Eden Reborn Status](../EDEN_REBORN_STATUS)
+
+---
 
 ## 🌟 Quick Links
-- [GitHub Repos](repositories)
-- [Downloads](downloads)
-- [FAQ](faq)
+- [Full Index](index)
+- [GitHub Repos](#repositories)
+- [README](README)
 
 ---
 
