@@ -244,4 +244,4 @@ This architecture documentation opens the door. HD Enhanced walked through. Now 
 *Architecture documented by those who dared to understand*
 *Last updated: When the servers were freed*
 
-[← Back to Technical](index.md) | [Combat System →](combat-implementation.md) | [Network Protocol →](network-protocol.md)
+[← Back to Technical](index.md) | [Combat System →](combat-implementation-guide.md) | [Network Protocol →](network-protocol-complete.md)
