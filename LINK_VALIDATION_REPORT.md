@@ -1,204 +1,310 @@
-# 🔍 Matrix Online Wiki Link Validation Report
+# Matrix Online Wiki Link Validation Report
 
-**Critical Comprehensive Link Validation Results**  
-*Generated: June 4, 2025*
+## Executive Summary
 
-## 📊 Executive Summary
+### Key Metrics
+- **Total Files Scanned**: 98
+- **Total Links Found**: 718
+- **Internal Links**: 658
+- **Working Internal Links**: 539
+- **Broken Internal Links**: 119
+- **External Links**: 54
+- **Anchor Links**: 6
+- **Empty Links**: 0
 
-| Metric | Count | Percentage |
-|--------|-------|------------|
-| **Files Processed** | 85 | 100% |
-| **Total Links Found** | 525 | - |
-| **Broken Links** | 91 | **17.33%** |
-| **External Links** | 49 | 9.33% |
-| **Working Internal Links** | 385 | 73.33% |
+### Health Status
+- **Broken Link Rate**: 18.1%
+- **Link Health**: 🟡 MODERATE
 
-## 🚨 Critical Findings
+## Files with Most Broken Links
 
-### 🔴 **MAJOR ISSUE: High Broken Link Rate (17.33%)**
-The wiki has **91 broken internal links** out of 525 total links, indicating significant structural issues that severely impact user navigation and content discovery.
+1. **sources/index.md** - 31 broken links
+2. **LINK_VALIDATION_REPORT.md** - 5 broken links
+3. **02-server-setup/mxoemu-setup.md** - 3 broken links
+4. **02-servers/gm-commands-administration.md** - 3 broken links
+5. **08-community/github-workflow-contribution-framework.md** - 3 broken links
+6. **08-community/github-workflow-standards.md** - 3 broken links
+7. **02-server-setup/hd-enhanced-aspirational-setup.md** - 2 broken links
+8. **02-server-setup/hd-enhanced-realistic-setup.md** - 2 broken links
+9. **03-technical/cnb-format-development-guide.md** - 2 broken links
+10. **03-technical/combat-implementation-guide.md** - 2 broken links
 
-## 📋 Broken Links by Category
 
-### Missing Index Files (21 links)
-Critical navigation failures where directory-style links point to non-existent `index.md` files:
+## Broken Links by Category
 
-| Link Pattern | Count | Impact |
-|-------------|-------|--------|
-| `/05-game-content/` → `/05-game-content/index.md` | 2 | **HIGH** - Section navigation |
-| `/07-preservation/` → `/07-preservation/index.md` | 4 | **HIGH** - Section navigation |
-| `/` → `/index.md` | 5 | **CRITICAL** - Home navigation |
-| `/06-gameplay-systems/` → `/06-gameplay-systems/index.md` | 4 | **HIGH** - Section navigation |
-| Other missing indices | 6 | **MEDIUM** - Subsection navigation |
+### File Not Found (116 links)
 
-### Missing Content Pages (70 links)
-Content pages referenced but not created:
+- **01-getting-started/timeline-liberation-complete.md**: `[View Sources](../sources/01-getting-started/timeline-liberation-complete-sources.md)`
+- **02-server-setup/database-setup.md**: `[Next: Advanced Administration →](advanced-admin.md)`
+- **02-server-setup/hd-enhanced-aspirational-setup.md**: `[Eden Reborn →](eden-reborn-setup.md)`
+- **02-server-setup/hd-enhanced-aspirational-setup.md**: `[Troubleshooting →](server-troubleshooting.md)`
+- **02-server-setup/hd-enhanced-realistic-setup.md**: `[Troubleshooting →](server-troubleshooting.md)`
+- ... and 111 more
 
-| Category | Count | Examples |
-|----------|-------|----------|
-| **Community Pages** | 15 | `contact.md`, `contributing-guide.md`, `navigation-guide.md` |
-| **Technical Documentation** | 20 | `combat-implementation.md`, `network-protocol.md`, `pkb-archives.md` |
-| **Tool Documentation** | 12 | `pkb-tools.md`, `prop-tools.md`, `development-tools.md` |
-| **Game Content** | 15 | `mission-examples.md`, `character-profiles.md`, `districts-map.md` |
-| **Sources Documentation** | 8 | Various `-sources.md` files |
+### Outside Wiki Root (3 links)
 
-## 📁 Files with Most Broken Links
+- **02-server-setup/eden-reborn-success.md**: `[EDEN_REBORN_STATUS.md](../../EDEN_REBORN_STATUS.md)`
+- **LINK_VALIDATION_REPORT.md**: `[Technical Specs →](../03-technical/file-formats.md)`
+- **_Sidebar.md**: `[Eden Reborn Status](../EDEN_REBORN_STATUS)`
 
-| File | Broken Links | Critical Impact |
-|------|--------------|----------------|
-| **sources/index.md** | 10 | Complete sources section broken |
-| **08-community/github-workflow-standards.md** | 3 | GitHub workflow incomplete |
-| **08-community/github-workflow-contribution-framework.md** | 3 | Contribution process broken |
-| **02-servers/hd-enhanced-complete-setup.md** | 3 | Server setup incomplete |
-| **02-servers/hd-enhanced-realistic-setup.md** | 3 | Server setup incomplete |
-| **02-server-setup/mxoemu-setup.md** | 3 | MXO server setup broken |
+## Detailed Broken Links
 
-## 🔴 Critical Navigation Issues
+### 01-getting-started/timeline-liberation-complete.md
 
-### Main Navigation Failures
-These broken links affect core wiki navigation and user experience:
+- `[View Sources](../sources/01-getting-started/timeline-liberation-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/timeline-liberation-complete-sources.md
+### 02-server-setup/database-setup.md
 
-1. **Section Navigation Broken**
-   - All main section index pages have broken back/forward links
-   - Home links pointing to `/` fail (missing `/index.md`)
-   - Cross-section navigation completely broken
+- `[Next: Advanced Administration →](advanced-admin.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/advanced-admin.md
+### 02-server-setup/eden-reborn-success.md
 
-2. **Sources Section Completely Broken**
-   - `sources/index.md` has 10 broken links
-   - Entire sources documentation infrastructure missing
-   - Research citation system non-functional
+- `[EDEN_REBORN_STATUS.md](../../EDEN_REBORN_STATUS.md)` - outside wiki root: ../../EDEN_REBORN_STATUS.md
+### 02-server-setup/hd-enhanced-aspirational-setup.md
 
-3. **Community Section Partially Broken**
-   - Contact pages missing (`contact.md`)
-   - Contributing guides incomplete
-   - GitHub workflow documentation broken
+- `[Eden Reborn →](eden-reborn-setup.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/eden-reborn-setup.md
+- `[Troubleshooting →](server-troubleshooting.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+### 02-server-setup/hd-enhanced-realistic-setup.md
 
-## 🎯 Specific Critical Broken Links
+- `[Troubleshooting →](server-troubleshooting.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/server-troubleshooting.md
+- `[Development Guide →](../04-tools-modding/development-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-guide.md
+### 02-server-setup/mxoemu-setup.md
 
-### **CRITICAL - Navigation Infrastructure**
-```
-08-community/index.md: [Home](/) → /index.md (MISSING)
-05-game-content/index.md: [← Back to Tools & Modding](/04-tools-modding/) → /04-tools-modding/index.md (MISSING)
-06-gameplay-systems/index.md: [Next: Preservation →](/07-preservation/) → /07-preservation/index.md (MISSING)
-07-preservation/index.md: [← Back to Gameplay Systems](/06-gameplay-systems/) → /06-gameplay-systems/index.md (MISSING)
-```
+- `[Configure GM Commands](gm-commands.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/gm-commands.md
+- `[Add Custom Content](custom-content.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-server-setup/custom-content.md
+- `[Connect Test Client](../01-getting-started/server-connection.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/01-getting-started/server-connection.md
+### 02-servers/gm-commands-administration.md
 
-### **HIGH - Content Access**
-```
-08-community/join-the-resistance.md: [Contact Leaders →](contact.md) → 08-community/contact.md (MISSING)
-03-technical/file-formats-complete.md: [PKB Archives →](pkb-archives.md) → 03-technical/pkb-archives.md (MISSING)
-04-tools-modding/tool-development-guide.md: [Technical Specs →](../03-technical/file-formats.md) → 03-technical/file-formats.md (MISSING)
-```
+- `[← Back to Servers](index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/index.md
+- `[Database Setup →](database-setup-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/database-setup-guide.md
+- `[Server Security →](server-security-hardening.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/02-servers/server-security-hardening.md
+### 03-technical-docs/file-formats/cnb-format.md
 
-### **MEDIUM - Enhanced Features**
-```
-02-server-setup/mxoemu-setup.md: [Configure GM Commands](gm-commands.md) → 02-server-setup/gm-commands.md (MISSING)
-05-game-content/mission-system-guide.md: [Mission Examples →](mission-examples.md) → 05-game-content/mission-examples.md (MISSING)
-```
+- `[Join CNB Research →](cnb-research-team.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/cnb-research-team.md
+### 03-technical-docs/file-formats/pkb-archives.md
 
-## 🔧 Required Actions
+- `[Contributing to PKB Research →](pkb-research.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/pkb-research.md
+### 03-technical-docs/file-formats/prop-format-complete.md
 
-### **IMMEDIATE (Priority 1)**
-1. **Create missing index files:**
-   - `/index.md` (root wiki index)
-   - `/04-tools-modding/index.md`
-   - `/05-game-content/index.md`
-   - `/06-gameplay-systems/index.md`
-   - `/07-preservation/index.md`
+- `[View Sources](../../sources/03-technical-docs/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+### 03-technical-docs/file-formats/prop-format.md
 
-2. **Fix critical navigation:**
-   - Repair all section back/forward links
-   - Create proper home page linkage
-   - Fix sources section navigation
+- `[MOA Format →](moa-format.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical-docs/file-formats/moa-format.md
+### 03-technical/cnb-format-development-guide.md
 
-### **HIGH PRIORITY (Priority 2)**
-1. **Create essential content pages:**
-   - `08-community/contact.md`
-   - `03-technical/pkb-archives.md`
-   - `03-technical/file-formats.md`
-   - `04-tools-modding/pkb-tools.md`
+- `[File Formats →](../06-file-formats/index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-file-formats/index.md
+- `[CNB Research →](cnb-research-findings.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/cnb-research-findings.md
+### 03-technical/cnb-viewer-implementation.md
 
-2. **Complete server setup documentation:**
-   - `02-server-setup/gm-commands.md`
-   - `02-server-setup/custom-content.md`
-   - `02-servers/server-troubleshooting.md`
+- `[Development Tools →](../04-tools-modding/development-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-tools.md
+### 03-technical/combat-implementation-guide.md
 
-### **MEDIUM PRIORITY (Priority 3)**
-1. **Community documentation:**
-   - `08-community/contributing-guide.md`
-   - `08-community/navigation-guide.md`
-   - `08-community/community-guidelines.md`
+- `[IDA Pro Analysis →](ida-pro-analysis.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/ida-pro-analysis.md
+- `[Testing Guide →](combat-testing.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-testing.md
+### 03-technical/file-formats-complete.md
 
-2. **Enhanced game content:**
-   - `05-game-content/mission-examples.md`
-   - `05-game-content/character-profiles.md`
-   - `05-game-content/districts-map.md`
+- `[PKB Archives →](pkb-archives.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-archives.md
+### 03-technical/ida-pro-analysis-scripts.md
 
-## 📈 Link Validation Health Score
+- `[Combat Analysis →](combat-system-analysis.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-system-analysis.md
+- `[Network Protocol →](network-protocol-documentation.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/network-protocol-documentation.md
+### 03-technical/moa-format-specification.md
 
-| Component | Score | Status |
-|-----------|-------|--------|
-| **Main Navigation** | 2/10 | ❌ BROKEN |
-| **Section Links** | 4/10 | ⚠️ POOR |
-| **Content Links** | 6/10 | ⚠️ FAIR |
-| **External Links** | 9/10 | ✅ GOOD |
-| **Overall Health** | **4.25/10** | ❌ **POOR** |
+- `[MOA Tools →](../04-tools-modding/moa-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/moa-tools.md
+### 03-technical/model-formats.md
 
-## 🚨 Impact Assessment
+- `[Animation Systems →](animation-systems.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/animation-systems.md
+- `[PKB Archives →](pkb-archives.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/pkb-archives.md
+### 03-technical/network-protocol-complete.md
 
-### User Experience Impact
-- **SEVERE**: Users cannot navigate between main sections
-- **HIGH**: Essential documentation is inaccessible
-- **MEDIUM**: Enhanced features are incomplete
+- `[Combat System →](combat-system-analysis.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-system-analysis.md
+### 03-technical/pkb-advanced-extraction.md
 
-### SEO & Discoverability Impact
-- **HIGH**: Broken internal links hurt search ranking
-- **MEDIUM**: Missing content reduces comprehensive coverage
-- **LOW**: External links are functional (good sign)
+- `[Advanced Tools →](../04-tools-modding/advanced-extraction-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/advanced-extraction-tools.md
+### 03-technical/pkb-archive-structure.md
 
-### Development Impact
-- **CRITICAL**: New contributors cannot find essential docs
-- **HIGH**: Tool development documentation is fragmented
-- **MEDIUM**: Some technical specifications are incomplete
+- `[File Formats →](../06-file-formats/index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-file-formats/index.md
+- `[PKB Tools →](../04-tools-modding/pkb-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+### 03-technical/prop-format-specification.md
 
-## 💡 Recommendations
+- `[PROP Tools →](../04-tools-modding/prop-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/prop-tools.md
+### 03-technical/server-architecture.md
 
-### 1. **Immediate Link Repair Sprint**
-Focus on the 25 critical navigation links first:
-- Create missing index files
-- Fix all section navigation
-- Establish proper home page structure
+- `[Combat System →](combat-implementation.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/combat-implementation.md
+- `[Network Protocol →](network-protocol.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/network-protocol.md
+### 04-tools-modding/ai-assisted-development-mxo.md
 
-### 2. **Content Creation Priority Matrix**
-Create missing pages in this order:
-1. Navigation infrastructure
-2. Essential technical documentation  
-3. Community/contribution pages
-4. Enhanced features
+- `[Development Tools →](development-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/development-tools.md
+- `[Automation Scripts →](automation-scripts.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/automation-scripts.md
+### 04-tools-modding/ai-assisted-development.md
 
-### 3. **Link Validation Integration**
-- Run link validation after every major update
-- Add link validation to CI/CD pipeline
-- Create automated link checking system
+- `[Prompt Library →](ai-prompts.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-prompts.md
+- `[Ethics Guidelines →](ai-ethics.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/ai-ethics.md
+### 04-tools-modding/index.md
 
-### 4. **Documentation Standards**
-- Establish link validation standards
-- Create templates for new pages
-- Implement consistent navigation patterns
+- `[View Sources](../sources/04-tools-modding/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/index-sources.md
+### 04-tools-modding/texture-tools-complete.md
 
-## 📝 Conclusion
+- `[Asset Modification →](asset-modification-workflows.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/asset-modification-workflows.md
+- `[PKB Tools →](pkb-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/04-tools-modding/pkb-tools.md
+### 04-tools-modding/tool-development-guide.md
 
-The Matrix Online Wiki has **critical link validation issues** that must be addressed immediately. With **17.33% broken links**, the wiki's navigation infrastructure is compromised, severely impacting user experience and content discoverability.
+- `[Technical Specs →](../03-technical/file-formats.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/03-technical/file-formats.md
+### 05-game-content/complete-storyline-documentation.md
 
-**Immediate action required** to restore basic navigation functionality and establish proper wiki infrastructure.
+- `[Mission Archive →](mission-archive.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-archive.md
+- `[Character Profiles →](character-profiles.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-profiles.md
+### 05-game-content/district-guide-mystical.md
+
+- `[Districts Map →](districts-map.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/districts-map.md
+- `[Faction Territories →](faction-territories.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/faction-territories.md
+### 05-game-content/districts-of-mega-city.md
+
+- `[Hardline Locations →](hardline-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/hardline-guide.md
+- `[Awakening Routes →](awakening-paths.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/awakening-paths.md
+### 05-game-content/index.md
+
+- `[View Sources](../sources/05-game-content/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/05-game-content/index-sources.md
+### 05-game-content/landmarks-and-coordinates.md
+
+- `[Navigation Tools →](navigation-tools.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/navigation-tools.md
+### 05-game-content/mission-system-complete.md
+
+- `[Character Development →](character-development-complete.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/character-development-complete.md
+- `[Story Documentation →](../07-story-lore/complete-storyline-documentation.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/07-story-lore/complete-storyline-documentation.md
+### 05-game-content/mission-system-guide.md
+
+- `[Mission Examples →](mission-examples.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-examples.md
+- `[Create Mission →](mission-creator.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/mission-creator.md
+### 05-game-content/story-preservation-guide.md
+
+- `[Submit Content →](submit-story.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/submit-story.md
+### 05-game-content/story/the-matrix-online-saga.md
+
+- `[Mission Guides →](../missions/index.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/missions/index.md
+- `[Character Profiles →](characters.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/story/characters.md
+### 05-game-content/visual-preservation-archive.md
+
+- `[Screenshot Guide →](screenshot-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/screenshot-guide.md
+- `[Texture Archive →](texture-archive.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/05-game-content/texture-archive.md
+### 06-gameplay-systems/character-development-complete.md
+
+- `[Mission System →](mission-system-complete.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/mission-system-complete.md
+- `[Combat System →](combat-system-analysis.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/06-gameplay-systems/combat-system-analysis.md
+### 06-gameplay-systems/index.md
+
+- `[View Sources](../sources/06-gameplay-systems/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/06-gameplay-systems/index-sources.md
+### 07-preservation/index.md
+
+- `[View Sources](../sources/07-preservation/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/07-preservation/index-sources.md
+### 08-community/contact.md
+
+- `[View Sources](../sources/08-community/contact-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/contact-sources.md
+### 08-community/contribution-framework.md
+
+- `[Related Doc 1](link)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/link
+- `[Related Doc 2](link)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/link
+### 08-community/event-planning-templates.md
+
+- `[Event Calendar →](event-calendar.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/event-calendar.md
+- `[Community Guidelines →](community-guidelines.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/community-guidelines.md
+### 08-community/github-workflow-contribution-framework.md
+
+- `[text](url)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/url
+- `[Contributing Guide →](contributing-guide.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/contributing-guide.md
+- `[Code Review Guidelines →](code-review-guidelines.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/code-review-guidelines.md
+### 08-community/github-workflow-standards.md
+
+- `[Windows Binary](link)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/link
+- `[Linux Binary](link)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/link
+- `[macOS Binary](link)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/link
+### 08-community/navigation-guide.md
+
+- `[View Sources](../sources/08-community/navigation-guide-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/navigation-guide-sources.md
+### 08-community/search-api.md
+
+- `[.*\](.*)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/.*
+- `[View Sources](../sources/08-community/search-api-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/search-api-sources.md
+### 08-community/wiki-generation-ai-system.md
+
+- `[Future Roadmap →](future-roadmap.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/08-community/future-roadmap.md
+### LINK_VALIDATION_REPORT.md
+
+- `[Contact Leaders →](contact.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/contact.md
+- `[PKB Archives →](pkb-archives.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/pkb-archives.md
+- `[Technical Specs →](../03-technical/file-formats.md)` - outside wiki root: ../03-technical/file-formats.md
+- `[Configure GM Commands](gm-commands.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/gm-commands.md
+- `[Mission Examples →](mission-examples.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/mission-examples.md
+### _Sidebar.md
+
+- `[Eden Reborn Status](../EDEN_REBORN_STATUS)` - outside wiki root: ../EDEN_REBORN_STATUS
+### sources/00-manifesto/neoologist-manifesto-sources.md
+
+- `[00-manifesto/neoologist-manifesto.md](../00-manifesto/neoologist-manifesto.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/00-manifesto/neoologist-manifesto.md
+### sources/02-server-setup/server-projects-comparison-sources.md
+
+- `[02-server-setup/server-projects-comparison.md](../02-server-setup/server-projects-comparison.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/server-projects-comparison.md
+### sources/04-tools-modding/lost-tools-archive-sources.md
+
+- `[04-tools-modding/lost-tools-archive.md](../04-tools-modding/lost-tools-archive.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/lost-tools-archive.md
+### sources/index.md
+
+- `[Overview](01-getting-started/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/index-sources.md
+- `[Timeline of Liberation Complete](01-getting-started/timeline-liberation-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/01-getting-started/timeline-liberation-complete-sources.md
+- `[Overview](02-server-setup/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/index-sources.md
+- `[MXOEmu Setup](02-server-setup/mxoemu-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/mxoemu-setup-sources.md
+- `[Hardline Dreams Setup](02-server-setup/hardline-dreams-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hardline-dreams-setup-sources.md
+- `[HD Enhanced Realistic Setup](02-server-setup/hd-enhanced-realistic-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-realistic-setup-sources.md
+- `[HD Enhanced Aspirational Setup](02-server-setup/hd-enhanced-aspirational-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/hd-enhanced-aspirational-setup-sources.md
+- `[Client Patches](02-server-setup/client-patches-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/client-patches-sources.md
+- `[Database Setup](02-server-setup/database-setup-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/database-setup-sources.md
+- `[Reality Server Guide](02-server-setup/reality-server-guide-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/02-server-setup/reality-server-guide-sources.md
+- `[Overview](03-technical-docs/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/index-sources.md
+- `[PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/pkb-archives-sources.md
+- `[CNB Format](03-technical-docs/file-formats/cnb-format-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/cnb-format-sources.md
+- `[PROP Format Complete](03-technical-docs/file-formats/prop-format-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical-docs/file-formats/prop-format-complete-sources.md
+- `[File Formats Complete](03-technical/file-formats-complete-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/file-formats-complete-sources.md
+- `[Model Formats](03-technical/model-formats-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/model-formats-sources.md
+- `[Texture Formats](03-technical/texture-formats-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/texture-formats-sources.md
+- `[Server Architecture](03-technical/server-architecture-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/server-architecture-sources.md
+- `[Combat Implementation Guide](03-technical/combat-implementation-guide-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/03-technical/combat-implementation-guide-sources.md
+- `[Overview](04-tools-modding/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/index-sources.md
+- `[Tool Development Guide](04-tools-modding/tool-development-guide-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/tool-development-guide-sources.md
+- `[AI-Assisted Development](04-tools-modding/ai-assisted-development-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/04-tools-modding/ai-assisted-development-sources.md
+- `[Overview](05-game-content/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/05-game-content/index-sources.md
+- `[The Matrix Online Saga](05-game-content/story/the-matrix-online-saga-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/05-game-content/story/the-matrix-online-saga-sources.md
+- `[Overview](06-gameplay-systems/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/06-gameplay-systems/index-sources.md
+- `[Overview](07-preservation/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/07-preservation/index-sources.md
+- `[Tool Archaeology](07-preservation/tool-archaeology-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/07-preservation/tool-archaeology-sources.md
+- `[Overview](08-community/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/index-sources.md
+- `[Join the Resistance](08-community/join-the-resistance-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/08-community/join-the-resistance-sources.md
+- `[Overview](09-appendix/index-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/index-sources.md
+- `[Research Integration](09-appendix/research-integration-summary-sources.md)` - file not found: /Users/pascaldisse/mxoemu_forum_scrape/wiki/sources/09-appendix/research-integration-summary-sources.md
+
+
+## Recommendations for Fixes
+
+### High Priority
+1. **Fix broken internal links** - 119 links need attention
+2. **Standardize link formats** - Use consistent relative/absolute paths
+3. **Add missing index.md files** - For directory-based navigation
+
+### Medium Priority
+1. **Review external links** - 54 external links may become stale
+2. **Implement anchor validation** - 6 anchor links need verification
+
+### Low Priority
+1. **Clean up empty links** - 0 empty links found
+2. **Add link checking to CI/CD** - Prevent future broken links
+
+## Link Distribution Analysis
+
+| Link Type | Count | Percentage |
+|-----------|-------|------------|
+| Working Internal | 539 | 75.1% |
+| Broken Internal | 119 | 16.6% |
+| External | 54 | 7.5% |
+| Anchor | 6 | 0.8% |
+| Empty | 0 | 0.0% |
 
 ---
-
-**Next Steps:**
-1. Create missing index files (Priority 1)
-2. Fix critical navigation links (Priority 1)  
-3. Implement regular link validation (Priority 2)
-4. Establish documentation standards (Priority 3)
-
-*Report generated by Matrix Online Wiki Link Validator*  
-*For technical details, see: `link_validation_report.json`*
+*Report generated by Matrix Online Wiki Link Validator*
+*Scan Date: /Users/pascaldisse/mxoemu_forum_scrape/wiki*
