@@ -115,7 +115,7 @@ class WikiLinkValidator:
     
     def validate_wiki(self):
         """Main validation process."""
-        # Find all markdown files
+        # Find all markdown files (including ALL files)
         md_files = []
         for root, dirs, files in os.walk(self.wiki_path):
             # Skip hidden directories and common non-content directories

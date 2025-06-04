@@ -67,11 +67,11 @@ Start here: [Technical Documentation](03-technical/index.md)
 ## 🎯 Current Status
 
 ### ✅ Major Achievements
-- **June 3, 2025**: Full MXO HD Enhanced server operational!
-- Complete combat system implementation (D100 + Interlock)
-- 2.8+ million game objects loaded
-- Cross-platform support via Wine
-- Active community development
+- **June 3, 2025**: Eden Reborn project launched with comprehensive documentation
+- Complete technical documentation for MXO file formats and protocols  
+- 164+ wiki pages covering all aspects of MXO preservation and development
+- Cross-platform development resources and guides
+- Active community development and collaboration
 
 ### 🔴 Critical Priorities
 1. **CNB Viewer Development** - Unlock story cinematics (#1 PRIORITY)
@@ -132,10 +132,10 @@ Read the full [Neoologist Manifesto](00-manifesto/neoologist-manifesto.md)
 
 ## 📊 Wiki Stats
 
-- **Total Pages**: 20+ and growing
-- **File Formats Documented**: 5+
-- **Tools Catalogued**: 15+
-- **Story Chapters**: Complete saga
+- **Total Pages**: 164+ comprehensive documents
+- **File Formats Documented**: 8+ complete specifications  
+- **Tools Catalogued**: 20+ (lost and found)
+- **Story Chapters**: Complete 4-act saga
 - **Status**: Actively expanding
 
 ## 🚨 Urgent Needs
