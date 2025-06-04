@@ -613,4 +613,4 @@ Every command executed, every player helped, every event hosted contributes to t
 
 ---
 
-[← Back to Servers](index.md) | [Database Setup →](database-setup-guide.md) | [Server Security →](server-security-hardening.md)
+[← Back to Servers](index.md) | [Database Setup →](database-setup.md) | [Server Troubleshooting →](server-troubleshooting.md)
