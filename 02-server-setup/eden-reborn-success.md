@@ -3,14 +3,14 @@
 
 > *"There is no spoon... but there WILL BE a working server!"*
 
-## 🎯 PROJECT VISION: FULL MXO SERVER IN DEVELOPMENT
+## ⚠️ PROJECT STATUS: EARLY DEVELOPMENT (WORK IN PROGRESS)
 
-On this day, Eden Reborn was born - a new Matrix Online server project that aims to achieve what many thought impossible. We are building upon existing emulation efforts to create a complete, enhanced server.
+On June 3, 2025, Eden Reborn project began - a new Matrix Online server development effort that aims to build upon existing emulation work. We are currently forking HD and MXOEmu codebases to create our vision.
 
-**This is not just emulation. This is LIBERATION IN PROGRESS.**
+**This page documents our DEVELOPMENT GOALS and PLANNED FEATURES.**
 
-### ⚠️ CURRENT STATUS: WORK IN PROGRESS
-Eden Reborn is currently in early development, forking HD and MXOEmu codebases. Features described below represent our development goals and roadmap.
+### 🚧 IMPORTANT: Everything Below Represents Future Goals
+Eden Reborn is in early development. Features, statistics, and capabilities described are our targets, not current functionality. See [EDEN_REBORN_STATUS.md](/EDEN_REBORN_STATUS.md) for current progress.
 
 ## 🎯 What We're Building
 
@@ -21,19 +21,19 @@ Eden Reborn is currently in early development, forking HD and MXOEmu codebases. 
 - **XMPP Chat**: Implementing complete communication
 - **Plugin Architecture**: Designing modular systems
 
-### Target Specifications
+### Target Specifications (PLANNED)
 ```
-📊 EDEN REBORN STATISTICS:
+📊 EDEN REBORN TARGET GOALS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RSI Templates:        83
-Game Objects:         44,406
-Abilities:            9,973
-Clothing Items:       38,040
-Static World Objects: 2,862,038
-Hostile NPCs:         99
-Districts:            3 (Full Mega City)
+RSI Templates:        Goal: 83+
+Game Objects:         Goal: 40,000+
+Abilities:            Goal: Full set
+Clothing Items:       Goal: Extensive
+Static World Objects: Goal: All loaded
+Hostile NPCs:         Goal: Functional
+Districts:            Goal: 3 districts
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Status:              🚧 IN DEVELOPMENT
+Status:              🚧 PLANNING PHASE
 ```
 
 ### Planned Features (Development Goals)
@@ -43,21 +43,21 @@ Status:              🚧 IN DEVELOPMENT
 - 🚧 **Cross-Platform**: macOS/Linux/Windows via Wine
 - 🚧 **Database**: Optimized object loading system
 
-## 🚀 The Technical Miracle
+## 🚀 Our Technical Approach (IN DEVELOPMENT)
 
-### What Made It Possible
-1. **Authentication Deadlock Fix**: The breakthrough that unlocked everything
-2. **Enhanced Fork**: Building on Hardline Dreams with modern improvements
-3. **Wine Compatibility**: Original client runs perfectly on all platforms
-4. **Plugin System**: Modular architecture for future expansion
+### What We're Working On
+1. **Authentication Fixes**: Planning solutions for known deadlock issues
+2. **Enhanced Fork**: Currently forking HD and MXOEmu code
+3. **Cross-Platform Support**: Testing Wine compatibility
+4. **Plugin Architecture**: Designing modular system
 
-### Server Endpoints
+### Planned Server Configuration
 ```yaml
-Authentication: localhost:11000
-Game World:     localhost:10000
-XMPP Chat:      localhost:5222
-Admin Console:  localhost:55557
-Status:         ALL SYSTEMS OPERATIONAL
+Authentication: localhost:11000 (planned)
+Game World:     localhost:10000 (planned)
+XMPP Chat:      localhost:5222 (planned)
+Admin Console:  localhost:55557 (planned)
+Status:         🚧 UNDER DEVELOPMENT
 ```
 
 ## 🎮 Player Experience Restored
