@@ -171,8 +171,8 @@ Show, don't just tell:
 Common issues and solutions.
 
 ## See Also
-- [Related Doc 1](link)
-- [Related Doc 2](link)
+- [GitHub Workflow Standards](github-workflow-standards.md)
+- [Community Guidelines](community-guidelines.md)
 
 ---
 *Last updated: Date*

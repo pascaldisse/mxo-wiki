@@ -576,9 +576,9 @@ MAJOR.MINOR.PATCH
 Thanks to @user1, @user2, @user3
 
 ## 📦 Downloads
-- [Windows Binary](link)
-- [Linux Binary](link)
-- [macOS Binary](link)
+- [Windows Binary](https://github.com/mxo-community/releases)
+- [Linux Binary](https://github.com/mxo-community/releases)
+- [macOS Binary](https://github.com/mxo-community/releases)
 
 **Full Changelog**: https://github.com/eden-reborn/project/compare/v1.1.0...v1.2.0
 ```
