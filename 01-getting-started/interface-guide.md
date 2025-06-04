@@ -171,8 +171,6 @@ The Matrix Online interface was designed as a sophisticated fusion of cyberpunk 
 
 ---
 
-📚 [View Sources](sources/index.md)
-
 [← Character Creation](character-creation.md) | [Home](../index.md) | [Timeline →](timeline-liberation-complete.md)
 
 ---

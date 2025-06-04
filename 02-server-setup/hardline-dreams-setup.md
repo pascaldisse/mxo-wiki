@@ -323,8 +323,20 @@ echo Backup completed: %TIMESTAMP%
 
 - [HD GitHub Repository](https://github.com/hdneo/mxo-hd)
 - [HD Development Wiki](https://github.com/hdneo/mxo-hd/wiki)
-- [Discord](https://discord.gg/3QXTAGB9)
+- [Discord Community](https://discord.gg/3QXTAGB9)
+
+## Next Steps
+
+> *"Welcome to the desert of the real."* - Morpheus
+
+Hardline Dreams offers a different path. Choose your next destination:
+
+- **[Client Patches →](client-patches.md)** - Connect your operatives to HD
+- **[Database Setup →](database-setup.md)** - Configure your reality storage
+- **[MXOEmu Setup →](mxoemu-setup.md)** - Try the original server instead
 
 ---
 
-[← Back to Server Setup](index.md) | [Next: Client Patching →](client-patches.md)
+*Hardline Dreams Setup Guide - An alternative reality awaits*
+
+[← MXOEmu Setup](mxoemu-setup.md) | [Client Patches →](client-patches.md) | [Join Discord](https://discord.gg/3QXTAGB9)

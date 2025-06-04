@@ -299,4 +299,8 @@ The file formats are the keys to the kingdom. Help us decode them all.
 
 ---
 
-[← Back to Technical](index.md) | [PKB Archives →](pkb-archives.md) | [Sources →](sources/index.md)
+> *"The code is hidden in the formats. The formats are hidden in the archives. Free them both."*
+
+---
+
+[← Technical Overview](index.md) | [🏠 Home](../index.md) | [PKB Archives →](pkb-archives.md)

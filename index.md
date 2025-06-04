@@ -236,6 +236,14 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 4. Document in CLAUDE.md
 5. Consider priority changes
 
+## 📖 Technical Terms
+**New to Matrix Online terminology?**  
+Check our **[Technical Glossary](glossary.md)** for explanations of:
+- File formats (CNB, PKB, PROP, MOA, TXA)
+- Server projects (MXOEmu, HDS, Eden Reborn)
+- Tools and technologies (IDA Pro, Cortana, MOMS)
+- Game-specific terms (RSI, Interlock, Districts)
+
 ## 🌐 Join the Community
 
 ### Eden Reborn Discord

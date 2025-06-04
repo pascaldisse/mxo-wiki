@@ -521,5 +521,3 @@ You've completed the comprehensive troubleshooting guide! You now know how to:
 ---
 
 [← Back to Advanced Administration](advanced-admin.md) | [Performance Monitoring →](performance-monitoring.md) | [Join the Resistance →](../08-community/join-the-resistance.md)
-
-📚 [View Sources](sources/index.md)

@@ -277,6 +277,18 @@ echo Backup complete: mxoemu_%DATE%.sql
 
 ---
 
-**Need Help?** Join the [Discord](https://discord.gg/3QXTAGB9) or check the [Troubleshooting Guide](troubleshooting.md).
+## Next Steps
 
-[← Back to Server Setup](index.md) | [Next: Hardline Dreams Setup →](hardline-dreams-setup.md)
+> *"The Matrix is a system, Neo. That system is our enemy."* - Morpheus
+
+You've installed MXOEmu. Now configure it for your community:
+
+- **[Hardline Dreams Setup →](hardline-dreams-setup.md)** - Compare with the alternative server
+- **[Client Patches →](client-patches.md)** - Connect your redpills to the server
+- **[Database Setup →](database-setup.md)** - Master your data storage
+
+---
+
+*MXOEmu Server Setup Guide - For those who choose the red pill*
+
+[← Back to Server Setup](index.md) | [Hardline Dreams Setup →](hardline-dreams-setup.md) | [Join Discord](https://discord.gg/3QXTAGB9)

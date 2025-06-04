@@ -632,4 +632,18 @@ This guide showed you the door to database mastery. Now create your paradise.
 
 *Database Liberation Guide - By those who refuse to forget*
 
-[← Back to Server Setup](index.md) | [Next: Advanced Administration →](advanced-admin.md) | [Join the Resistance →](../08-community/join-the-resistance.md)
+## Next Steps
+
+> *"There is no spoon."* - Neo
+
+Your database is configured. The Matrix awaits:
+
+- **[Advanced Administration →](advanced-admin.md)** - Master GM commands and server control
+- **[Server Projects Comparison →](server-projects-comparison.md)** - Compare all server options
+- **[Join the Resistance →](../08-community/join-the-resistance.md)** - Unite with fellow operators
+
+---
+
+*Database Liberation Guide - Data wants to be free*
+
+[← Client Patches](client-patches.md) | [Server Setup Home](index.md) | [Join Discord](https://discord.gg/3QXTAGB9)

@@ -245,6 +245,10 @@ Eden Reborn is in development. Existing servers work TODAY.
 
 ---
 
-📚 [View Sources](../sources/02-server-setup/server-projects-comparison-sources.md)
+---
 
-[Setup HD Enhanced →](hardline-dreams-setup.md) | [Read Success Story →](eden-reborn-success.md) | [Contribute →](../08-community/join-the-resistance.md)
+[← Server Setup](index.md) | [🏠 Home](../index.md) | [HD Enhanced Setup →](hardline-dreams-setup.md)
+
+---
+
+*"The Matrix has many doors. Choose yours wisely."*

@@ -256,4 +256,4 @@ The Matrix Online was the seventh version. The version where players became The 
 
 *The story didn't end when the servers closed. It paused. Now, in Eden Reborn, it continues. What chapter will you write?*
 
-[← Back to Game Content](../index.md) | [Mission Guides →](../missions/index.md) | [Character Profiles →](characters.md)
+[← Back to Game Content](../index.md)

@@ -402,4 +402,4 @@ This archive serves as both memorial and roadmap - remembering what we've lost w
 
 ---
 
-[← Back to Tools & Modding](index.md) | [Tool Development →](tool-development-guide.md) | [PKB Research →](pkb-archive-investigation.md)
+[← Back to Tools & Modding](index.md) | [Tool Development →](tool-development-guide.md) | [PKB Research →](../03-technical/pkb-archives.md)

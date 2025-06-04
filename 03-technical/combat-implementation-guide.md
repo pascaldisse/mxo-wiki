@@ -766,4 +766,4 @@ Combat is the heartbeat of The Matrix Online. This guide provides the blueprint,
 
 ---
 
-[← Back to Technical](index.md) | [IDA Pro Analysis →](ida-pro-analysis.md) | [Testing Guide →](combat-testing.md)
+[← Back to Technical](index.md) | [IDA Pro Analysis →](../06-gameplay-systems/combat/ida-pro-analysis.md)

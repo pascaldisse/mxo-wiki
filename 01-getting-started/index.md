@@ -114,4 +114,10 @@ Once you have the basics covered:
 
 *Remember: The Matrix Online community is small but dedicated. Be patient, be helpful, and welcome to the Matrix!*
 
-[← Back to Main Index](../index.md) | [Timeline of Liberation →](timeline-of-liberation.md)
+---
+
+[🏠 Home](../index.md) | [Timeline of Liberation →](timeline-of-liberation.md)
+
+---
+
+*"Welcome to the real world."*

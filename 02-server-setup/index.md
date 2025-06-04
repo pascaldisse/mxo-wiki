@@ -95,7 +95,7 @@ Alternative implementation by pahefu and neowhoru with active development.
 
 ### Advanced Topics
 - [Technical Documentation](../03-technical/index.md)
-- [File Formats Reference](../03-technical/file-formats/index.md)
+- [File Formats Reference](../03-technical/file-formats.md)
 - [Combat Implementation](../06-gameplay-systems/combat/index.md)
 - [Tool Development](../04-tools-modding/tool-development-guide.md)
 
@@ -188,7 +188,7 @@ mysqldump -u root -p mxodb > backup_%date%.sql
 ## 📚 Additional Resources
 
 ### Documentation
-- [File Format Reference](../03-technical/file-formats/index.md)
+- [File Format Reference](../03-technical/file-formats.md)
 - [Server Architecture](../03-technical/server-architecture.md)
 - [Technical Overview](../03-technical/index.md)
 

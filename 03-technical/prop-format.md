@@ -212,4 +212,8 @@ Every tool we create will be open. Every format we decode will be documented. Ev
 
 > *"Free your mind."* - Start with the file formats.
 
-[← Back to File Formats](index.md) | [MOA Format →](moa-format.md) | [Contribute Research →](../../08-community/contribute.md)
+> *"Every prop tells a story. Every model holds a memory. Liberation preserves them all."*
+
+---
+
+[← PKB Archives](pkb-archives.md) | [🏠 Home](../index.md) | [Technical Overview →](index.md)

@@ -312,8 +312,18 @@ Modern approach using web technology:
 - Respect intellectual property
 - No commercial use
 
+## Next Steps
+
+> *"Free your mind."* - Morpheus
+
+Your client is patched. Continue your journey:
+
+- **[Database Setup →](database-setup.md)** - Configure your server's data storage
+- **[Advanced Administration →](advanced-admin.md)** - Master server management
+- **[Join the Resistance →](../08-community/join-the-resistance.md)** - Connect with other operators
+
 ---
 
-**Need Help?** Check our [Discord](https://discord.gg/3QXTAGB9).
+*Client Patching Guide - Breaking the chains of corporate servers*
 
-[← Back to Server Setup](index.md) | [Next: Database Setup →](database-setup.md)
+[← Hardline Dreams Setup](hardline-dreams-setup.md) | [Database Setup →](database-setup.md) | [Join Discord](https://discord.gg/3QXTAGB9)

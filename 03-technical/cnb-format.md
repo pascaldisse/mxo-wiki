@@ -225,4 +225,8 @@ This is not just another format. This is THE format. The story of The Matrix Onl
 
 ---
 
-[← Back to File Formats](index.md) | [Join CNB Research →](cnb-research-team.md) | [Contact Developers →](../../08-community/contact.md)
+> *"The story remains locked until someone breaks the code. Will you be the one?"*
+
+---
+
+[← File Formats](file-formats.md) | [🏠 Home](../index.md) | [PKB Archives →](pkb-archives.md)

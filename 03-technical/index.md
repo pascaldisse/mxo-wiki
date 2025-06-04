@@ -11,12 +11,31 @@ This section contains deep technical documentation about Matrix Online's inner w
 
 ### Server Systems
 - **[Server Architecture](server-architecture.md)** - Complete breakdown of MXO server components
-- **[Combat Implementation Guide](combat-implementation-guide.md)** - D100 system implementation details
+- **[Database Schema Complete](database-schema-complete.md)** - Full database structure documentation
+- **[Network Protocol Complete](network-protocol-complete.md)** - Packet structures and protocols
+- **[Combat System Analysis](combat-system-analysis.md)** - D100 mechanics breakdown
+- **[Combat Implementation Guide](combat-implementation-guide.md)** - Server-side implementation details
+- **[Animation Systems](animation-systems.md)** - Character animation pipeline
 
 ### File Formats
 - **[File Formats Complete](file-formats-complete.md)** - Overview of all MXO file types
-- **[Model Formats](model-formats.md)** - 3D model specifications (.prop, .moa)
+- **[CNB Format](cnb-format.md)** - Cinematic binary format (#1 PRIORITY)
+- **[PKB Archives](pkb-archives.md)** - Package archive structure
+- **[PROP Format](prop-format.md)** - 3D model format specification
+- **[MOA Format Specification](moa-format-specification.md)** - Animation format details
+- **[Model Formats](model-formats.md)** - 3D model specifications overview
 - **[Texture Formats](texture-formats.md)** - Texture and material systems
+
+### Reverse Engineering
+- **[IDA Pro Scripts Overview](ida-pro-scripts-overview.md)** - 🆕 Beginner-friendly introduction
+- **[IDA Pro Analysis Scripts](ida-pro-analysis-scripts.md)** - Combat research tools
+- **[IDA Pro Advanced Scripts](ida-pro-advanced-scripts.md)** - AI-enhanced analysis
+
+### Advanced Topics
+- **[CNB Viewer Implementation](cnb-viewer-implementation.md)** - Cutscene viewer development
+- **[CNB Format Development Guide](cnb-format-development-guide.md)** - CNB viewer roadmap
+- **[PKB Advanced Extraction](pkb-advanced-extraction.md)** - Advanced archive techniques
+- **[PKB Archive Investigation](pkb-archive-investigation.md)** - Format research findings
 
 ## 🎯 Quick Links
 

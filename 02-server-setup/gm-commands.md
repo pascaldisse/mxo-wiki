@@ -298,4 +298,4 @@ sleep 300
 
 ---
 
-[← Back to Server Setup](index.md) | [Database Setup →](database-setup.md) | [Sources →](sources/index.md)
+[← Back to Server Setup](index.md) | [Database Setup →](database-setup.md)

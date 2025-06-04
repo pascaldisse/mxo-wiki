@@ -395,6 +395,8 @@ Understanding PKB archives is essential for:
 
 ---
 
-[← Back to File Formats](file-formats-complete.md) | [Animation Systems →](animation-systems.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md)
+> *"Inside every PKB archive lies a piece of the Matrix. Extract them all, and the world is yours."*
 
-📚 [View Sources](sources/index.md)
+---
+
+[← File Formats](file-formats.md) | [🏠 Home](../index.md) | [PROP Format →](prop-format.md)

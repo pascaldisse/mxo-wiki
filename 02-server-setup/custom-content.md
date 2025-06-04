@@ -1313,4 +1313,4 @@ The tools and techniques in this guide provide a foundation for creating profess
 
 ---
 
-[← Back to Server Setup](index.md) | [GM Commands ←](gm-commands.md) | [Sources →](sources/index.md)
+[← Back to Server Setup](index.md) | [GM Commands ←](gm-commands.md)
