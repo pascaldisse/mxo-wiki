@@ -79,7 +79,7 @@ Essential bookmarks for regular contributors:
 1. **[Wiki Home](../index.md)** - Central navigation hub
 2. **[Current Tasks](../NEOOLOGIST_WIKI_TASK_LIST.md)** - Active priorities
 3. **[Progress Tracker](../WIKI_PROGRESS.md)** - Development status
-4. **[Link Checker](../LINK_VALIDATION_REPORT.md)** - Health monitoring
+4. **[Link Checker](../tools/validate_wiki_links.py)** - Health monitoring
 
 ## 🗺️ Content Discovery Paths
 
