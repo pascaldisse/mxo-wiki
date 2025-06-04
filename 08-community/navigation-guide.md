@@ -15,7 +15,7 @@ Complete guide to navigating the Eden Reborn Matrix Online liberation wiki. Lear
 
 ### Critical Sections
 - **[Tools & Modding](../04-tools-modding/index.md)** - CNB viewer, lost tools
-- **[Technical Docs](../03-technical-docs/index.md)** - File formats, protocols
+- **[Technical Docs](../03-technical/index.md)** - File formats, protocols
 - **[Community](index.md)** - Join the resistance
 - **[Preservation](../07-preservation/index.md)** - Digital archaeology
 
@@ -27,7 +27,7 @@ eden-reborn-wiki/
 ├── 00-manifesto/           # Liberation philosophy
 ├── 01-getting-started/     # New user onboarding
 ├── 02-server-setup/        # Server installation guides
-├── 03-technical-docs/      # File formats and protocols
+├── 03-technical/           # All technical documentation
 ├── 03-technical/           # Deep technical dives
 ├── 04-tools-modding/       # Tool development and modding
 ├── 05-game-content/        # Story and narrative preservation
@@ -52,12 +52,12 @@ eden-reborn-wiki/
 #### By Topic
 - **Server Setup**: Start with [02-server-setup](../02-server-setup/index.md)
 - **Tool Development**: Check [04-tools-modding](../04-tools-modding/index.md)
-- **File Formats**: Browse [03-technical-docs](../03-technical-docs/index.md)
+- **File Formats**: Browse [03-technical](../03-technical/index.md)
 - **Story Content**: Visit [05-game-content](../05-game-content/index.md)
 
 #### By Skill Level
 - **Beginner**: [Getting Started](../01-getting-started/index.md) → [Server Setup](../02-server-setup/index.md)
-- **Intermediate**: [Technical Docs](../03-technical-docs/index.md) → [Tools](../04-tools-modding/index.md)
+- **Intermediate**: [Technical Docs](../03-technical/index.md) → [Tools](../04-tools-modding/index.md)
 - **Advanced**: [Technical Deep Dives](../03-technical/index.md) → [Combat Implementation](../03-technical/combat-implementation-guide.md)
 
 #### By Goal
@@ -99,7 +99,7 @@ Essential bookmarks for regular contributors:
 1. **[Lost Tools Archive](../04-tools-modding/lost-tools-archive.md)** - What we need
 2. **[CNB Viewer Priority](../04-tools-modding/cnb-viewer-development.md)** - Critical project
 3. **[Development Guide](../04-tools-modding/tool-development-guide.md)** - How to build
-4. **[File Formats](../03-technical-docs/file-formats/index.md)** - Technical specs
+4. **[File Formats](../03-technical/file-formats.md)** - Technical specs
 
 ### Researchers
 1. **[Source Index](../sources/index.md)** - Documentation needs

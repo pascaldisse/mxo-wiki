@@ -32,7 +32,7 @@ Welcome, potential redpill. This guide will show you how to contribute to the Ed
 **Skill Required**: C++, Archive Formats, Python  
 **Impact**: Enable asset extraction for all game content  
 **Status**: Research phase  
-**Getting Started**: [PKB Archives Documentation](../03-technical-docs/file-formats/pkb-archives.md)
+**Getting Started**: [PKB Archives Documentation](../03-technical/pkb-archives.md)
 
 #### 🟡 **MEDIUM: Combat System Implementation**
 **Skill Required**: C#, Game Logic, Database Design  
