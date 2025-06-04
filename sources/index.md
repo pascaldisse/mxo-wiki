@@ -7,10 +7,10 @@ Complete index of source documentation for all wiki pages.
 ## Source Coverage Status
 
 ### Overall Statistics
-- **Total Wiki Pages**: 107 *(after cleanup and additions)*
-- **Source Documents Created**: 10 (9.3%)
+- **Total Wiki Pages**: 119 *(after directory consolidation and updates)*
+- **Source Documents Created**: 15 (12.6%)
 - **In Progress**: 0 (0%)
-- **Needs Documentation**: 97 (90.7%)
+- **Needs Documentation**: 104 (87.4%)
 
 ## Source Documents by Section
 
@@ -35,7 +35,7 @@ Complete index of source documentation for all wiki pages.
 
 ### 03-technical-docs
 - ❌ [Overview](03-technical-docs/index-sources.md) - Needs sources
-- ❌ [PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md) - Needs sources
+- ✅ [PKB Archives](03-technical-docs/file-formats/pkb-archives-sources.md) - **Created**
 - ✅ [CNB Format](03-technical-docs/file-formats/cnb-format-sources.md) - **Created**
 - ❌ [PROP Format Complete](03-technical-docs/file-formats/prop-format-complete-sources.md) - Needs sources
 
@@ -45,6 +45,9 @@ Complete index of source documentation for all wiki pages.
 - ❌ [Texture Formats](03-technical/texture-formats-sources.md) - Needs sources
 - ❌ [Server Architecture](03-technical/server-architecture-sources.md) - Needs sources
 - ❌ [Combat Implementation Guide](03-technical/combat-implementation-guide-sources.md) - Needs sources
+- ✅ [Combat System Analysis](03-technical/combat-system-analysis-sources.md) - **Created**
+- ✅ [PKB Archives](03-technical/pkb-archives-sources.md) - **Created**
+- ✅ [Animation Systems](03-technical/animation-systems-sources.md) - **Created**
 
 ### 04-tools-modding
 - ✅ [Overview](04-tools-modding/index-sources.md) - **Created**
@@ -62,7 +65,7 @@ Complete index of source documentation for all wiki pages.
 - ❌ [IDA Pro Analysis](06-gameplay-systems/combat/ida-pro-analysis-sources.md) - Needs sources
 
 ### 07-preservation
-- ❌ [Overview](07-preservation/index-sources.md) - Needs sources
+- ✅ [Overview](07-preservation/index-sources.md) - **Created**
 - ❌ [Tool Archaeology](07-preservation/tool-archaeology-sources.md) - Needs sources
 
 ### 08-community
