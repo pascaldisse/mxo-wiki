@@ -949,4 +949,4 @@ We know the path: CNB files hold the story. Now we must walk it: reverse enginee
 
 ---
 
-[← Back to Technical](index.md) | [File Formats →](../06-file-formats/index.md) | [CNB Research →](cnb-research-findings.md)
+[← Back to Technical](index.md) | [File Formats →](file-formats.md) | [CNB Research →](cnb-research-findings.md)
