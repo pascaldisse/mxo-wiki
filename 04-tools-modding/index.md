@@ -81,12 +81,68 @@ Comprehensive modding suite for viewing and converting Matrix Online game assets
 
 ### 🟢 Specialized Guides
 
+#### [Development Tools](development-tools.md)
+**Status**: ✅ Complete Reference  
+**Priority**: Developer Resource  
+**Impact**: Essential development environment setup  
+
+Comprehensive guide to setting up development environments and essential tools for Matrix Online development.
+
+#### [PKB Tools](pkb-tools.md)
+**Status**: 🟡 In Development  
+**Priority**: High - Asset Access  
+**Impact**: Unlock archived game assets  
+
+Specialized tools for extracting and working with PKB archive files containing game assets.
+
+#### [Texture Tools Complete](texture-tools-complete.md)
+**Status**: ✅ Complete Guide  
+**Priority**: Content Creation  
+**Impact**: Texture modification and enhancement  
+
+Complete toolkit for working with Matrix Online texture formats and creating custom textures.
+
+#### [Automation Scripts](automation-scripts.md)
+**Status**: ✅ Productivity Tools  
+**Priority**: Workflow Optimization  
+**Impact**: Streamlined development processes  
+
+Collection of automation scripts for common Matrix Online development tasks.
+
+#### [Asset Modification Workflows](asset-modification-workflows.md)
+**Status**: ✅ Complete Guide  
+**Priority**: Content Creation  
+**Impact**: Systematic asset modification processes  
+
+Professional workflows for modifying and enhancing Matrix Online game assets.
+
+#### [Pattern Recognition Binary Guide](pattern-recognition-binary-guide.md)
+**Status**: ✅ Advanced Technique  
+**Priority**: Reverse Engineering  
+**Impact**: Binary file format analysis  
+
+Advanced guide for using pattern recognition to analyze unknown binary file formats.
+
 #### [AI-Assisted Development Advanced](ai-assisted-development-advanced.md)
 **Status**: ✅ Enhanced Framework  
 **Priority**: Advanced Development  
 **Impact**: Next-generation tool creation methodology  
 
 Advanced AI-assisted development techniques for Matrix Online tools, including modern frameworks and automated testing approaches.
+
+#### [AI-Assisted Development Guide](ai-assisted-development-guide.md)
+**Status**: ✅ Foundation Guide  
+**Priority**: Modern Development  
+**Impact**: AI-powered tool creation  
+
+Foundation guide for integrating AI assistance into Matrix Online tool development.
+
+#### [Wiki Search Implementation](wiki-search-implementation.md)
+**Status**: ✅ Technical Guide  
+**Priority**: Infrastructure  
+**Impact**: Enhanced documentation searchability  
+
+Technical implementation guide for adding search functionality to Matrix Online documentation.
 
 ## 🎯 Development Priorities
 
