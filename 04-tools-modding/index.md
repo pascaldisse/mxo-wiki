@@ -35,6 +35,13 @@ The highest priority tool for the Matrix Online community. These cutscenes conta
 
 Complete catalog of all known tools that were lost when mxoemu.info went down. Essential reference for recreation efforts.
 
+#### [Lost Tools Complete Archive](lost-tools-complete-archive.md)
+**Status**: ✅ Enhanced Documentation  
+**Priority**: Comprehensive Reference  
+**Impact**: Complete tool preservation record  
+
+Extended archive with detailed technical specifications and recreation priorities for all known Matrix Online tools.
+
 ### 🟡 Development & Creation Tools
 
 #### [Tool Development Guide](tool-development-guide.md)
@@ -51,6 +58,13 @@ Comprehensive guide for developing new Matrix Online tools, including coding sta
 
 Detailed methodology for recreating lost tools from scratch, including reverse engineering techniques and community coordination.
 
+#### [Tool Recreation Masterplan](tool-recreation-masterplan.md)
+**Status**: ✅ Strategic Framework  
+**Priority**: Project Planning  
+**Impact**: Coordinated community tool development  
+
+Comprehensive masterplan for systematic recreation of all lost Matrix Online tools with timeline and resource allocation.
+
 #### [Available Tools Catalog](available-tools-catalog.md)
 **Status**: ✅ Updated  
 **Priority**: Reference  
@@ -60,12 +74,12 @@ Live catalog of what tools currently exist, their status, and where to find them
 
 ### 🟢 Specialized Guides
 
-#### [AI-Assisted Development](ai-assisted-development.md)
-**Status**: ✅ Complete  
-**Priority**: Modern Development  
-**Impact**: Accelerated tool creation  
+#### [AI-Assisted Development Advanced](ai-assisted-development-advanced.md)
+**Status**: ✅ Enhanced Framework  
+**Priority**: Advanced Development  
+**Impact**: Next-generation tool creation methodology  
 
-Modern approaches to Matrix Online tool development using AI assistance and contemporary development practices.
+Advanced AI-assisted development techniques for Matrix Online tools, including modern frameworks and automated testing approaches.
 
 ## 🎯 Development Priorities
 
@@ -141,7 +155,7 @@ Modern approaches to Matrix Online tool development using AI assistance and cont
 
 ### Experienced Developers
 1. **Dive into [Lost Tools Archive](lost-tools-archive.md)** for recreation projects
-2. **Review [AI-Assisted Development](ai-assisted-development.md)** for modern approaches
+2. **Review [AI-Assisted Development Advanced](ai-assisted-development-advanced.md)** for modern approaches
 3. **Check [Tool Recovery Guide](tool-recovery-recreation.md)** for methodology
 4. **Lead a critical priority project**
 

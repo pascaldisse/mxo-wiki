@@ -787,4 +787,4 @@ This investigation guide provides the roadmap. The community provides the effort
 
 ---
 
-[← Back to Technical](index.md) | [PKB Investigation →](pkb-archive-investigation.md) | [Tool Development →](../06-tools-modding/tool-development-guide.md)
+[← Back to Technical](index.md) | [PKB Investigation →](pkb-archive-investigation.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md)
