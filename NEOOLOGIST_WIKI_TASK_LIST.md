@@ -20,9 +20,9 @@ This wiki embodies the Neoologist ideals: **Liberation**, **Open Source**, **Mys
 ## Phase 1: Foundation Enhancement (Current Wiki Improvements)
 
 ### 1.1 Integrate Existing Research
-- [ ] Import and structure `/Users/pascaldisse/Downloads/mxo/mxo-wiki/research.txt` (573KB)
-- [ ] Merge all wiki documents from `/Users/pascaldisse/Downloads/mxo/mxo-wiki/`
-- [ ] Extract key findings from `/Users/pascaldisse/Downloads/mxo/CLAUDE.md`
+- [ ] Import and structure `/mxo/mxo-wiki/research.txt` (573KB)
+- [ ] Merge all wiki documents from `/mxo/mxo-wiki/`
+- [ ] Extract key findings from `/mxo/CLAUDE.md`
 - [ ] Incorporate Discord export analysis (32,000+ messages)
 
 ### 1.2 Update Current Documentation
@@ -242,7 +242,7 @@ This wiki embodies the Neoologist ideals: **Liberation**, **Open Source**, **Mys
 ## Resources Available
 
 ### Source Materials
-- `/Users/pascaldisse/Downloads/mxo/` - Complete archive
+- `/mxo/` - Complete archive
 - Discord export with 32,000+ messages
 - Working HD Enhanced server
 - IDA Pro analysis results

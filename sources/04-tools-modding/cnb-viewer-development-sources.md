@@ -17,7 +17,7 @@
 - **Rendering Engine**: Uses Matrix Online's modified Lithtech engine
 
 ### Forum Archive Data
-**Source**: /Users/pascaldisse/mxoemu_forum_scrape/scraped_data/
+**Source**: /mxo/forum_scrape/scraped_data/
 
 #### Tool Requests
 - **Thread 2201**: "CNB Viewer Request" (5 posts, 2024-01-15)

@@ -79,9 +79,9 @@ Complete index of source documentation for all wiki pages.
 ## Primary Sources
 
 ### Available Sources
-- **Discord Export**: `/Users/pascaldisse/Downloads/mxo/DiscordChatExporter/matrix_emulation_export.txt`
-- **Forum Data**: `/Users/pascaldisse/mxoemu_forum_scrape/scraped_data/`
-- **Code**: `/Users/pascaldisse/Downloads/mxo/mxo-hd-enhanced/`
+- **Discord Export**: `/mxo/DiscordChatExporter/matrix_emulation_export.txt`
+- **Forum Data**: `/mxo/forum_scrape/scraped_data/`
+- **Code**: `/mxo/mxo-hd-enhanced/`
 - **Documentation**: Various technical docs and guides
 
 ### New Sources Found (June 2024)

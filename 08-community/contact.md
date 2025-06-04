@@ -24,7 +24,7 @@ Welcome to the Matrix Online liberation contact center. Connect with community l
 - **#combat-research** - D100 system analysis
 
 ### GitHub Repositories
-- **Eden Reborn Wiki**: https://github.com/pascaldisse/mxo-wiki
+- **Eden Reborn Wiki**: https://github.com/codejunky/mxo-wiki
 - **Issue Reporting**: Use GitHub Issues for bug reports
 - **Pull Requests**: Submit documentation improvements
 

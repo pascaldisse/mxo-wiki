@@ -3,7 +3,7 @@
 
 ### Executive Summary
 - **Date**: January 6, 2025
-- **Wiki Root**: `/Users/pascaldisse/mxoemu_forum_scrape/wiki/`
+- **Wiki Root**: `/mxo/forum_scrape/wiki/`
 - **Total Markdown Files**: 141
 - **Total Internal Links**: 1,002
 - **Working Links**: 621

@@ -175,8 +175,8 @@ Throughout all documentation:
 ## Resources Available
 
 ### Source Materials
-- `/Users/pascaldisse/Downloads/mxo/` - Full archive
-- `/Users/pascaldisse/Downloads/mxo/mxo-wiki/` - Existing docs
+- `/mxo/` - Full archive
+- `/mxo/mxo-wiki/` - Existing docs
 - Discord export - 32,000+ messages
 - Working server example
 

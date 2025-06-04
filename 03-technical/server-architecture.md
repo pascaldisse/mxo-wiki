@@ -139,7 +139,7 @@ Perfect synchronization creates the illusion of real combat.
 
 ### codejunky's Discovery
 - Found combat-related packet logs
-- Created unpacking tool: https://github.com/pascaldisse/moms
+- Created unpacking tool: https://github.com/codejunky/moms
 - Packet logs contain GameObject creation and distribution
 - **This could unlock everything**
 

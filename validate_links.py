@@ -6,7 +6,7 @@ from collections import defaultdict
 from pathlib import Path
 
 # Wiki root directory
-WIKI_ROOT = Path("/Users/pascaldisse/mxoemu_forum_scrape/wiki")
+WIKI_ROOT = Path("/mxo/forum_scrape/wiki")
 
 # Regex pattern for markdown links
 LINK_PATTERN = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')

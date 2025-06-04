@@ -234,7 +234,7 @@ class WikiLinkValidator:
             
 def main():
     parser = argparse.ArgumentParser(description='Validate Matrix Online Wiki links')
-    parser.add_argument('--path', default='/Users/pascaldisse/mxoemu_forum_scrape/wiki',
+    parser.add_argument('--path', default='/mxo/forum_scrape/wiki',
                        help='Path to wiki directory')
     parser.add_argument('--json', action='store_true',
                        help='Output results as JSON')

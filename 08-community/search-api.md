@@ -36,8 +36,8 @@ Search Query Examples:
 #### Advanced GitHub Search
 ```
 Advanced Queries:
-- org:pascaldisse language:markdown "combat system"
-- repo:pascaldisse/mxo-wiki extension:md "database"
+- org:codejunky language:markdown "combat system"
+- repo:codejunky/mxo-wiki extension:md "database"
 - path:sources/ "discord" NOT "forum"
 - created:2024-12-01..2024-12-31 "tool development"
 ```

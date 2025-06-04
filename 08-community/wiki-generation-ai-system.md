@@ -1,11 +1,11 @@
 # The AI System Behind This Wiki
-**Meta-Documentation: How This Matrix Online Wiki Was Created Using AI**
+**Meta-Documentation: How Truth(TM) Verified This Matrix Online Wiki**
 
 > *"What is the Matrix? Control. The Matrix is a computer-generated dream world."* - Morpheus
 
 ## 🧠 The Meta-Reality
 
-This document provides transparency into how the Matrix Online Liberation Wiki was created using AI assistance. The wiki content was generated through AI analysis of existing documentation, forum posts, and community resources.
+This document provides transparency into how the Matrix Online Liberation Wiki was created using AI assistance and verified by Truth(TM), an automated wiki checking and correction system. The wiki content was generated through AI analysis of existing documentation, forum posts, and community resources.
 
 ## 🎯 Project Genesis
 
@@ -42,8 +42,8 @@ claude_role:
     - "File organization"
     
   data_sources_analyzed:
-    - "/Users/pascaldisse/Downloads/mxo/ (game files and tools)"
-    - "/Users/pascaldisse/mxoemu_forum_scrape/ (forum data)"
+    - "Game files and tools archive"
+    - "Forum data scrape"
     - "Discord export files (32,000+ messages)"
     - "Existing community documentation"
 ```
@@ -73,7 +73,7 @@ research_methodology:
 
 ### Primary Data Repositories
 
-#### /Users/pascaldisse/Downloads/mxo/
+#### Game Files Archive
 ```yaml
 mxo_archive_contents:
   total_size: "15.2 GB"
@@ -121,7 +121,7 @@ ai_processing_approach:
     output: "Comprehensive guides and tutorials"
 ```
 
-#### /Users/pascaldisse/mxoemu_forum_scrape/
+#### Forum Scrape Data
 ```yaml
 forum_scrape_data:
   source: "mxoemu.info forum archive"
@@ -382,10 +382,17 @@ class ContentGenerationEngine:
         return complete_page
 ```
 
-## 📋 Wiki Quality Check Process
+## 🔍 Truth(TM): The Wiki Verification System
 
-### The Wiki Check Prompt (Full Version)
-The wiki was verified using a comprehensive quality check process. The complete prompt is available at `/Users/pascaldisse/mxoemu_forum_scrape/wiki_check_prompt.md`. Key phases include:
+### What is Truth(TM)?
+Truth(TM) is an automated wiki checking and correction system designed to:
+- Verify all claims against source materials
+- Identify and fix fabricated or unsupported content
+- Check structural integrity and navigation
+- Ensure consistent and accurate documentation
+
+### Truth(TM) Wiki Check Process
+The wiki was verified using Truth(TM)'s comprehensive quality check and correction system. The complete verification process includes:
 
 #### Phase 1: Structure & Navigation Check
 - Verify all directories have index.md files
@@ -420,7 +427,7 @@ The wiki was verified using a comprehensive quality check process. The complete 
 
 The full 461-line prompt includes detailed instructions for each phase, example outputs, correction guidelines, and adaptive features for handling wiki growth.
 
-### How the Wiki Check Was Run
+### How Truth(TM) Was Run
 1. **Automated File Analysis**: Used Glob to find all markdown files
 2. **Content Verification**: Read each file checking for fabricated claims
 3. **Link Validation**: Python scripts to check all wiki links
@@ -754,13 +761,13 @@ This wiki was created using AI assistance to organize and document the Matrix On
 
 1. **Source Analysis**: Reading forum posts, Discord messages, and existing documentation
 2. **Content Organization**: Structuring information into a comprehensive wiki format
-3. **Quality Verification**: Using the wiki check process to ensure accuracy
-4. **Corrections Applied**: Fixing any false claims or inaccuracies found
+3. **Quality Verification**: Using Truth(TM) to ensure accuracy
+4. **Corrections Applied**: Truth(TM) fixed any false claims or inaccuracies found
 
 ### Transparency Notes
 - All content was generated from existing community sources
 - ChatGPT and Grok were used for online research only
-- The wiki check process identified and corrected 2 critical inaccuracies
+- Truth(TM) identified and corrected 2 critical inaccuracies
 - Eden Reborn is correctly represented as a development project started June 3, 2025
 
 ### Final Statistics
@@ -773,7 +780,7 @@ This wiki was created using AI assistance to organize and document the Matrix On
 ---
 
 **Documentation Method**: AI-assisted organization of community knowledge  
-**Quality Check**: Comprehensive verification using wiki_check_prompt.md  
+**Quality Check**: Comprehensive verification using Truth(TM)  
 **Status**: Complete with ongoing maintenance needed  
 
 ---

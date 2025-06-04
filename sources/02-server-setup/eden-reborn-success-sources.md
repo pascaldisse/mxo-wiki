@@ -48,7 +48,7 @@
 - Authentication deadlock fix details
 
 ## Additional Context
-- Eden Reborn is Pascal Disse's WIP server project
+- Eden Reborn is a community WIP server project
 - Features listed are development goals, not current functionality
 - Wiki serves dual purpose: historical documentation and development planning
 - "Neoologist" philosophy is the project's creative framework
