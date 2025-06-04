@@ -1,8 +1,8 @@
 # Server Setup Documentation
 
-> ### 🎉 **BREAKING: MATRIX ONLINE FULLY OPERATIONAL!**
-> **[Eden Reborn Success Story →](eden-reborn-success.md)**  
-> *June 3, 2025: Complete MXO HD Enhanced server with working combat, missions, and 2.8+ million game objects!*
+> ### 🚧 **Current Status: Development in Progress**
+> **[Eden Reborn Project →](eden-reborn-success.md)**  
+> *Started June 3, 2025: Community-driven MXO server development project. Currently in early research and planning phase.*
 
 Welcome to the Matrix Online server setup section. Here you'll find everything needed to run your own MXO server, from basic installation to advanced administration.
 
