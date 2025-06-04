@@ -173,4 +173,4 @@ This timeline doesn't end. It's a living document of liberation. Every breakthro
 
 ---
 
-[← Back to Getting Started](index.md) | [Join the Liberation →](../08-community/join.md)
+[Join the Resistance](../08-community/join-the-resistance.md)

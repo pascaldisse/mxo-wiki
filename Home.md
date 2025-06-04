@@ -69,22 +69,22 @@ This wiki contains:
 - ✅ Combat system implementation details
 - ✅ Community resources and guides
 
-**Read the [Neoologist Manifesto](neoologist-manifesto)** to understand our mission.
+**Read the [Neoologist Manifesto](00-manifesto/neoologist-manifesto)** to understand our mission.
 
 ---
 
 ## 🛠️ Current Projects
 
 ### Active Development
-- 🟢 **HD Enhanced Server** - Fully operational!
+- 🚧 **Eden Reborn Server** - In development!
 - 🟡 **Wiki Expansion** - Ongoing documentation
 - 🔴 **CNB Viewer** - Critical need for developers
 - 🔴 **PKB Tools** - Recreating reztools
 
 ### How to Help
-1. [Fork our repositories](repositories)
-2. [Join Discord](discord)
-3. [Read contributing guide](contributing)
+1. [Join our Discord](https://discord.gg/3QXTAGB9)
+2. [Read the contribution guide](08-community/contribution-framework)
+3. [Check available tools](04-tools-modding/available-tools-catalog)
 4. Pick a project and dive in!
 
 ---
@@ -105,22 +105,22 @@ This wiki contains:
 ## 🔗 Quick Navigation
 
 ### Technical
-- [File Formats](technical-docs#file-formats)
-- [Network Protocol](network-protocol)
-- [Combat System](ida-pro-analysis)
-- [Database Schema](database-setup)
+- [File Formats](03-technical-docs/file-formats/index)
+- [Server Architecture](03-technical/server-architecture)
+- [Combat System](06-gameplay-systems/combat/ida-pro-analysis)
+- [Database Setup](02-server-setup/database-setup)
 
 ### Community
 - [Discord Server](https://discord.gg/3QXTAGB9)
-- [Contributing](contributing)
-- [Contact Team](contact)
-- [FAQ](faq)
+- [Contributing](08-community/contribution-framework)
+- [Join the Resistance](08-community/join-the-resistance)
+- [GitHub Workflow](08-community/github-workflow-standards)
 
 ### Resources
-- [Downloads](downloads)
-- [GitHub Repos](repositories)
-- [Media Archive](media-collection)
-- [Tool Status](tools-modding)
+- [Wiki Progress](WIKI_PROGRESS)
+- [Tool Development](04-tools-modding/tool-development-guide)
+- [Lost Tools Archive](04-tools-modding/lost-tools-archive)
+- [Tool Status](04-tools-modding/available-tools-catalog)
 
 ---
 
@@ -149,29 +149,29 @@ The Matrix Online died in 2009 when corporations pulled the plug. But we refused
 
 ## 🏆 Recent Achievements
 
-- ✅ **June 3, 2025** - Full server operational with combat
-- ✅ **May 2025** - IDA Pro combat analysis complete
-- ✅ **April 2025** - HD Enhanced fork stabilized
-- ✅ **March 2025** - Authentication deadlock solved
+- 🚧 **June 3, 2025** - Eden Reborn project launched
+- ✅ **May 2025** - Combat research planning initiated
+- ✅ **April 2025** - Wiki documentation started
+- ✅ **Community** - Growing Discord and GitHub presence
 
-[View Full Timeline →](timeline-of-liberation)
+[View Full Timeline →](01-getting-started/timeline-of-liberation)
 
 ---
 
 ## 📢 Latest News
 
-### Server Status: 🟢 OPERATIONAL
-- HD Enhanced running perfectly
-- Cross-platform support active
-- New features in development
-- Community growing daily
+### Project Status: 🚧 IN DEVELOPMENT
+- Eden Reborn server planning active
+- Wiki documentation growing
+- Community building
+- Research ongoing
 
 ---
 
-> *"There is no spoon."* - But there IS a server, and it's beautiful.
+> *"There is no spoon."* - But there IS a wiki, and it's growing.
 
-**Welcome to Eden Reborn. The Matrix has you... and now, you have the Matrix.**
+**Welcome to Eden Reborn. The Matrix needs you... and now, you can help build it.**
 
 ---
 
-[Enter the Wiki →](getting-started) | [Read the Manifesto →](neoologist-manifesto) | [Join Us →](join-the-resistance)
+[Enter the Wiki →](01-getting-started/index) | [Read the Manifesto →](00-manifesto/neoologist-manifesto) | [Join Us →](08-community/join-the-resistance)

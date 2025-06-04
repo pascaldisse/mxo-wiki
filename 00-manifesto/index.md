@@ -11,6 +11,4 @@ Our vision for game liberation and the principles that guide Eden Reborn develop
 
 ---
 
-📚 [View Sources](/sources/00-manifesto/index-sources.md)
-
 [← Back to Home](/) | [Next: Getting Started →](/01-getting-started/)

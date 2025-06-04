@@ -200,7 +200,7 @@ mysqldump -u root -p mxodb > backup_%date%.sql
 ### Support
 - [FAQ](faq.md)
 - [Known Issues](known-issues.md)
-- [Community Discord](../08-community/discord.md)
+- [Discord](https://discord.gg/3QXTAGB9)
 - [Troubleshooting Guide](troubleshooting.md)
 
 ## 🎯 Next Steps

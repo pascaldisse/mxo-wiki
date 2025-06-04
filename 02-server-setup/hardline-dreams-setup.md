@@ -323,7 +323,7 @@ echo Backup completed: %TIMESTAMP%
 
 - [HD GitHub Repository](https://github.com/hdneo/mxo-hd)
 - [HD Development Wiki](https://github.com/hdneo/mxo-hd/wiki)
-- [Community Discord](../08-community/discord.md)
+- [Discord](https://discord.gg/3QXTAGB9)
 
 ---
 

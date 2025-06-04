@@ -23,6 +23,4 @@ Real-time cutscene format - the #1 community priority for viewer development.
 
 ---
 
-📚 [View Sources](/sources/03-technical-docs/file-formats/index-sources.md)
-
 [← Back to Technical Docs](../) | [Home](/) 

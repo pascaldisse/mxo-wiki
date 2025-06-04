@@ -16,6 +16,4 @@ How to get involved with Eden Reborn and the MXO preservation community.
 
 ---
 
-📚 [View Sources](/sources/08-community/index-sources.md)
-
 [← Back to Preservation](/07-preservation/) | [Home](/) 

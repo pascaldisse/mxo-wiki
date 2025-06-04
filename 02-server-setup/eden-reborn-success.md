@@ -191,6 +191,4 @@ The Matrix Online is no longer just a memory. It's a living, breathing world aga
 
 ---
 
-📚 [View Sources](/sources/02-server-setup/eden-reborn-success-sources.md)
-
 [← Back to Server Setup](index.md) | [Quick Start Guide →](eden-quickstart.md) | [Technical Details →](eden-technical.md)

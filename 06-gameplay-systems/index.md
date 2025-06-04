@@ -17,6 +17,4 @@ The D100-based Interlock combat system - currently being researched for Eden Reb
 
 ---
 
-📚 [View Sources](/sources/06-gameplay-systems/index-sources.md)
-
 [← Back to Game Content](/05-game-content/) | [Next: Preservation →](/07-preservation/)

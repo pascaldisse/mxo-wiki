@@ -277,6 +277,6 @@ echo Backup complete: mxoemu_%DATE%.sql
 
 ---
 
-**Need Help?** Join the [MXO Community Discord](../08-community/discord.md) or check the [Troubleshooting Guide](troubleshooting.md).
+**Need Help?** Join the [Discord](https://discord.gg/3QXTAGB9) or check the [Troubleshooting Guide](troubleshooting.md).
 
 [← Back to Server Setup](index.md) | [Next: Hardline Dreams Setup →](hardline-dreams-setup.md)

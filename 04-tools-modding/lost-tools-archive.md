@@ -259,4 +259,4 @@ The tools existed. They worked. They can work again.
 *Last Updated: By those who remember*  
 *Next Update: When the tools are found*
 
-[← Back to Tools](index.md) | [Contribute findings →](../08-community/contribute.md)
+[Contributing](../08-community/contribution-framework.md)

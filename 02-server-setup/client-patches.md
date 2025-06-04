@@ -314,6 +314,6 @@ Modern approach using web technology:
 
 ---
 
-**Need Help?** Check our [Troubleshooting Guide](troubleshooting.md) or ask in [Discord](../08-community/discord.md).
+**Need Help?** Check our [Discord](https://discord.gg/3QXTAGB9).
 
 [← Back to Server Setup](index.md) | [Next: Database Setup →](database-setup.md)

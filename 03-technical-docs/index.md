@@ -14,6 +14,4 @@ Documentation of MXO's proprietary file formats including:
 
 ---
 
-📚 [View Sources](/sources/03-technical-docs/index-sources.md)
-
 [← Back to Server Setup](/02-server-setup/) | [Next: Tools & Modding →](/04-tools-modding/)

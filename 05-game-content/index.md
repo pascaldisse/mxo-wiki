@@ -16,6 +16,4 @@ The complete Matrix Online saga - from beta to sunset and beyond.
 
 ---
 
-📚 [View Sources](/sources/05-game-content/index-sources.md)
-
 [← Back to Tools & Modding](/04-tools-modding/) | [Next: Gameplay Systems →](/06-gameplay-systems/)

@@ -21,6 +21,4 @@ Technical guides for rebuilding the lost tools and creating new ones for Eden Re
 
 ---
 
-📚 [View Sources](/sources/04-tools-modding/index-sources.md)
-
 [← Back to Technical Docs](/03-technical-docs/) | [Next: Game Content →](/05-game-content/)
