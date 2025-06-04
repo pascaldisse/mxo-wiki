@@ -5,17 +5,16 @@
 ## [📜 Manifesto](00-manifesto/index)
 - [Neoologist Manifesto](00-manifesto/neoologist-manifesto)
 
-## [🌐 Overview](01-overview/index)
-- [Timeline Complete](01-overview/timeline-complete)
-
 ## [🚀 Getting Started](01-getting-started/index)
-- [Timeline of Liberation](01-getting-started/timeline-of-liberation)
+- [Complete Timeline of Liberation](01-getting-started/timeline-liberation-complete)
 
 ## [🖥️ Server Setup](02-server-setup/index)
 - [🚧 Eden Reborn Project](02-server-setup/eden-reborn-success)
 - [Server Comparison](02-server-setup/server-projects-comparison)
 - [MXOEmu Setup](02-server-setup/mxoemu-setup)
 - [Hardline Dreams Setup](02-server-setup/hardline-dreams-setup)
+- [HD Enhanced Realistic Guide](02-server-setup/hd-enhanced-realistic-setup)
+- [HD Enhanced Aspirational Guide](02-server-setup/hd-enhanced-aspirational-setup)
 - [Reality Server Guide](02-server-setup/reality-server-guide)
 - [Client Patches](02-server-setup/client-patches)
 - [Database Setup](02-server-setup/database-setup)
@@ -25,7 +24,7 @@
   - [Overview](03-technical-docs/file-formats/index)
   - [PKB Archives 🔴](03-technical-docs/file-formats/pkb-archives)
   - [CNB Format 🔴](03-technical-docs/file-formats/cnb-format)
-  - [PROP Format](03-technical-docs/file-formats/prop-format)
+  - [PROP Format Complete](03-technical-docs/file-formats/prop-format-complete)
 
 ## [💻 Technical Deep Dives](03-technical/index)
 - [File Formats Complete](03-technical/file-formats-complete)

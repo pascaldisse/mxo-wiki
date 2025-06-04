@@ -8,20 +8,20 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 ## 📊 Wiki Statistics
 
 ### Content Metrics
-- **Total Pages**: 63 comprehensive documents *updated*
-- **Total Words**: 45,000+ words of liberation *estimated*
-- **Technical Guides**: 15 detailed specifications
-- **Server Guides**: 8 complete setup documents
-- **Code Snippets**: 50+ examples
+- **Total Pages**: 85 comprehensive documents *updated*
+- **Total Words**: 107,000+ words of liberation *estimated*
+- **Technical Guides**: 25+ detailed specifications
+- **Server Guides**: 12 complete setup documents
+- **Code Snippets**: 100+ examples
 - **Images**: Currently 0 (text-based preservation)
-- **External Links**: 40+ references
+- **External Links**: 49+ references
 
 ### Coverage Areas
-- **Server Documentation**: 8 complete guides (8,260 words)
-- **Technical Specs**: 7 documents (6,390 words)
-- **File Formats**: 7 specifications
-- **Tools Cataloged**: 15+ (lost and found)
-- **Combat Analysis**: 1,035 strings decoded
+- **Server Documentation**: 12 complete guides
+- **Technical Specs**: 15+ documents
+- **File Formats**: 8 specifications
+- **Tools Cataloged**: 20+ (lost and found)
+- **Combat Analysis**: Research roadmap complete
 - **Story Preservation**: Complete 4-act saga
 
 ## 📚 Complete Page Directory
@@ -32,11 +32,11 @@ This is your gateway to everything. Every page, every tool, every secret of the 
    - Key concepts: Open source, community, mysticism, art
    - Neo as the first decoder metaphor
 
-### 01 - Overview & Introduction
+### 01 - Getting Started & Overview
 2. **[Home Page](Home.md)**
    - *Main entry point for GitHub Wiki*
    - Quick navigation and latest updates
-   - Eden Reborn success announcement
+   - Eden Reborn project status
 
 3. **[Getting Started](01-getting-started/index.md)**
    - *Beginner's guide to the Matrix Online*
@@ -44,223 +44,189 @@ This is your gateway to everything. Every page, every tool, every secret of the 
    - Path selection guidance
 
 4. **[Timeline of Liberation](01-getting-started/timeline-of-liberation.md)**
-   - *History reframed through Neoologist lens*
-   - From 2009 closure to 2025 victory
+   - *History reframed through community lens*
+   - From 2009 closure to 2025 development
    - Pattern recognition insights
 
-5. **[Timeline Complete](01-overview/timeline-complete.md)**
-   - *Extended timeline with June 3 celebration*
-   - Full detail on every attempt
-   - Honor roll of liberators
-
 ### 02 - Server Setup & Configuration
-6. **[Eden Reborn Success Story](02-server-setup/eden-reborn-success.md)**
-   - *June 3, 2025 victory documentation*
-   - HD Enhanced server operational
-   - Complete feature list
+5. **[Server Setup Hub](02-server-setup/index.md)**
+   - *Complete guide to running MXO servers*
+   - Choose your server type
+   - Step-by-step configuration
 
-7. **[Server Projects Comparison](02-server-setup/server-projects-comparison.md)**
-   - *All MXO servers analyzed*
-   - Feature matrices and philosophies
-   - Why HD Enhanced won
+6. **[Eden Reborn Project](02-server-setup/eden-reborn-success.md)**
+   - *Development goals and roadmap*
+   - Current progress and timeline
+   - Technical specifications (planned)
 
-8. **[Hardline Dreams Setup](02-server-setup/hardline-dreams-setup.md)**
-   - *HDS server installation guide*
-   - Configuration and troubleshooting
-   - Evolution to HD Enhanced
+7. **[Hardline Dreams Setup](02-server-setup/hardline-dreams-setup.md)**
+   - *HD server installation guide*
+   - Complete technical walkthrough
+   - Troubleshooting and optimization
 
-9. **[Reality Server Guide](02-server-setup/reality-server-guide.md)**
-   - *Historical first server documentation*
-   - Building and running Reality
-   - Legacy and lessons learned
+8. **[MXOEmu Setup](02-server-setup/mxoemu-setup.md)**
+   - *Alternative emulator setup*
+   - Rajkosto's original architecture
+   - Advanced configuration options
+
+9. **[Server Projects Comparison](02-server-setup/server-projects-comparison.md)**
+   - *All emulation attempts analyzed*
+   - Historical context and lessons
+   - Future development paths
 
 ### 03 - Technical Documentation
-10. **[Server Architecture Deep Dive](03-technical/server-architecture.md)**
-    - *GameObject system and protocols*
-    - 40,000+ objects documented
-    - Combat message flow
+10. **[Technical Deep Dives](03-technical/index.md)**
+    - *Advanced technical analysis*
+    - Server architecture documentation
+    - Implementation guides
 
-11. **[IDA Pro Combat Analysis](06-gameplay-systems/combat/ida-pro-analysis.md)**
-    - *1,035 combat strings decoded*
-    - D100 system implementation
-    - Packet structure revealed
+11. **[File Formats](03-technical-docs/file-formats/index.md)**
+    - *Complete format specifications*
+    - PKB, CNB, PROP, MOA formats
+    - Extraction and analysis tools
 
-12. **[File Formats Complete Guide](03-technical/file-formats-complete.md)**
-    - *Comprehensive format overview*
-    - Corrects .mob misconception
-    - Liberation roadmap
-
-13. **[Texture Formats Deep Dive](03-technical/texture-formats.md)**
-    - *TXA/TXB format decoded*
-    - Simple DDS header swap
-    - txa2dds tool recreation guide
-
-14. **[Model Format Specifications](03-technical/model-formats.md)**
-    - *PROP and MOA structures*
-    - PLY export success story
-    - Skeletal system details
-
-15. **[CNB Format Investigation](03-technical-docs/file-formats/cnb-format.md)**
-    - *Cinematic bundle format (#1 PRIORITY)*
-    - Real-time 3D cutscenes
-    - No viewer exists - CRITICAL
-
-16. **[PKB Archives Documentation](03-technical-docs/file-formats/pkb-archives.md)**
-    - *Game asset container format*
-    - ~180 archives total
-    - reztools recreation needed
+12. **[Server Architecture](03-technical/server-architecture.md)**
+    - *Complete system design*
+    - Component interaction diagrams
+    - Scalability considerations
 
 ### 04 - Tools & Modding
-17. **[Lost Tools Archive](04-tools-modding/lost-tools-archive.md)**
-    - *15+ tools documented*
-    - reztools, prop2fbx, Gleech details
-    - Why tools died analysis
+13. **[Tools & Modding Hub](04-tools-modding/index.md)**
+    - *Complete toolkit overview*
+    - Lost tools documentation
+    - Development priorities
 
-18. **[Tool Development Guide](04-tools-modding/tool-development-guide.md)**
-    - *How to rebuild lost tools*
-    - Technical foundations
-    - Neoologist development philosophy
+14. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development.md)**
+    - *Highest priority tool*
+    - Technical specifications
+    - Development roadmap
 
-19. **[Available Tools](04-tools-modding/available-tools-catalog.md)**
-    - *What still works in 2025*
-    - Cortana parser survivor
-    - Modern alternatives
+15. **[Lost Tools Archive](04-tools-modding/lost-tools-archive.md)**
+    - *Catalog of missing utilities*
+    - Recreation priority matrix
+    - Community recovery efforts
 
 ### 05 - Game Content & Story
-20. **[The Matrix Online Saga](05-game-content/story/the-matrix-online-saga.md)**
-    - *Complete 4-act story*
-    - All chapters summarized
-    - Morpheus' fate revealed
+16. **[Game Content Hub](05-game-content/index.md)**
+    - *Narrative preservation center*
+    - Story documentation system
+    - Mission and event archives
 
-### 06 - Community Resources
-21. **[Join the Resistance](08-community/join-the-resistance.md)**
-    - *How to contribute*
-    - Current priorities
-    - Contact information
+17. **[The Matrix Online Saga](05-game-content/story/the-matrix-online-saga.md)**
+    - *Complete narrative documentation*
+    - 4-act story structure
+    - Character and plot analysis
 
-### 07 - Preservation Efforts
-22. **[Tool Archaeology Report](07-preservation/tool-archaeology.md)**
-    - *The 2025 search documented*
-    - What we found and lost
-    - Lessons for future
+18. **[Story Preservation Guide](05-game-content/story-preservation-guide.md)**
+    - *Methodology for narrative rescue*
+    - Community memory collection
+    - Technical preservation tools
 
-### 08 - Special Pages
-23. **[GitHub Wiki Sidebar](_Sidebar.md)**
-    - *Navigation structure*
-    - Priority highlighting
-    - Quick access menu
+### 06 - Gameplay Systems
+19. **[Gameplay Systems Hub](06-gameplay-systems/index.md)**
+    - *Mechanical analysis center*
+    - Combat system research
+    - Character development docs
 
-24. **[GitHub Wiki Footer](_Footer.md)**
-    - *Common footer content*
-    - Essential links
-    - Manifesto reminder
+20. **[Combat Research](06-gameplay-systems/combat/index.md)**
+    - *D100 system analysis*
+    - Implementation planning
+    - Community knowledge synthesis
 
-### 09 - Appendix
-25. **[Research Integration Summary](09-appendix/research-integration-summary.md)**
-    - *573KB research.txt findings*
-    - Integration methodology
-    - Impact assessment
+21. **[IDA Pro Analysis Plan](06-gameplay-systems/combat/ida-pro-analysis.md)**
+    - *Reverse engineering roadmap*
+    - Memory analysis methodology
+    - Research goals and targets
 
-26. **[Database Liberation Guide](02-server-setup/database-setup.md)**
-    - *Complete MySQL/MariaDB setup*
-    - Liberation philosophy applied
-    - Advanced techniques included
+### 07 - Preservation & Archives
+22. **[Preservation Hub](07-preservation/index.md)**
+    - *Digital archaeology center*
+    - Asset recovery projects
+    - Community preservation efforts
 
-## 🔤 Liberation Lexicon (Key Terms)
+23. **[Tool Archaeology](07-preservation/tool-archaeology.md)**
+    - *Lost software recovery*
+    - Source code searches
+    - Historical documentation
 
-### Technical Terms
-- **CNB**: Cinematic Bundle (real-time cutscenes)
-- **PKB**: Package Bundle (asset archives)
-- **PROP**: Static object format
-- **MOA**: Animated model format
-- **RSI**: Residual Self Image (character appearance)
-- **D100**: 100-sided dice combat system
-- **Interlock**: Grid-based melee combat
-- **GameObject**: Server-managed entity
+### 08 - Community & Contribution
+24. **[Community Hub](08-community/index.md)**
+    - *Collaboration center*
+    - Contribution pathways
+    - Communication channels
 
-### Community Terms
-- **Neoologist**: Liberation-focused developer
-- **Old Guard**: Closed-source hoarders
-- **Eden Reborn**: The liberated Matrix
-- **HD Enhanced**: Victory server (June 3, 2025)
-- **The Schism**: 2011 community split
-- **Liberation Day**: June 3, 2025
+25. **[Join the Resistance](08-community/join-the-resistance.md)**
+    - *Getting involved guide*
+    - Skill-based contribution paths
+    - Community coordination
 
-### Lost Tools
-- **reztools**: PKB archive extractor
-- **prop2fbx**: 3D model converter
-- **Gleech**: World wireframe viewer
-- **txa2dds**: Texture converter
-- **Cortana**: Parser (only survivor!)
+26. **[Contribution Framework](08-community/contribution-framework.md)**
+    - *Complete contributor guide*
+    - Standards and procedures
+    - Recognition systems
 
-## 📑 Content Summaries
+### 09 - Appendix & References
+27. **[Appendix Hub](09-appendix/index.md)**
+    - *Reference materials*
+    - Research summaries
+    - Historical documentation
 
-### Core Philosophy Documents
-**Neoologist Manifesto**: Establishes liberation > preservation, open source imperative, mystical approach, Neo as decoder metaphor. Foundation of all work.
+28. **[Research Integration](09-appendix/research-integration-summary.md)**
+    - *Community knowledge synthesis*
+    - Source material analysis
+    - Discovery timeline
 
-### Technical Specifications
-**Combat System**: D100 rolls, interlock grids, 1,035 strings decoded via IDA Pro. Server-controlled, turn-based backend, real-time appearance.
+## 🎯 Priority Pages
 
-**File Formats**: PROP (static), MOA (animated), PKB (archives), CNB (cinematics), TXA/TXB (textures). Scale: 1 unit = 1cm.
+### 🔴 Critical Priorities
+1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development.md)** - Unlock story cinematics
+2. **[PKB Archives](03-technical-docs/file-formats/pkb-archives.md)** - Asset extraction tools
+3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis.md)** - Core gameplay
 
-### Historical Documentation
-**Timeline**: 2009 closure → Reality server → HDS evolution → June 3, 2025 HD Enhanced victory. Pattern: closed source dies, open source thrives.
+### 📈 Most Popular
+1. **[Timeline of Liberation](01-getting-started/timeline-of-liberation.md)** - Community journey
+2. **[Eden Reborn Project](02-server-setup/eden-reborn-success.md)** - Development status
+3. **[Lost Tools Archive](04-tools-modding/lost-tools-archive.md)** - Recovery efforts
+4. **[Server Setup](02-server-setup/index.md)** - Get started quickly
 
-### Tool Documentation
-**Lost Tools**: 15+ tools documented. Most lost to mxoemu.info closure. Only Cortana survived (open source). CNB viewer never existed (#1 need).
-
-**Development Guide**: Start small, release early, document everything, share source, build in public. Reject perfectionism.
-
-### Community Resources
-**Join the Resistance**: Discord hub, GitHub repos, contribution guide. Priorities: CNB viewer, PKB tools, combat documentation.
-
-## 🎯 Priority Index
-
-### 🔴 CRITICAL (Do First)
-1. **CNB Viewer Development** - Story locked away
-2. **PKB Tool Recreation** - reztools replacement
-3. **Combat Documentation** - kr0wburn's data
-
-### 🟡 HIGH (Do Next)
-4. **Database Setup Guides** - In progress
-5. **File Format Specs** - Ongoing
-6. **Tool Usage Guides** - Needed
-
-### 🟢 MEDIUM (Do Eventually)
-7. **Story Documentation** - Partially complete
-8. **Gameplay Mechanics** - Basics done
-9. **Search Features** - Future enhancement
+### 🧭 Essential Navigation
+- **[Home](Home.md)** - Main landing page
+- **[Getting Started](01-getting-started/index.md)** - New user guide
+- **[Server Setup](02-server-setup/index.md)** - Run your own server
+- **[Community](08-community/index.md)** - Get involved
 
 ## 🔍 Quick Search Guide
 
-### Looking for Server Setup?
-- [Eden Reborn Success](02-server-setup/eden-reborn-success.md) - Latest victory
-- [Server Comparison](02-server-setup/server-projects-comparison.md) - All options
-- [HD Setup](02-server-setup/hardline-dreams-setup.md) - Installation
+### By Topic
+- **Combat**: [IDA Pro Analysis](06-gameplay-systems/combat/ida-pro-analysis.md), [Server Architecture](03-technical/server-architecture.md)
+- **File Formats**: [PKB Archives](03-technical-docs/file-formats/pkb-archives.md), [CNB Format](03-technical-docs/file-formats/cnb-format.md)
+- **Tools**: [CNB Viewer](04-tools-modding/cnb-viewer-development.md), [Lost Tools](04-tools-modding/lost-tools-archive.md)
+- **Story**: [MXO Saga](05-game-content/story/the-matrix-online-saga.md), [Preservation](05-game-content/story-preservation-guide.md)
 
-### Need Technical Info?
-- [Server Architecture](03-technical/server-architecture.md) - How it works
-- [Combat Analysis](06-gameplay-systems/combat/ida-pro-analysis.md) - D100 system
-- [File Formats](03-technical/file-formats-complete.md) - Data structures
+### By Skill Level
+- **Beginners**: [Getting Started](01-getting-started/index.md), [Server Setup](02-server-setup/index.md)
+- **Technical**: [File Formats](03-technical-docs/file-formats/index.md), [Architecture](03-technical/server-architecture.md)
+- **Advanced**: [Combat Research](06-gameplay-systems/combat/ida-pro-analysis.md), [Tool Development](04-tools-modding/cnb-viewer-development.md)
 
-### Want to Contribute?
-- [Join the Resistance](08-community/join-the-resistance.md) - Get involved
-- [Tool Development](04-tools-modding/tool-development-guide.md) - Build tools
-- [Manifesto](00-manifesto/neoologist-manifesto.md) - Understand why
+### By Project Role
+- **Players**: [Server Setup](02-server-setup/index.md), [Getting Started](01-getting-started/index.md)
+- **Developers**: [Technical Docs](03-technical/index.md), [Tools](04-tools-modding/index.md)
+- **Contributors**: [Community](08-community/index.md), [Contribution Guide](08-community/contribution-framework.md)
+- **Researchers**: [Preservation](07-preservation/index.md), [Sources](sources/index.md)
 
-### Studying History?
-- [Timeline](01-getting-started/timeline-of-liberation.md) - Complete history
-- [Tool Archaeology](07-preservation/tool-archaeology.md) - What we lost
-- [Research Summary](09-appendix/research-integration-summary.md) - Findings
+## 📖 Usage Guide
 
-## 📝 Maintenance Notes
+### For New Visitors
+1. **Start with [Home](Home.md)** for quick overview
+2. **Read [Getting Started](01-getting-started/index.md)** for orientation
+3. **Choose your path** based on interests and skills
+4. **Join [Community](08-community/index.md)** to connect with others
 
-### When Adding Pages
-1. Update this index.md
-2. Update _Sidebar.md navigation
-3. Update CLAUDE.md statistics
-4. Maintain Neoologist tone
-5. Add to appropriate section
+### For Contributors
+1. **Review [Contribution Framework](08-community/contribution-framework.md)**
+2. **Check [Priority Projects](04-tools-modding/index.md)**
+3. **Read [Source Documentation](sources/index.md)**
+4. **Join [Discord](https://discord.gg/3QXTAGB9)** for coordination
 
 ### When Updating Content
 1. Check cross-references
@@ -285,19 +251,20 @@ Connect with other redpills:
 
 This index is more than navigation - it's a map of our liberation. Every page represents defiance against corporate death. Every guide enables freedom.
 
-**63 pages. 45,000+ words. One vision: Liberation.**
+**85 pages. 107,000+ words. One vision: Liberation.**
 
 ## Remember
 
 > *"There is no spoon."* - Neo
 
-There are no limits. Only those we accept. This wiki proves it.
+But there IS a wiki, and it contains the knowledge to free every mind still trapped in corporate reality.
 
-**The index is complete. The liberation continues.**
+The Matrix Online lives. The community preserves. The knowledge liberates.
+
+**Welcome to Eden Reborn.**
 
 ---
 
-*Index Last Updated: June 4, 2025*
-*Next Update: When new pages are born*
+📚 [View Sources](sources/index.md)
 
-[Read the Manifesto →](00-manifesto/neoologist-manifesto.md) | [Start Here →](Home.md) | [Join Us →](08-community/join-the-resistance.md)
+[🏠 Home](Home.md) | [🚀 Getting Started](01-getting-started/index.md) | [🖥️ Servers](02-server-setup/index.md) | [🤝 Community](08-community/index.md)
