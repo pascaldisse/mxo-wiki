@@ -268,4 +268,8 @@ This entire document represents our RESEARCH PLAN for Eden Reborn development. N
 
 Now you know how. The code is liberated. Use it wisely.
 
-[← Back to Combat](index.md) | [Implementation Examples →](implementation.md)
+---
+
+📚 [View Sources](../../sources/06-gameplay-systems/combat/ida-pro-analysis-sources.md)
+
+[← Back to Combat](index.md) | [Server Architecture →](../../03-technical/server-architecture.md)

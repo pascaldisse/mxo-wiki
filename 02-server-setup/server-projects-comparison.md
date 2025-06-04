@@ -235,4 +235,8 @@ Eden Reborn is in development. Existing servers work TODAY.
 
 **The future Matrix. Built by all of us.**
 
+---
+
+📚 [View Sources](../sources/02-server-setup/server-projects-comparison-sources.md)
+
 [Setup HD Enhanced →](hardline-dreams-setup.md) | [Read Success Story →](eden-reborn-success.md) | [Contribute →](../08-community/join-the-resistance.md)
