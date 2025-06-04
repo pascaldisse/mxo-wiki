@@ -8,13 +8,13 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 ## 📊 Wiki Statistics
 
 ### Content Metrics
-- **Total Pages**: 126 comprehensive documents *updated*
-- **Total Words**: 110,000+ words of liberation *estimated*
-- **Technical Guides**: 25+ detailed specifications
-- **Server Guides**: 12 complete setup documents
-- **Code Snippets**: 100+ examples
+- **Total Pages**: 142 comprehensive documents *Cycle 3 Update*
+- **Total Words**: 130,000+ words of liberation *estimated*
+- **Technical Guides**: 30+ detailed specifications
+- **Server Guides**: 13 complete setup documents
+- **Code Snippets**: 150+ examples
 - **Images**: Currently 0 (text-based preservation)
-- **External Links**: 49+ references
+- **External Links**: 50+ references
 
 ### Coverage Areas
 - **Server Documentation**: 12 complete guides
@@ -80,7 +80,7 @@ This is your gateway to everything. Every page, every tool, every secret of the 
     - Server architecture documentation
     - Implementation guides
 
-11. **[File Formats](03-technical-docs/file-formats/index.md)**
+11. **[File Formats](03-technical/file-formats.md)**
     - *Complete format specifications*
     - PKB, CNB, PROP, MOA formats
     - Extraction and analysis tools
