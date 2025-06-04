@@ -875,4 +875,4 @@ This guide represents the realistic path to HD Enhanced server deployment. Unlik
 
 ---
 
-[← Back to Servers](index.md) | [Troubleshooting →](server-troubleshooting.md) | [Development Guide →](../04-tools-modding/development-guide.md)
+[← Back to Servers](index.md) | [Troubleshooting →](server-troubleshooting.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md)
