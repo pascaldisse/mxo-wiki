@@ -393,4 +393,4 @@ The Eden Reborn wiki search system will be more than just finding content—it w
 
 [← Back to Search Implementation](search-implementation.md) | [Navigation Guide →](navigation-guide.md) | [Community Hub →](index.md)
 
-📚 [View Sources](../sources/08-community/search-api-sources.md)
+📚 [View Sources](sources/index.md)

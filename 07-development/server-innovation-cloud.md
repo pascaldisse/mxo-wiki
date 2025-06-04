@@ -1095,7 +1095,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mxo-community/mxo-k8s-config
+    repoURL: https://github.com/hdneo/mxo-hd/tree/main/mxo-k8s-config
     targetRevision: main
     path: environments/production
     helm:

@@ -313,7 +313,7 @@ mxo-tool --version
 ### Manual Installation
 ```bash
 # Clone repository
-git clone https://github.com/mxo-community/tool-name.git
+git clone https://github.com/hdneo/mxo-hd/tree/main/tool-name.git
 cd tool-name
 
 # Install dependencies
@@ -329,7 +329,7 @@ export PATH=\"$PATH:/path/to/tool/bin\"
 ### Development Installation
 ```bash
 # For contributors
-git clone https://github.com/mxo-community/tool-name.git
+git clone https://github.com/hdneo/mxo-hd/tree/main/tool-name.git
 cd tool-name
 
 # Create virtual environment
@@ -594,7 +594,7 @@ time mxo-tool extract large_model.prop
 ### Development Setup
 ```bash
 # Clone and setup development environment
-git clone https://github.com/mxo-community/tool-name.git
+git clone https://github.com/hdneo/mxo-hd/tree/main/tool-name.git
 cd tool-name
 
 # Install development dependencies

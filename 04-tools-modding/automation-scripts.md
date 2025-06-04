@@ -1167,4 +1167,4 @@ You now have a complete automation toolkit for Matrix Online development:
 
 [← Back to Development Tools](development-tools.md) | [Tool Development Guide →](tool-development-guide.md) | [AI-Assisted Development →](ai-assisted-development-mxo.md)
 
-📚 [View Sources](../sources/04-tools-modding/automation-scripts-sources.md)
+📚 [View Sources](sources/index.md)

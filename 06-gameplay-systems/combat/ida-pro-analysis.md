@@ -270,6 +270,6 @@ Now you know how. The code is liberated. Use it wisely.
 
 ---
 
-📚 [View Sources](../../sources/06-gameplay-systems/combat/ida-pro-analysis-sources.md)
+📚 [View Sources](../sources/index.md)
 
 [← Back to Combat](index.md) | [Server Architecture →](../../03-technical/server-architecture.md)

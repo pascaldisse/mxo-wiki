@@ -299,4 +299,4 @@ The file formats are the keys to the kingdom. Help us decode them all.
 
 ---
 
-[← Back to Technical](index.md) | [PKB Archives →](pkb-archives.md) | [Sources →](../sources/03-technical/file-formats-sources.md)
+[← Back to Technical](index.md) | [PKB Archives →](pkb-archives.md) | [Sources →](sources/index.md)

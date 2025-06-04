@@ -109,7 +109,7 @@ eden-reborn/
 - **Task**: Create source files for 50+ wiki pages
 - **Skills**: Research, fact-checking, citation
 - **Impact**: Wiki credibility and accuracy
-- **Getting Started**: [Source Documentation System](../sources/README.md)
+- **Getting Started**: [Source Documentation System](sources/index.md)
 
 #### 🟠 **HIGH: Tool Tutorials**
 - **Task**: Step-by-step guides for all tools
@@ -144,7 +144,7 @@ eden-reborn/
 ### **Getting Started with Documentation**
 
 #### 1. **Pick a Page**
-- Choose from [pages needing sources](../sources/index.md)
+- Choose from [pages needing sources](sources/index.md)
 - Or improve existing documentation with missing details
 
 #### 2. **Research Phase**

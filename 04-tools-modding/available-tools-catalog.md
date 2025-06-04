@@ -268,7 +268,7 @@ docker run -it -v $(pwd):/workspace edenreborn/mxo-build
 **Language**: Python/Blender  
 **License**: GPL v3  
 
-**Repository**: [https://github.com/mxo-community/asset-pipeline](https://github.com/mxo-community/asset-pipeline)
+**Repository**: [https://github.com/hdneo/mxo-hd/tree/main/asset-pipeline](https://github.com/hdneo/mxo-hd/tree/main/asset-pipeline)
 
 **Current Features**:
 - Blender import/export plugins
@@ -291,7 +291,7 @@ docker run -it -v $(pwd):/workspace edenreborn/mxo-build
 **Language**: Python  
 **License**: Public Domain  
 
-**Repository**: [File Organizer Gist](https://github.com/mxo-community/tools) *(Community tools collection)*
+**Repository**: [File Organizer Gist](https://github.com/hdneo/mxo-hd/tree/main/tools) *(Community tools collection)*
 
 **What It Does**:
 - Organizes extracted game files
@@ -363,7 +363,7 @@ docker run -it -v $(pwd):/workspace edenreborn/mxo-build
 **Language**: JavaScript  
 **License**: MIT  
 
-**Repository**: [https://github.com/mxo-community/discord-bot](https://github.com/mxo-community/discord-bot)
+**Repository**: [https://github.com/hdneo/mxo-hd/tree/main/discord-bot](https://github.com/hdneo/mxo-hd/tree/main/discord-bot)
 
 **Commands**:
 - Server status checking
@@ -428,7 +428,7 @@ cd ~/mxo-tools
 
 # Clone essential tools
 git clone https://github.com/hdneo/cortana-python
-git clone https://github.com/mxo-community/binary-patcher
+git clone https://github.com/hdneo/mxo-hd/tree/main/binary-patcher
 git clone https://github.com/mxo-preservation/txa-tools
 git clone https://github.com/hdneo/mxo-server-tools
 

@@ -943,4 +943,4 @@ By following these guidelines and utilizing the tools and frameworks presented i
 
 ---
 
-[← Back to Game Content](index.md) | [Mission Examples ←](mission-examples.md) | [Sources →](../sources/05-game-content/mission-creator-sources.md)
+[← Back to Game Content](index.md) | [Mission Examples ←](mission-examples.md) | [Sources →](sources/index.md)

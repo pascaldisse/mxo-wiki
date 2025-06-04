@@ -410,4 +410,4 @@ Whether you're a developer, tester, documenter, or just passionate about The Mat
 
 ---
 
-[← Back to Server Setup](index.md) | [Development Docs →](../07-development/) | [Sources →](../sources/02-server-setup/eden-reborn-setup-sources.md)
+[← Back to Server Setup](index.md) | [Development Docs →](../07-development/) | [Sources →](sources/index.md)

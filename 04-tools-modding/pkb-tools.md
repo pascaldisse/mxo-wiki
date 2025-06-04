@@ -669,4 +669,4 @@ Without PKB tools, we're digital archaeologists without shovels, trying to prese
 
 ---
 
-[← Back to Tools & Modding](index.md) | [CNB Viewer Development →](cnb-viewer-development.md) | [Sources →](../sources/04-tools-modding/pkb-tools-sources.md)
+[← Back to Tools & Modding](index.md) | [CNB Viewer Development →](cnb-viewer-development.md) | [Sources →](sources/index.md)

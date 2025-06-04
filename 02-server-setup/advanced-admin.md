@@ -425,4 +425,4 @@ You've completed the advanced administration guide! You now have the knowledge t
 
 [← Back to Database Setup](database-setup.md) | [Server Troubleshooting →](server-troubleshooting.md) | [Join the Resistance →](../08-community/join-the-resistance.md)
 
-📚 [View Sources](../sources/02-server-setup/advanced-admin-sources.md)
+📚 [View Sources](sources/index.md)

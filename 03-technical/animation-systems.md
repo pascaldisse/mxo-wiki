@@ -661,4 +661,4 @@ Understanding Matrix Online's animation system enables:
 
 [← Back to PKB Archives](pkb-archives.md) | [Combat System →](combat-system-analysis.md) | [File Formats →](file-formats-complete.md)
 
-📚 [View Sources](../sources/03-technical/animation-systems-sources.md)
+📚 [View Sources](sources/index.md)

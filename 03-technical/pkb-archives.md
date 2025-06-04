@@ -397,4 +397,4 @@ Understanding PKB archives is essential for:
 
 [← Back to File Formats](file-formats-complete.md) | [Animation Systems →](animation-systems.md) | [Tool Development →](../04-tools-modding/tool-development-guide.md)
 
-📚 [View Sources](../sources/03-technical/pkb-archives-sources.md)
+📚 [View Sources](sources/index.md)

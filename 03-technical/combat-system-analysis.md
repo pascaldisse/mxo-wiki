@@ -296,4 +296,4 @@ Understanding The Matrix Online's combat system is crucial for:
 
 [← Back to Technical](index.md) | [IDA Pro Scripts →](ida-pro-analysis-scripts.md) | [Network Protocol →](network-protocol-complete.md)
 
-📚 [View Sources](../sources/03-technical/combat-system-analysis-sources.md)
+📚 [View Sources](sources/index.md)

@@ -132,7 +132,7 @@ With the introduction of the Paradise War factions, character creation becomes e
 
 ---
 
-📚 [View Sources](../sources/01-getting-started/character-creation-sources.md)
+📚 [View Sources](sources/index.md)
 
 [← Getting Started](index.md) | [Home](../index.md) | [Interface Guide →](interface-guide.md)
 

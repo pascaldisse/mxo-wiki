@@ -160,8 +160,8 @@ echo "Cloning HD Enhanced repositories..."
 # Note: Replace with actual available repositories
 # These are examples of what might be available
 git clone https://github.com/hdneo/hardline-dreams-server.git hd-server
-git clone https://github.com/mxo-community/hd-tools.git tools
-git clone https://github.com/mxo-community/database-schema.git database
+git clone https://github.com/hdneo/mxo-hd/tree/main/hd-tools.git tools
+git clone https://github.com/hdneo/mxo-hd/tree/main/database-schema.git database
 
 # Alternative: Download released packages
 echo "Checking for pre-built packages..."

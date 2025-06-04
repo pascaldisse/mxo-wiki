@@ -662,4 +662,4 @@ You've mastered the Matrix Online development toolkit! You now have:
 
 [← Back to AI-Assisted Development](ai-assisted-development-mxo.md) | [Automation Scripts →](automation-scripts.md) | [Tool Development Guide →](tool-development-guide.md)
 
-📚 [View Sources](../sources/04-tools-modding/development-tools-sources.md)
+📚 [View Sources](sources/index.md)

@@ -494,4 +494,4 @@ By studying and adapting these patterns, modern Matrix Online emulators can reca
 
 ---
 
-[← Back to Game Content](index.md) | [Mission Creator Guide →](mission-creator.md) | [Sources →](../sources/05-game-content/mission-examples-sources.md)
+[← Back to Game Content](index.md) | [Mission Creator Guide →](mission-creator.md) | [Sources →](sources/index.md)

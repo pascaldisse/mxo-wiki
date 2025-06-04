@@ -159,4 +159,4 @@ We believe in **open communication** and **community collaboration**. Every ques
 
 [← Back to Community](index.md) | [Join the Resistance →](join-the-resistance.md) | [Start Contributing →](contribute.md)
 
-📚 [View Sources](../sources/08-community/contact-sources.md)
+📚 [View Sources](sources/index.md)

@@ -102,7 +102,7 @@ Essential bookmarks for regular contributors:
 4. **[File Formats](../03-technical/file-formats.md)** - Technical specs
 
 ### Researchers
-1. **[Source Index](../sources/index.md)** - Documentation needs
+1. **[Source Index](sources/index.md)** - Documentation needs
 2. **[Preservation Hub](../07-preservation/index.md)** - Methodology
 3. **[Technical Analysis](../03-technical/index.md)** - Deep dives
 4. **[Community Archives](../07-preservation/tool-archaeology.md)** - Historical research
@@ -265,4 +265,4 @@ You've completed the Eden Reborn navigation guide! You now understand:
 
 [← Back to Community](index.md) | [Search Implementation →](search-implementation.md) | [Contact Support →](contact.md)
 
-📚 [View Sources](../sources/08-community/navigation-guide-sources.md)
+📚 [View Sources](sources/index.md)

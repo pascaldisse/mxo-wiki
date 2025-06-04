@@ -43,7 +43,7 @@ The PKB investigation has been a community effort:
 
 Join the PKB research effort:
 - [Community Discord](https://discord.gg/3QXTAGB9)
-- [GitHub Issues](https://github.com/mxo-community/pkb-research)
+- [GitHub Issues](https://github.com/hdneo/mxo-hd/tree/main/pkb-research)
 - [Tool Development](../04-tools-modding/tool-development-guide.md)
 
 ---
