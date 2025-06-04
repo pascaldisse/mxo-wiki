@@ -8,8 +8,8 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 ## 📊 Wiki Statistics
 
 ### Content Metrics
-- **Total Pages**: 34 comprehensive documents
-- **Total Words**: 30,504 words of liberation
+- **Total Pages**: 63 comprehensive documents *updated*
+- **Total Words**: 45,000+ words of liberation *estimated*
 - **Technical Guides**: 15 detailed specifications
 - **Server Guides**: 8 complete setup documents
 - **Code Snippets**: 50+ examples
@@ -285,7 +285,7 @@ Connect with other redpills:
 
 This index is more than navigation - it's a map of our liberation. Every page represents defiance against corporate death. Every guide enables freedom.
 
-**34 pages. 30,504 words. One vision: Liberation.**
+**63 pages. 45,000+ words. One vision: Liberation.**
 
 ## Remember
 

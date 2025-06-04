@@ -2,7 +2,7 @@
 **The Comprehensive Resource for MXO Liberation**
 
 > ### 🎉 **BREAKING: MATRIX ONLINE FULLY OPERATIONAL!**
-> **[Read the Eden Reborn Success Story →](eden-reborn-success)**  
+> **[Read the Eden Reborn Project →](02-server-setup/eden-reborn-success)**  
 > *June 3, 2025: Complete MXO HD Enhanced server with working combat, missions, and 2.8+ million game objects!*
 
 Welcome to Eden Reborn - where The Matrix Online lives again, free from corporate control.
@@ -17,24 +17,24 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 
 ### 🎮 For Players
 **Get into the Matrix in 30 minutes**
-- [Download Client](getting-started#prerequisites)
-- [Patch for Private Servers](client-patches)
-- [Connect to Eden Reborn](server-connection)
-- [Create Your Character](character-creation)
+- [Download Client](01-getting-started/index#prerequisites)
+- [Patch for Private Servers](02-server-setup/client-patches)
+- [Getting Started Guide](01-getting-started/index)
+- [Server Setup](02-server-setup/index)
 
-[**Start Playing →**](player-quickstart)
+[**Start Here →**](01-getting-started/index)
 
 </td>
 <td width="50%">
 
 ### 🖥️ For Server Operators
 **Run your own Matrix**
-- [Choose Your Server](server-setup#choose-your-server)
-- [Installation Guide](server-setup#setup-process)
-- [Configure Database](database-setup)
-- [Launch Your World](server-quickstart)
+- [Server Setup Guide](02-server-setup/index)
+- [MXOEmu Setup](02-server-setup/mxoemu-setup)
+- [Hardline Dreams Setup](02-server-setup/hardline-dreams-setup)
+- [Database Setup](02-server-setup/database-setup)
 
-[**Run a Server →**](server-quickstart)
+[**Run a Server →**](02-server-setup/index)
 
 </td>
 </tr>
@@ -45,15 +45,15 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 ## 📚 Essential Documentation
 
 ### 🔴 Critical Priorities
-1. **[CNB Viewer Development](cnb-format)** - Unlock the story cinematics (#1 PRIORITY)
-2. **[PKB Archive Tools](pkb-archives)** - Recreate reztools for asset extraction
-3. **[Combat Implementation](combat-system)** - Complete the D100 system
+1. **[CNB Viewer Development](04-tools-modding/cnb-viewer-development)** - Unlock the story cinematics (#1 PRIORITY)
+2. **[PKB Archive Tools](03-technical-docs/file-formats/pkb-archives)** - Recreate reztools for asset extraction
+3. **[Combat Implementation](06-gameplay-systems/combat/ida-pro-analysis)** - Complete the D100 system
 
 ### 📖 Popular Pages
-- [Timeline of Liberation](timeline-of-liberation) - How we got here
-- [The Matrix Online Saga](the-matrix-online-saga) - Complete story
-- [Lost Tools Archive](lost-tools-archive) - What we need to rebuild
-- [Join the Resistance](join-the-resistance) - How to contribute
+- [Timeline of Liberation](01-getting-started/timeline-of-liberation) - How we got here
+- [The Matrix Online Saga](05-game-content/story/the-matrix-online-saga) - Complete story
+- [Lost Tools Archive](04-tools-modding/lost-tools-archive) - What we need to rebuild
+- [Join the Resistance](08-community/join-the-resistance) - How to contribute
 
 ---
 
