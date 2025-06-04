@@ -1,0 +1,2309 @@
+{
+  "total_files": 65,
+  "total_links": 450,
+  "broken_links": 95,
+  "files_with_broken_links": {
+    "Home.md": [
+      {
+        "text": "Download Client",
+        "url": "01-getting-started/index#prerequisites",
+        "type": "relative_internal",
+        "reason": "Missing: 01-getting-started/index#prerequisites (tried: 01-getting-started/index#prerequisites, 01-getting-started/index#prerequisites.md, 01-getting-started/index#prerequisites/index.md, 01-getting-started/index#prerequisites)"
+      }
+    ],
+    "README.md": [
+      {
+        "text": "Contributing Guide",
+        "url": "08-community/contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      }
+    ],
+    "index.md": [
+      {
+        "text": "Getting Started",
+        "url": "01-overview/getting-started.md",
+        "type": "relative_internal",
+        "reason": "Missing: 01-overview/getting-started.md (tried: 01-overview/getting-started.md, 01-overview/getting-started.md.md, 01-overview/getting-started.md/index.md, 01-overview/getting-started)"
+      },
+      {
+        "text": "Timeline of Liberation",
+        "url": "01-overview/timeline-of-liberation.md",
+        "type": "relative_internal",
+        "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)"
+      },
+      {
+        "text": "IDA Pro Combat Analysis",
+        "url": "03-technical/ida-pro-combat-analysis.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)"
+      },
+      {
+        "text": "CNB Format Investigation",
+        "url": "03-technical/cnb-format.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/cnb-format.md (tried: 03-technical/cnb-format.md, 03-technical/cnb-format.md.md, 03-technical/cnb-format.md/index.md, 03-technical/cnb-format)"
+      },
+      {
+        "text": "PKB Archives Documentation",
+        "url": "03-technical/pkb-archives.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+      },
+      {
+        "text": "Available Tools",
+        "url": "04-tools-modding/available-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/available-tools.md (tried: 04-tools-modding/available-tools.md, 04-tools-modding/available-tools.md.md, 04-tools-modding/available-tools.md/index.md, 04-tools-modding/available-tools)"
+      },
+      {
+        "text": "The Matrix Online Saga",
+        "url": "05-game-content/the-matrix-online-saga.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/the-matrix-online-saga.md (tried: 05-game-content/the-matrix-online-saga.md, 05-game-content/the-matrix-online-saga.md.md, 05-game-content/the-matrix-online-saga.md/index.md, 05-game-content/the-matrix-online-saga)"
+      },
+      {
+        "text": "Combat Analysis",
+        "url": "03-technical/ida-pro-combat-analysis.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)"
+      },
+      {
+        "text": "File Formats",
+        "url": "03-technical/file-formats.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)"
+      },
+      {
+        "text": "Timeline",
+        "url": "01-overview/timeline-of-liberation.md",
+        "type": "relative_internal",
+        "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)"
+      }
+    ],
+    "_Sidebar.md": [
+      {
+        "text": "Eden Reborn Status",
+        "url": "../EDEN_REBORN_STATUS",
+        "type": "relative_internal",
+        "reason": "Missing: ../EDEN_REBORN_STATUS (tried: ../EDEN_REBORN_STATUS, ../EDEN_REBORN_STATUS.md, ../EDEN_REBORN_STATUS/index.md, ../EDEN_REBORN_STATUS)"
+      }
+    ],
+    "_Footer.md": [
+      {
+        "text": "Manifesto",
+        "url": "neoologist-manifesto",
+        "type": "relative_internal",
+        "reason": "Missing: neoologist-manifesto (tried: neoologist-manifesto, neoologist-manifesto.md, neoologist-manifesto/index.md, neoologist-manifesto)"
+      },
+      {
+        "text": "Quick Start",
+        "url": "getting-started",
+        "type": "relative_internal",
+        "reason": "Missing: getting-started (tried: getting-started, getting-started.md, getting-started/index.md, getting-started)"
+      },
+      {
+        "text": "Contribute",
+        "url": "contributing",
+        "type": "relative_internal",
+        "reason": "Missing: contributing (tried: contributing, contributing.md, contributing/index.md, contributing)"
+      },
+      {
+        "text": "Discord",
+        "url": "discord",
+        "type": "relative_internal",
+        "reason": "Missing: discord (tried: discord, discord.md, discord/index.md, discord)"
+      }
+    ],
+    "08-community/search-implementation.md": [
+      {
+        "text": "Wiki Navigation \u2192",
+        "url": "navigation-guide.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/navigation-guide.md (tried: 08-community/navigation-guide.md, 08-community/navigation-guide.md.md, 08-community/navigation-guide.md/index.md, 08-community/navigation-guide)"
+      },
+      {
+        "text": "Search API \u2192",
+        "url": "search-api.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/search-api.md (tried: 08-community/search-api.md, 08-community/search-api.md.md, 08-community/search-api.md/index.md, 08-community/search-api)"
+      }
+    ],
+    "08-community/github-workflow-standards.md": [
+      {
+        "text": "Windows Binary",
+        "url": "link",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+      },
+      {
+        "text": "Linux Binary",
+        "url": "link",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+      },
+      {
+        "text": "macOS Binary",
+        "url": "link",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+      }
+    ],
+    "08-community/contribution-framework.md": [
+      {
+        "text": "Related Doc 1",
+        "url": "link",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+      },
+      {
+        "text": "Related Doc 2",
+        "url": "link",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+      },
+      {
+        "text": "Start Contributing \u2192",
+        "url": "../README.md#contributing",
+        "type": "relative_internal",
+        "reason": "Missing: README.md#contributing (tried: README.md#contributing, README.md#contributing.md, README.md#contributing/index.md, README#contributing)"
+      }
+    ],
+    "08-community/join-the-resistance.md": [
+      {
+        "text": "Start Contributing \u2192",
+        "url": "contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      },
+      {
+        "text": "Contact Leaders \u2192",
+        "url": "contact.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)"
+      }
+    ],
+    "03-technical/file-formats-complete.md": [
+      {
+        "text": "PKB Archives \u2192",
+        "url": "pkb-archives.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+      }
+    ],
+    "03-technical/server-architecture.md": [
+      {
+        "text": "Combat System \u2192",
+        "url": "combat-implementation.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/combat-implementation.md (tried: 03-technical/combat-implementation.md, 03-technical/combat-implementation.md.md, 03-technical/combat-implementation.md/index.md, 03-technical/combat-implementation)"
+      },
+      {
+        "text": "Network Protocol \u2192",
+        "url": "network-protocol.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/network-protocol.md (tried: 03-technical/network-protocol.md, 03-technical/network-protocol.md.md, 03-technical/network-protocol.md/index.md, 03-technical/network-protocol)"
+      }
+    ],
+    "03-technical/prop-format-specification.md": [
+      {
+        "text": "PROP Tools \u2192",
+        "url": "../04-tools-modding/prop-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/prop-tools.md (tried: 04-tools-modding/prop-tools.md, 04-tools-modding/prop-tools.md.md, 04-tools-modding/prop-tools.md/index.md, 04-tools-modding/prop-tools)"
+      }
+    ],
+    "03-technical/moa-format-specification.md": [
+      {
+        "text": "MOA Tools \u2192",
+        "url": "../04-tools-modding/moa-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/moa-tools.md (tried: 04-tools-modding/moa-tools.md, 04-tools-modding/moa-tools.md.md, 04-tools-modding/moa-tools.md/index.md, 04-tools-modding/moa-tools)"
+      }
+    ],
+    "03-technical/model-formats.md": [
+      {
+        "text": "Animation Systems \u2192",
+        "url": "animation-systems.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/animation-systems.md (tried: 03-technical/animation-systems.md, 03-technical/animation-systems.md.md, 03-technical/animation-systems.md/index.md, 03-technical/animation-systems)"
+      },
+      {
+        "text": "PKB Archives \u2192",
+        "url": "pkb-archives.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+      }
+    ],
+    "03-technical/combat-implementation-guide.md": [
+      {
+        "text": "IDA Pro Analysis \u2192",
+        "url": "ida-pro-analysis.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/ida-pro-analysis.md (tried: 03-technical/ida-pro-analysis.md, 03-technical/ida-pro-analysis.md.md, 03-technical/ida-pro-analysis.md/index.md, 03-technical/ida-pro-analysis)"
+      },
+      {
+        "text": "Testing Guide \u2192",
+        "url": "combat-testing.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/combat-testing.md (tried: 03-technical/combat-testing.md, 03-technical/combat-testing.md.md, 03-technical/combat-testing.md/index.md, 03-technical/combat-testing)"
+      }
+    ],
+    "04-tools-modding/ai-assisted-development.md": [
+      {
+        "text": "Prompt Library \u2192",
+        "url": "ai-prompts.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/ai-prompts.md (tried: 04-tools-modding/ai-prompts.md, 04-tools-modding/ai-prompts.md.md, 04-tools-modding/ai-prompts.md/index.md, 04-tools-modding/ai-prompts)"
+      },
+      {
+        "text": "Ethics Guidelines \u2192",
+        "url": "ai-ethics.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/ai-ethics.md (tried: 04-tools-modding/ai-ethics.md, 04-tools-modding/ai-ethics.md.md, 04-tools-modding/ai-ethics.md/index.md, 04-tools-modding/ai-ethics)"
+      }
+    ],
+    "04-tools-modding/tool-development-guide.md": [
+      {
+        "text": "Join Development \u2192",
+        "url": "../08-community/contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      },
+      {
+        "text": "Technical Specs \u2192",
+        "url": "../03-technical/file-formats.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)"
+      }
+    ],
+    "07-preservation/tool-archaeology.md": [
+      {
+        "text": "Join the Search \u2192",
+        "url": "../08-community/contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      }
+    ],
+    "01-overview/timeline-complete.md": [
+      {
+        "text": "Join the Future \u2192",
+        "url": "../08-community/contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      }
+    ],
+    "02-server-setup/database-setup.md": [
+      {
+        "text": "Next: Advanced Administration \u2192",
+        "url": "advanced-admin.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/advanced-admin.md (tried: 02-server-setup/advanced-admin.md, 02-server-setup/advanced-admin.md.md, 02-server-setup/advanced-admin.md/index.md, 02-server-setup/advanced-admin)"
+      }
+    ],
+    "02-server-setup/mxoemu-setup.md": [
+      {
+        "text": "Configure GM Commands",
+        "url": "gm-commands.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)"
+      },
+      {
+        "text": "Add Custom Content",
+        "url": "custom-content.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)"
+      },
+      {
+        "text": "Connect Test Client",
+        "url": "../01-getting-started/server-connection.md",
+        "type": "relative_internal",
+        "reason": "Missing: 01-getting-started/server-connection.md (tried: 01-getting-started/server-connection.md, 01-getting-started/server-connection.md.md, 01-getting-started/server-connection.md/index.md, 01-getting-started/server-connection)"
+      },
+      {
+        "text": "Troubleshooting Guide",
+        "url": "troubleshooting.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)"
+      }
+    ],
+    "02-server-setup/index.md": [
+      {
+        "text": "Network Requirements",
+        "url": "network-setup.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/network-setup.md (tried: 02-server-setup/network-setup.md, 02-server-setup/network-setup.md.md, 02-server-setup/network-setup.md/index.md, 02-server-setup/network-setup)"
+      },
+      {
+        "text": "Launcher Configuration",
+        "url": "launcher-setup.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/launcher-setup.md (tried: 02-server-setup/launcher-setup.md, 02-server-setup/launcher-setup.md.md, 02-server-setup/launcher-setup.md/index.md, 02-server-setup/launcher-setup)"
+      },
+      {
+        "text": "Connection Troubleshooting",
+        "url": "connection-issues.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/connection-issues.md (tried: 02-server-setup/connection-issues.md, 02-server-setup/connection-issues.md.md, 02-server-setup/connection-issues.md/index.md, 02-server-setup/connection-issues)"
+      },
+      {
+        "text": "GM Commands Reference",
+        "url": "gm-commands.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)"
+      },
+      {
+        "text": "Server Monitoring",
+        "url": "monitoring.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/monitoring.md (tried: 02-server-setup/monitoring.md, 02-server-setup/monitoring.md.md, 02-server-setup/monitoring.md/index.md, 02-server-setup/monitoring)"
+      },
+      {
+        "text": "Backup Strategies",
+        "url": "backup-guide.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/backup-guide.md (tried: 02-server-setup/backup-guide.md, 02-server-setup/backup-guide.md.md, 02-server-setup/backup-guide.md/index.md, 02-server-setup/backup-guide)"
+      },
+      {
+        "text": "Performance Tuning",
+        "url": "performance.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/performance.md (tried: 02-server-setup/performance.md, 02-server-setup/performance.md.md, 02-server-setup/performance.md/index.md, 02-server-setup/performance)"
+      },
+      {
+        "text": "Custom Content",
+        "url": "custom-content.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)"
+      },
+      {
+        "text": "Scripting System",
+        "url": "scripting.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/scripting.md (tried: 02-server-setup/scripting.md, 02-server-setup/scripting.md.md, 02-server-setup/scripting.md/index.md, 02-server-setup/scripting)"
+      },
+      {
+        "text": "Database Queries",
+        "url": "database-queries.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/database-queries.md (tried: 02-server-setup/database-queries.md, 02-server-setup/database-queries.md.md, 02-server-setup/database-queries.md/index.md, 02-server-setup/database-queries)"
+      },
+      {
+        "text": "Development Setup",
+        "url": "development.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/development.md (tried: 02-server-setup/development.md, 02-server-setup/development.md.md, 02-server-setup/development.md/index.md, 02-server-setup/development)"
+      },
+      {
+        "text": "Network Protocol Docs",
+        "url": "../03-technical-docs/network-protocol.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical-docs/network-protocol.md (tried: 03-technical-docs/network-protocol.md, 03-technical-docs/network-protocol.md.md, 03-technical-docs/network-protocol.md/index.md, 03-technical-docs/network-protocol)"
+      },
+      {
+        "text": "Database Schema",
+        "url": "../03-technical-docs/database-schema.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical-docs/database-schema.md (tried: 03-technical-docs/database-schema.md, 03-technical-docs/database-schema.md.md, 03-technical-docs/database-schema.md/index.md, 03-technical-docs/database-schema)"
+      },
+      {
+        "text": "Server Admin Tools",
+        "url": "../04-tools-modding/admin-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/admin-tools.md (tried: 04-tools-modding/admin-tools.md, 04-tools-modding/admin-tools.md.md, 04-tools-modding/admin-tools.md/index.md, 04-tools-modding/admin-tools)"
+      },
+      {
+        "text": "Development Tools",
+        "url": "../04-tools-modding/dev-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/dev-tools.md (tried: 04-tools-modding/dev-tools.md, 04-tools-modding/dev-tools.md.md, 04-tools-modding/dev-tools.md/index.md, 04-tools-modding/dev-tools)"
+      },
+      {
+        "text": "Monitoring Solutions",
+        "url": "../04-tools-modding/monitoring.md",
+        "type": "relative_internal",
+        "reason": "Missing: 04-tools-modding/monitoring.md (tried: 04-tools-modding/monitoring.md, 04-tools-modding/monitoring.md.md, 04-tools-modding/monitoring.md/index.md, 04-tools-modding/monitoring)"
+      },
+      {
+        "text": "FAQ",
+        "url": "faq.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/faq.md (tried: 02-server-setup/faq.md, 02-server-setup/faq.md.md, 02-server-setup/faq.md/index.md, 02-server-setup/faq)"
+      },
+      {
+        "text": "Known Issues",
+        "url": "known-issues.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/known-issues.md (tried: 02-server-setup/known-issues.md, 02-server-setup/known-issues.md.md, 02-server-setup/known-issues.md/index.md, 02-server-setup/known-issues)"
+      },
+      {
+        "text": "Troubleshooting Guide",
+        "url": "troubleshooting.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)"
+      }
+    ],
+    "02-server-setup/eden-reborn-success.md": [
+      {
+        "text": "EDEN_REBORN_STATUS.md",
+        "url": "/EDEN_REBORN_STATUS.md",
+        "type": "absolute_internal",
+        "reason": "Missing: EDEN_REBORN_STATUS.md (tried: EDEN_REBORN_STATUS.md, EDEN_REBORN_STATUS.md.md, EDEN_REBORN_STATUS.md/index.md, EDEN_REBORN_STATUS)"
+      },
+      {
+        "text": "Quick Start Guide \u2192",
+        "url": "eden-quickstart.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/eden-quickstart.md (tried: 02-server-setup/eden-quickstart.md, 02-server-setup/eden-quickstart.md.md, 02-server-setup/eden-quickstart.md/index.md, 02-server-setup/eden-quickstart)"
+      },
+      {
+        "text": "Technical Details \u2192",
+        "url": "eden-technical.md",
+        "type": "relative_internal",
+        "reason": "Missing: 02-server-setup/eden-technical.md (tried: 02-server-setup/eden-technical.md, 02-server-setup/eden-technical.md.md, 02-server-setup/eden-technical.md/index.md, 02-server-setup/eden-technical)"
+      }
+    ],
+    "05-game-content/mission-system-guide.md": [
+      {
+        "text": "Mission Examples \u2192",
+        "url": "mission-examples.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/mission-examples.md (tried: 05-game-content/mission-examples.md, 05-game-content/mission-examples.md.md, 05-game-content/mission-examples.md/index.md, 05-game-content/mission-examples)"
+      },
+      {
+        "text": "Create Mission \u2192",
+        "url": "mission-creator.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/mission-creator.md (tried: 05-game-content/mission-creator.md, 05-game-content/mission-creator.md.md, 05-game-content/mission-creator.md/index.md, 05-game-content/mission-creator)"
+      }
+    ],
+    "05-game-content/districts-of-mega-city.md": [
+      {
+        "text": "Hardline Locations \u2192",
+        "url": "hardline-guide.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/hardline-guide.md (tried: 05-game-content/hardline-guide.md, 05-game-content/hardline-guide.md.md, 05-game-content/hardline-guide.md/index.md, 05-game-content/hardline-guide)"
+      },
+      {
+        "text": "Awakening Routes \u2192",
+        "url": "awakening-paths.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/awakening-paths.md (tried: 05-game-content/awakening-paths.md, 05-game-content/awakening-paths.md.md, 05-game-content/awakening-paths.md/index.md, 05-game-content/awakening-paths)"
+      }
+    ],
+    "05-game-content/landmarks-and-coordinates.md": [
+      {
+        "text": "Navigation Tools \u2192",
+        "url": "navigation-tools.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/navigation-tools.md (tried: 05-game-content/navigation-tools.md, 05-game-content/navigation-tools.md.md, 05-game-content/navigation-tools.md/index.md, 05-game-content/navigation-tools)"
+      }
+    ],
+    "05-game-content/story-preservation-guide.md": [
+      {
+        "text": "Submit Content \u2192",
+        "url": "submit-story.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/submit-story.md (tried: 05-game-content/submit-story.md, 05-game-content/submit-story.md.md, 05-game-content/submit-story.md/index.md, 05-game-content/submit-story)"
+      }
+    ],
+    "sources/index.md": [
+      {
+        "text": "Neoologist Manifesto",
+        "url": "00-manifesto/neoologist-manifesto-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/00-manifesto/neoologist-manifesto-sources.md (tried: sources/00-manifesto/neoologist-manifesto-sources.md, sources/00-manifesto/neoologist-manifesto-sources.md.md, sources/00-manifesto/neoologist-manifesto-sources.md/index.md, sources/00-manifesto/neoologist-manifesto-sources)"
+      },
+      {
+        "text": "Overview",
+        "url": "01-getting-started/index-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/01-getting-started/index-sources.md (tried: sources/01-getting-started/index-sources.md, sources/01-getting-started/index-sources.md.md, sources/01-getting-started/index-sources.md/index.md, sources/01-getting-started/index-sources)"
+      },
+      {
+        "text": "Timeline of Liberation",
+        "url": "01-getting-started/timeline-of-liberation-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/01-getting-started/timeline-of-liberation-sources.md (tried: sources/01-getting-started/timeline-of-liberation-sources.md, sources/01-getting-started/timeline-of-liberation-sources.md.md, sources/01-getting-started/timeline-of-liberation-sources.md/index.md, sources/01-getting-started/timeline-of-liberation-sources)"
+      },
+      {
+        "text": "Overview",
+        "url": "02-server-setup/index-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/index-sources.md (tried: sources/02-server-setup/index-sources.md, sources/02-server-setup/index-sources.md.md, sources/02-server-setup/index-sources.md/index.md, sources/02-server-setup/index-sources)"
+      },
+      {
+        "text": "MXOEmu Setup",
+        "url": "02-server-setup/mxoemu-setup-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/mxoemu-setup-sources.md (tried: sources/02-server-setup/mxoemu-setup-sources.md, sources/02-server-setup/mxoemu-setup-sources.md.md, sources/02-server-setup/mxoemu-setup-sources.md/index.md, sources/02-server-setup/mxoemu-setup-sources)"
+      },
+      {
+        "text": "Hardline Dreams Setup",
+        "url": "02-server-setup/hardline-dreams-setup-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/hardline-dreams-setup-sources.md (tried: sources/02-server-setup/hardline-dreams-setup-sources.md, sources/02-server-setup/hardline-dreams-setup-sources.md.md, sources/02-server-setup/hardline-dreams-setup-sources.md/index.md, sources/02-server-setup/hardline-dreams-setup-sources)"
+      },
+      {
+        "text": "Client Patches",
+        "url": "02-server-setup/client-patches-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/client-patches-sources.md (tried: sources/02-server-setup/client-patches-sources.md, sources/02-server-setup/client-patches-sources.md.md, sources/02-server-setup/client-patches-sources.md/index.md, sources/02-server-setup/client-patches-sources)"
+      },
+      {
+        "text": "Database Setup",
+        "url": "02-server-setup/database-setup-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/database-setup-sources.md (tried: sources/02-server-setup/database-setup-sources.md, sources/02-server-setup/database-setup-sources.md.md, sources/02-server-setup/database-setup-sources.md/index.md, sources/02-server-setup/database-setup-sources)"
+      },
+      {
+        "text": "Server Projects Comparison",
+        "url": "02-server-setup/server-projects-comparison-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/server-projects-comparison-sources.md (tried: sources/02-server-setup/server-projects-comparison-sources.md, sources/02-server-setup/server-projects-comparison-sources.md.md, sources/02-server-setup/server-projects-comparison-sources.md/index.md, sources/02-server-setup/server-projects-comparison-sources)"
+      },
+      {
+        "text": "Reality Server Guide",
+        "url": "02-server-setup/reality-server-guide-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/02-server-setup/reality-server-guide-sources.md (tried: sources/02-server-setup/reality-server-guide-sources.md, sources/02-server-setup/reality-server-guide-sources.md.md, sources/02-server-setup/reality-server-guide-sources.md/index.md, sources/02-server-setup/reality-server-guide-sources)"
+      },
+      {
+        "text": "Lost Tools Archive",
+        "url": "04-tools-modding/lost-tools-archive-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/04-tools-modding/lost-tools-archive-sources.md (tried: sources/04-tools-modding/lost-tools-archive-sources.md, sources/04-tools-modding/lost-tools-archive-sources.md.md, sources/04-tools-modding/lost-tools-archive-sources.md/index.md, sources/04-tools-modding/lost-tools-archive-sources)"
+      },
+      {
+        "text": "Tool Development Guide",
+        "url": "04-tools-modding/tool-development-guide-sources.md",
+        "type": "relative_internal",
+        "reason": "Missing: sources/04-tools-modding/tool-development-guide-sources.md (tried: sources/04-tools-modding/tool-development-guide-sources.md, sources/04-tools-modding/tool-development-guide-sources.md.md, sources/04-tools-modding/tool-development-guide-sources.md/index.md, sources/04-tools-modding/tool-development-guide-sources)"
+      }
+    ],
+    "03-technical-docs/file-formats/cnb-format.md": [
+      {
+        "text": "Join CNB Research \u2192",
+        "url": "cnb-research-team.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical-docs/file-formats/cnb-research-team.md (tried: 03-technical-docs/file-formats/cnb-research-team.md, 03-technical-docs/file-formats/cnb-research-team.md.md, 03-technical-docs/file-formats/cnb-research-team.md/index.md, 03-technical-docs/file-formats/cnb-research-team)"
+      },
+      {
+        "text": "Contact Developers \u2192",
+        "url": "../../08-community/contact.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)"
+      }
+    ],
+    "03-technical-docs/file-formats/pkb-archives.md": [
+      {
+        "text": "Contributing to PKB Research \u2192",
+        "url": "pkb-research.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical-docs/file-formats/pkb-research.md (tried: 03-technical-docs/file-formats/pkb-research.md, 03-technical-docs/file-formats/pkb-research.md.md, 03-technical-docs/file-formats/pkb-research.md/index.md, 03-technical-docs/file-formats/pkb-research)"
+      }
+    ],
+    "03-technical-docs/file-formats/prop-format.md": [
+      {
+        "text": "MOA Format \u2192",
+        "url": "moa-format.md",
+        "type": "relative_internal",
+        "reason": "Missing: 03-technical-docs/file-formats/moa-format.md (tried: 03-technical-docs/file-formats/moa-format.md, 03-technical-docs/file-formats/moa-format.md.md, 03-technical-docs/file-formats/moa-format.md/index.md, 03-technical-docs/file-formats/moa-format)"
+      },
+      {
+        "text": "Contribute Research \u2192",
+        "url": "../../08-community/contribute.md",
+        "type": "relative_internal",
+        "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+      }
+    ],
+    "05-game-content/story/the-matrix-online-saga.md": [
+      {
+        "text": "Mission Guides \u2192",
+        "url": "../missions/index.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/missions/index.md (tried: 05-game-content/missions/index.md, 05-game-content/missions/index.md.md, 05-game-content/missions/index.md/index.md, 05-game-content/missions/index)"
+      },
+      {
+        "text": "Character Profiles \u2192",
+        "url": "characters.md",
+        "type": "relative_internal",
+        "reason": "Missing: 05-game-content/story/characters.md (tried: 05-game-content/story/characters.md, 05-game-content/story/characters.md.md, 05-game-content/story/characters.md/index.md, 05-game-content/story/characters)"
+      }
+    ],
+    "06-gameplay-systems/combat/ida-pro-analysis.md": [
+      {
+        "text": "Implementation Examples \u2192",
+        "url": "implementation.md",
+        "type": "relative_internal",
+        "reason": "Missing: 06-gameplay-systems/combat/implementation.md (tried: 06-gameplay-systems/combat/implementation.md, 06-gameplay-systems/combat/implementation.md.md, 06-gameplay-systems/combat/implementation.md/index.md, 06-gameplay-systems/combat/implementation)"
+      }
+    ]
+  },
+  "broken_by_category": {
+    "missing_index": [
+      {
+        "file": "Home.md",
+        "link": {
+          "text": "Download Client",
+          "url": "01-getting-started/index#prerequisites",
+          "type": "relative_internal",
+          "reason": "Missing: 01-getting-started/index#prerequisites (tried: 01-getting-started/index#prerequisites, 01-getting-started/index#prerequisites.md, 01-getting-started/index#prerequisites/index.md, 01-getting-started/index#prerequisites)"
+        }
+      },
+      {
+        "file": "README.md",
+        "link": {
+          "text": "Contributing Guide",
+          "url": "08-community/contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "Getting Started",
+          "url": "01-overview/getting-started.md",
+          "type": "relative_internal",
+          "reason": "Missing: 01-overview/getting-started.md (tried: 01-overview/getting-started.md, 01-overview/getting-started.md.md, 01-overview/getting-started.md/index.md, 01-overview/getting-started)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "Timeline of Liberation",
+          "url": "01-overview/timeline-of-liberation.md",
+          "type": "relative_internal",
+          "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "IDA Pro Combat Analysis",
+          "url": "03-technical/ida-pro-combat-analysis.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "CNB Format Investigation",
+          "url": "03-technical/cnb-format.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/cnb-format.md (tried: 03-technical/cnb-format.md, 03-technical/cnb-format.md.md, 03-technical/cnb-format.md/index.md, 03-technical/cnb-format)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "PKB Archives Documentation",
+          "url": "03-technical/pkb-archives.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "Available Tools",
+          "url": "04-tools-modding/available-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/available-tools.md (tried: 04-tools-modding/available-tools.md, 04-tools-modding/available-tools.md.md, 04-tools-modding/available-tools.md/index.md, 04-tools-modding/available-tools)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "The Matrix Online Saga",
+          "url": "05-game-content/the-matrix-online-saga.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/the-matrix-online-saga.md (tried: 05-game-content/the-matrix-online-saga.md, 05-game-content/the-matrix-online-saga.md.md, 05-game-content/the-matrix-online-saga.md/index.md, 05-game-content/the-matrix-online-saga)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "Combat Analysis",
+          "url": "03-technical/ida-pro-combat-analysis.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "File Formats",
+          "url": "03-technical/file-formats.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)"
+        }
+      },
+      {
+        "file": "index.md",
+        "link": {
+          "text": "Timeline",
+          "url": "01-overview/timeline-of-liberation.md",
+          "type": "relative_internal",
+          "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)"
+        }
+      },
+      {
+        "file": "_Sidebar.md",
+        "link": {
+          "text": "Eden Reborn Status",
+          "url": "../EDEN_REBORN_STATUS",
+          "type": "relative_internal",
+          "reason": "Missing: ../EDEN_REBORN_STATUS (tried: ../EDEN_REBORN_STATUS, ../EDEN_REBORN_STATUS.md, ../EDEN_REBORN_STATUS/index.md, ../EDEN_REBORN_STATUS)"
+        }
+      },
+      {
+        "file": "_Footer.md",
+        "link": {
+          "text": "Manifesto",
+          "url": "neoologist-manifesto",
+          "type": "relative_internal",
+          "reason": "Missing: neoologist-manifesto (tried: neoologist-manifesto, neoologist-manifesto.md, neoologist-manifesto/index.md, neoologist-manifesto)"
+        }
+      },
+      {
+        "file": "_Footer.md",
+        "link": {
+          "text": "Quick Start",
+          "url": "getting-started",
+          "type": "relative_internal",
+          "reason": "Missing: getting-started (tried: getting-started, getting-started.md, getting-started/index.md, getting-started)"
+        }
+      },
+      {
+        "file": "_Footer.md",
+        "link": {
+          "text": "Contribute",
+          "url": "contributing",
+          "type": "relative_internal",
+          "reason": "Missing: contributing (tried: contributing, contributing.md, contributing/index.md, contributing)"
+        }
+      },
+      {
+        "file": "_Footer.md",
+        "link": {
+          "text": "Discord",
+          "url": "discord",
+          "type": "relative_internal",
+          "reason": "Missing: discord (tried: discord, discord.md, discord/index.md, discord)"
+        }
+      },
+      {
+        "file": "08-community/search-implementation.md",
+        "link": {
+          "text": "Wiki Navigation \u2192",
+          "url": "navigation-guide.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/navigation-guide.md (tried: 08-community/navigation-guide.md, 08-community/navigation-guide.md.md, 08-community/navigation-guide.md/index.md, 08-community/navigation-guide)"
+        }
+      },
+      {
+        "file": "08-community/search-implementation.md",
+        "link": {
+          "text": "Search API \u2192",
+          "url": "search-api.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/search-api.md (tried: 08-community/search-api.md, 08-community/search-api.md.md, 08-community/search-api.md/index.md, 08-community/search-api)"
+        }
+      },
+      {
+        "file": "08-community/github-workflow-standards.md",
+        "link": {
+          "text": "Windows Binary",
+          "url": "link",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+        }
+      },
+      {
+        "file": "08-community/github-workflow-standards.md",
+        "link": {
+          "text": "Linux Binary",
+          "url": "link",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+        }
+      },
+      {
+        "file": "08-community/github-workflow-standards.md",
+        "link": {
+          "text": "macOS Binary",
+          "url": "link",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+        }
+      },
+      {
+        "file": "08-community/contribution-framework.md",
+        "link": {
+          "text": "Related Doc 1",
+          "url": "link",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+        }
+      },
+      {
+        "file": "08-community/contribution-framework.md",
+        "link": {
+          "text": "Related Doc 2",
+          "url": "link",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)"
+        }
+      },
+      {
+        "file": "08-community/contribution-framework.md",
+        "link": {
+          "text": "Start Contributing \u2192",
+          "url": "../README.md#contributing",
+          "type": "relative_internal",
+          "reason": "Missing: README.md#contributing (tried: README.md#contributing, README.md#contributing.md, README.md#contributing/index.md, README#contributing)"
+        }
+      },
+      {
+        "file": "08-community/join-the-resistance.md",
+        "link": {
+          "text": "Start Contributing \u2192",
+          "url": "contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "08-community/join-the-resistance.md",
+        "link": {
+          "text": "Contact Leaders \u2192",
+          "url": "contact.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)"
+        }
+      },
+      {
+        "file": "03-technical/file-formats-complete.md",
+        "link": {
+          "text": "PKB Archives \u2192",
+          "url": "pkb-archives.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+        }
+      },
+      {
+        "file": "03-technical/server-architecture.md",
+        "link": {
+          "text": "Combat System \u2192",
+          "url": "combat-implementation.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/combat-implementation.md (tried: 03-technical/combat-implementation.md, 03-technical/combat-implementation.md.md, 03-technical/combat-implementation.md/index.md, 03-technical/combat-implementation)"
+        }
+      },
+      {
+        "file": "03-technical/server-architecture.md",
+        "link": {
+          "text": "Network Protocol \u2192",
+          "url": "network-protocol.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/network-protocol.md (tried: 03-technical/network-protocol.md, 03-technical/network-protocol.md.md, 03-technical/network-protocol.md/index.md, 03-technical/network-protocol)"
+        }
+      },
+      {
+        "file": "03-technical/prop-format-specification.md",
+        "link": {
+          "text": "PROP Tools \u2192",
+          "url": "../04-tools-modding/prop-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/prop-tools.md (tried: 04-tools-modding/prop-tools.md, 04-tools-modding/prop-tools.md.md, 04-tools-modding/prop-tools.md/index.md, 04-tools-modding/prop-tools)"
+        }
+      },
+      {
+        "file": "03-technical/moa-format-specification.md",
+        "link": {
+          "text": "MOA Tools \u2192",
+          "url": "../04-tools-modding/moa-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/moa-tools.md (tried: 04-tools-modding/moa-tools.md, 04-tools-modding/moa-tools.md.md, 04-tools-modding/moa-tools.md/index.md, 04-tools-modding/moa-tools)"
+        }
+      },
+      {
+        "file": "03-technical/model-formats.md",
+        "link": {
+          "text": "Animation Systems \u2192",
+          "url": "animation-systems.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/animation-systems.md (tried: 03-technical/animation-systems.md, 03-technical/animation-systems.md.md, 03-technical/animation-systems.md/index.md, 03-technical/animation-systems)"
+        }
+      },
+      {
+        "file": "03-technical/model-formats.md",
+        "link": {
+          "text": "PKB Archives \u2192",
+          "url": "pkb-archives.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)"
+        }
+      },
+      {
+        "file": "03-technical/combat-implementation-guide.md",
+        "link": {
+          "text": "IDA Pro Analysis \u2192",
+          "url": "ida-pro-analysis.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/ida-pro-analysis.md (tried: 03-technical/ida-pro-analysis.md, 03-technical/ida-pro-analysis.md.md, 03-technical/ida-pro-analysis.md/index.md, 03-technical/ida-pro-analysis)"
+        }
+      },
+      {
+        "file": "03-technical/combat-implementation-guide.md",
+        "link": {
+          "text": "Testing Guide \u2192",
+          "url": "combat-testing.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/combat-testing.md (tried: 03-technical/combat-testing.md, 03-technical/combat-testing.md.md, 03-technical/combat-testing.md/index.md, 03-technical/combat-testing)"
+        }
+      },
+      {
+        "file": "04-tools-modding/ai-assisted-development.md",
+        "link": {
+          "text": "Prompt Library \u2192",
+          "url": "ai-prompts.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/ai-prompts.md (tried: 04-tools-modding/ai-prompts.md, 04-tools-modding/ai-prompts.md.md, 04-tools-modding/ai-prompts.md/index.md, 04-tools-modding/ai-prompts)"
+        }
+      },
+      {
+        "file": "04-tools-modding/ai-assisted-development.md",
+        "link": {
+          "text": "Ethics Guidelines \u2192",
+          "url": "ai-ethics.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/ai-ethics.md (tried: 04-tools-modding/ai-ethics.md, 04-tools-modding/ai-ethics.md.md, 04-tools-modding/ai-ethics.md/index.md, 04-tools-modding/ai-ethics)"
+        }
+      },
+      {
+        "file": "04-tools-modding/tool-development-guide.md",
+        "link": {
+          "text": "Join Development \u2192",
+          "url": "../08-community/contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "04-tools-modding/tool-development-guide.md",
+        "link": {
+          "text": "Technical Specs \u2192",
+          "url": "../03-technical/file-formats.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)"
+        }
+      },
+      {
+        "file": "07-preservation/tool-archaeology.md",
+        "link": {
+          "text": "Join the Search \u2192",
+          "url": "../08-community/contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "01-overview/timeline-complete.md",
+        "link": {
+          "text": "Join the Future \u2192",
+          "url": "../08-community/contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "02-server-setup/database-setup.md",
+        "link": {
+          "text": "Next: Advanced Administration \u2192",
+          "url": "advanced-admin.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/advanced-admin.md (tried: 02-server-setup/advanced-admin.md, 02-server-setup/advanced-admin.md.md, 02-server-setup/advanced-admin.md/index.md, 02-server-setup/advanced-admin)"
+        }
+      },
+      {
+        "file": "02-server-setup/mxoemu-setup.md",
+        "link": {
+          "text": "Configure GM Commands",
+          "url": "gm-commands.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)"
+        }
+      },
+      {
+        "file": "02-server-setup/mxoemu-setup.md",
+        "link": {
+          "text": "Add Custom Content",
+          "url": "custom-content.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)"
+        }
+      },
+      {
+        "file": "02-server-setup/mxoemu-setup.md",
+        "link": {
+          "text": "Connect Test Client",
+          "url": "../01-getting-started/server-connection.md",
+          "type": "relative_internal",
+          "reason": "Missing: 01-getting-started/server-connection.md (tried: 01-getting-started/server-connection.md, 01-getting-started/server-connection.md.md, 01-getting-started/server-connection.md/index.md, 01-getting-started/server-connection)"
+        }
+      },
+      {
+        "file": "02-server-setup/mxoemu-setup.md",
+        "link": {
+          "text": "Troubleshooting Guide",
+          "url": "troubleshooting.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Network Requirements",
+          "url": "network-setup.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/network-setup.md (tried: 02-server-setup/network-setup.md, 02-server-setup/network-setup.md.md, 02-server-setup/network-setup.md/index.md, 02-server-setup/network-setup)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Launcher Configuration",
+          "url": "launcher-setup.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/launcher-setup.md (tried: 02-server-setup/launcher-setup.md, 02-server-setup/launcher-setup.md.md, 02-server-setup/launcher-setup.md/index.md, 02-server-setup/launcher-setup)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Connection Troubleshooting",
+          "url": "connection-issues.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/connection-issues.md (tried: 02-server-setup/connection-issues.md, 02-server-setup/connection-issues.md.md, 02-server-setup/connection-issues.md/index.md, 02-server-setup/connection-issues)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "GM Commands Reference",
+          "url": "gm-commands.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Server Monitoring",
+          "url": "monitoring.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/monitoring.md (tried: 02-server-setup/monitoring.md, 02-server-setup/monitoring.md.md, 02-server-setup/monitoring.md/index.md, 02-server-setup/monitoring)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Backup Strategies",
+          "url": "backup-guide.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/backup-guide.md (tried: 02-server-setup/backup-guide.md, 02-server-setup/backup-guide.md.md, 02-server-setup/backup-guide.md/index.md, 02-server-setup/backup-guide)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Performance Tuning",
+          "url": "performance.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/performance.md (tried: 02-server-setup/performance.md, 02-server-setup/performance.md.md, 02-server-setup/performance.md/index.md, 02-server-setup/performance)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Custom Content",
+          "url": "custom-content.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Scripting System",
+          "url": "scripting.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/scripting.md (tried: 02-server-setup/scripting.md, 02-server-setup/scripting.md.md, 02-server-setup/scripting.md/index.md, 02-server-setup/scripting)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Database Queries",
+          "url": "database-queries.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/database-queries.md (tried: 02-server-setup/database-queries.md, 02-server-setup/database-queries.md.md, 02-server-setup/database-queries.md/index.md, 02-server-setup/database-queries)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Development Setup",
+          "url": "development.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/development.md (tried: 02-server-setup/development.md, 02-server-setup/development.md.md, 02-server-setup/development.md/index.md, 02-server-setup/development)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Network Protocol Docs",
+          "url": "../03-technical-docs/network-protocol.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical-docs/network-protocol.md (tried: 03-technical-docs/network-protocol.md, 03-technical-docs/network-protocol.md.md, 03-technical-docs/network-protocol.md/index.md, 03-technical-docs/network-protocol)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Database Schema",
+          "url": "../03-technical-docs/database-schema.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical-docs/database-schema.md (tried: 03-technical-docs/database-schema.md, 03-technical-docs/database-schema.md.md, 03-technical-docs/database-schema.md/index.md, 03-technical-docs/database-schema)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Server Admin Tools",
+          "url": "../04-tools-modding/admin-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/admin-tools.md (tried: 04-tools-modding/admin-tools.md, 04-tools-modding/admin-tools.md.md, 04-tools-modding/admin-tools.md/index.md, 04-tools-modding/admin-tools)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Development Tools",
+          "url": "../04-tools-modding/dev-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/dev-tools.md (tried: 04-tools-modding/dev-tools.md, 04-tools-modding/dev-tools.md.md, 04-tools-modding/dev-tools.md/index.md, 04-tools-modding/dev-tools)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Monitoring Solutions",
+          "url": "../04-tools-modding/monitoring.md",
+          "type": "relative_internal",
+          "reason": "Missing: 04-tools-modding/monitoring.md (tried: 04-tools-modding/monitoring.md, 04-tools-modding/monitoring.md.md, 04-tools-modding/monitoring.md/index.md, 04-tools-modding/monitoring)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "FAQ",
+          "url": "faq.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/faq.md (tried: 02-server-setup/faq.md, 02-server-setup/faq.md.md, 02-server-setup/faq.md/index.md, 02-server-setup/faq)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Known Issues",
+          "url": "known-issues.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/known-issues.md (tried: 02-server-setup/known-issues.md, 02-server-setup/known-issues.md.md, 02-server-setup/known-issues.md/index.md, 02-server-setup/known-issues)"
+        }
+      },
+      {
+        "file": "02-server-setup/index.md",
+        "link": {
+          "text": "Troubleshooting Guide",
+          "url": "troubleshooting.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)"
+        }
+      },
+      {
+        "file": "02-server-setup/eden-reborn-success.md",
+        "link": {
+          "text": "EDEN_REBORN_STATUS.md",
+          "url": "/EDEN_REBORN_STATUS.md",
+          "type": "absolute_internal",
+          "reason": "Missing: EDEN_REBORN_STATUS.md (tried: EDEN_REBORN_STATUS.md, EDEN_REBORN_STATUS.md.md, EDEN_REBORN_STATUS.md/index.md, EDEN_REBORN_STATUS)"
+        }
+      },
+      {
+        "file": "02-server-setup/eden-reborn-success.md",
+        "link": {
+          "text": "Quick Start Guide \u2192",
+          "url": "eden-quickstart.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/eden-quickstart.md (tried: 02-server-setup/eden-quickstart.md, 02-server-setup/eden-quickstart.md.md, 02-server-setup/eden-quickstart.md/index.md, 02-server-setup/eden-quickstart)"
+        }
+      },
+      {
+        "file": "02-server-setup/eden-reborn-success.md",
+        "link": {
+          "text": "Technical Details \u2192",
+          "url": "eden-technical.md",
+          "type": "relative_internal",
+          "reason": "Missing: 02-server-setup/eden-technical.md (tried: 02-server-setup/eden-technical.md, 02-server-setup/eden-technical.md.md, 02-server-setup/eden-technical.md/index.md, 02-server-setup/eden-technical)"
+        }
+      },
+      {
+        "file": "05-game-content/mission-system-guide.md",
+        "link": {
+          "text": "Mission Examples \u2192",
+          "url": "mission-examples.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/mission-examples.md (tried: 05-game-content/mission-examples.md, 05-game-content/mission-examples.md.md, 05-game-content/mission-examples.md/index.md, 05-game-content/mission-examples)"
+        }
+      },
+      {
+        "file": "05-game-content/mission-system-guide.md",
+        "link": {
+          "text": "Create Mission \u2192",
+          "url": "mission-creator.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/mission-creator.md (tried: 05-game-content/mission-creator.md, 05-game-content/mission-creator.md.md, 05-game-content/mission-creator.md/index.md, 05-game-content/mission-creator)"
+        }
+      },
+      {
+        "file": "05-game-content/districts-of-mega-city.md",
+        "link": {
+          "text": "Hardline Locations \u2192",
+          "url": "hardline-guide.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/hardline-guide.md (tried: 05-game-content/hardline-guide.md, 05-game-content/hardline-guide.md.md, 05-game-content/hardline-guide.md/index.md, 05-game-content/hardline-guide)"
+        }
+      },
+      {
+        "file": "05-game-content/districts-of-mega-city.md",
+        "link": {
+          "text": "Awakening Routes \u2192",
+          "url": "awakening-paths.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/awakening-paths.md (tried: 05-game-content/awakening-paths.md, 05-game-content/awakening-paths.md.md, 05-game-content/awakening-paths.md/index.md, 05-game-content/awakening-paths)"
+        }
+      },
+      {
+        "file": "05-game-content/landmarks-and-coordinates.md",
+        "link": {
+          "text": "Navigation Tools \u2192",
+          "url": "navigation-tools.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/navigation-tools.md (tried: 05-game-content/navigation-tools.md, 05-game-content/navigation-tools.md.md, 05-game-content/navigation-tools.md/index.md, 05-game-content/navigation-tools)"
+        }
+      },
+      {
+        "file": "05-game-content/story-preservation-guide.md",
+        "link": {
+          "text": "Submit Content \u2192",
+          "url": "submit-story.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/submit-story.md (tried: 05-game-content/submit-story.md, 05-game-content/submit-story.md.md, 05-game-content/submit-story.md/index.md, 05-game-content/submit-story)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Neoologist Manifesto",
+          "url": "00-manifesto/neoologist-manifesto-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/00-manifesto/neoologist-manifesto-sources.md (tried: sources/00-manifesto/neoologist-manifesto-sources.md, sources/00-manifesto/neoologist-manifesto-sources.md.md, sources/00-manifesto/neoologist-manifesto-sources.md/index.md, sources/00-manifesto/neoologist-manifesto-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Overview",
+          "url": "01-getting-started/index-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/01-getting-started/index-sources.md (tried: sources/01-getting-started/index-sources.md, sources/01-getting-started/index-sources.md.md, sources/01-getting-started/index-sources.md/index.md, sources/01-getting-started/index-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Timeline of Liberation",
+          "url": "01-getting-started/timeline-of-liberation-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/01-getting-started/timeline-of-liberation-sources.md (tried: sources/01-getting-started/timeline-of-liberation-sources.md, sources/01-getting-started/timeline-of-liberation-sources.md.md, sources/01-getting-started/timeline-of-liberation-sources.md/index.md, sources/01-getting-started/timeline-of-liberation-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Overview",
+          "url": "02-server-setup/index-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/index-sources.md (tried: sources/02-server-setup/index-sources.md, sources/02-server-setup/index-sources.md.md, sources/02-server-setup/index-sources.md/index.md, sources/02-server-setup/index-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "MXOEmu Setup",
+          "url": "02-server-setup/mxoemu-setup-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/mxoemu-setup-sources.md (tried: sources/02-server-setup/mxoemu-setup-sources.md, sources/02-server-setup/mxoemu-setup-sources.md.md, sources/02-server-setup/mxoemu-setup-sources.md/index.md, sources/02-server-setup/mxoemu-setup-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Hardline Dreams Setup",
+          "url": "02-server-setup/hardline-dreams-setup-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/hardline-dreams-setup-sources.md (tried: sources/02-server-setup/hardline-dreams-setup-sources.md, sources/02-server-setup/hardline-dreams-setup-sources.md.md, sources/02-server-setup/hardline-dreams-setup-sources.md/index.md, sources/02-server-setup/hardline-dreams-setup-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Client Patches",
+          "url": "02-server-setup/client-patches-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/client-patches-sources.md (tried: sources/02-server-setup/client-patches-sources.md, sources/02-server-setup/client-patches-sources.md.md, sources/02-server-setup/client-patches-sources.md/index.md, sources/02-server-setup/client-patches-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Database Setup",
+          "url": "02-server-setup/database-setup-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/database-setup-sources.md (tried: sources/02-server-setup/database-setup-sources.md, sources/02-server-setup/database-setup-sources.md.md, sources/02-server-setup/database-setup-sources.md/index.md, sources/02-server-setup/database-setup-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Server Projects Comparison",
+          "url": "02-server-setup/server-projects-comparison-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/server-projects-comparison-sources.md (tried: sources/02-server-setup/server-projects-comparison-sources.md, sources/02-server-setup/server-projects-comparison-sources.md.md, sources/02-server-setup/server-projects-comparison-sources.md/index.md, sources/02-server-setup/server-projects-comparison-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Reality Server Guide",
+          "url": "02-server-setup/reality-server-guide-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/02-server-setup/reality-server-guide-sources.md (tried: sources/02-server-setup/reality-server-guide-sources.md, sources/02-server-setup/reality-server-guide-sources.md.md, sources/02-server-setup/reality-server-guide-sources.md/index.md, sources/02-server-setup/reality-server-guide-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Lost Tools Archive",
+          "url": "04-tools-modding/lost-tools-archive-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/04-tools-modding/lost-tools-archive-sources.md (tried: sources/04-tools-modding/lost-tools-archive-sources.md, sources/04-tools-modding/lost-tools-archive-sources.md.md, sources/04-tools-modding/lost-tools-archive-sources.md/index.md, sources/04-tools-modding/lost-tools-archive-sources)"
+        }
+      },
+      {
+        "file": "sources/index.md",
+        "link": {
+          "text": "Tool Development Guide",
+          "url": "04-tools-modding/tool-development-guide-sources.md",
+          "type": "relative_internal",
+          "reason": "Missing: sources/04-tools-modding/tool-development-guide-sources.md (tried: sources/04-tools-modding/tool-development-guide-sources.md, sources/04-tools-modding/tool-development-guide-sources.md.md, sources/04-tools-modding/tool-development-guide-sources.md/index.md, sources/04-tools-modding/tool-development-guide-sources)"
+        }
+      },
+      {
+        "file": "03-technical-docs/file-formats/cnb-format.md",
+        "link": {
+          "text": "Join CNB Research \u2192",
+          "url": "cnb-research-team.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical-docs/file-formats/cnb-research-team.md (tried: 03-technical-docs/file-formats/cnb-research-team.md, 03-technical-docs/file-formats/cnb-research-team.md.md, 03-technical-docs/file-formats/cnb-research-team.md/index.md, 03-technical-docs/file-formats/cnb-research-team)"
+        }
+      },
+      {
+        "file": "03-technical-docs/file-formats/cnb-format.md",
+        "link": {
+          "text": "Contact Developers \u2192",
+          "url": "../../08-community/contact.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)"
+        }
+      },
+      {
+        "file": "03-technical-docs/file-formats/pkb-archives.md",
+        "link": {
+          "text": "Contributing to PKB Research \u2192",
+          "url": "pkb-research.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical-docs/file-formats/pkb-research.md (tried: 03-technical-docs/file-formats/pkb-research.md, 03-technical-docs/file-formats/pkb-research.md.md, 03-technical-docs/file-formats/pkb-research.md/index.md, 03-technical-docs/file-formats/pkb-research)"
+        }
+      },
+      {
+        "file": "03-technical-docs/file-formats/prop-format.md",
+        "link": {
+          "text": "MOA Format \u2192",
+          "url": "moa-format.md",
+          "type": "relative_internal",
+          "reason": "Missing: 03-technical-docs/file-formats/moa-format.md (tried: 03-technical-docs/file-formats/moa-format.md, 03-technical-docs/file-formats/moa-format.md.md, 03-technical-docs/file-formats/moa-format.md/index.md, 03-technical-docs/file-formats/moa-format)"
+        }
+      },
+      {
+        "file": "03-technical-docs/file-formats/prop-format.md",
+        "link": {
+          "text": "Contribute Research \u2192",
+          "url": "../../08-community/contribute.md",
+          "type": "relative_internal",
+          "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)"
+        }
+      },
+      {
+        "file": "05-game-content/story/the-matrix-online-saga.md",
+        "link": {
+          "text": "Mission Guides \u2192",
+          "url": "../missions/index.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/missions/index.md (tried: 05-game-content/missions/index.md, 05-game-content/missions/index.md.md, 05-game-content/missions/index.md/index.md, 05-game-content/missions/index)"
+        }
+      },
+      {
+        "file": "05-game-content/story/the-matrix-online-saga.md",
+        "link": {
+          "text": "Character Profiles \u2192",
+          "url": "characters.md",
+          "type": "relative_internal",
+          "reason": "Missing: 05-game-content/story/characters.md (tried: 05-game-content/story/characters.md, 05-game-content/story/characters.md.md, 05-game-content/story/characters.md/index.md, 05-game-content/story/characters)"
+        }
+      },
+      {
+        "file": "06-gameplay-systems/combat/ida-pro-analysis.md",
+        "link": {
+          "text": "Implementation Examples \u2192",
+          "url": "implementation.md",
+          "type": "relative_internal",
+          "reason": "Missing: 06-gameplay-systems/combat/implementation.md (tried: 06-gameplay-systems/combat/implementation.md, 06-gameplay-systems/combat/implementation.md.md, 06-gameplay-systems/combat/implementation.md/index.md, 06-gameplay-systems/combat/implementation)"
+        }
+      }
+    ]
+  },
+  "link_types": {
+    "relative_internal": 389,
+    "external": 42,
+    "anchor": 2,
+    "absolute_internal": 17
+  },
+  "most_broken_files": [
+    [
+      "02-server-setup/index.md",
+      19
+    ],
+    [
+      "sources/index.md",
+      12
+    ],
+    [
+      "index.md",
+      10
+    ],
+    [
+      "_Footer.md",
+      4
+    ],
+    [
+      "02-server-setup/mxoemu-setup.md",
+      4
+    ],
+    [
+      "08-community/github-workflow-standards.md",
+      3
+    ],
+    [
+      "08-community/contribution-framework.md",
+      3
+    ],
+    [
+      "02-server-setup/eden-reborn-success.md",
+      3
+    ],
+    [
+      "08-community/search-implementation.md",
+      2
+    ],
+    [
+      "08-community/join-the-resistance.md",
+      2
+    ],
+    [
+      "03-technical/server-architecture.md",
+      2
+    ],
+    [
+      "03-technical/model-formats.md",
+      2
+    ],
+    [
+      "03-technical/combat-implementation-guide.md",
+      2
+    ],
+    [
+      "04-tools-modding/ai-assisted-development.md",
+      2
+    ],
+    [
+      "04-tools-modding/tool-development-guide.md",
+      2
+    ],
+    [
+      "05-game-content/mission-system-guide.md",
+      2
+    ],
+    [
+      "05-game-content/districts-of-mega-city.md",
+      2
+    ],
+    [
+      "03-technical-docs/file-formats/cnb-format.md",
+      2
+    ],
+    [
+      "03-technical-docs/file-formats/prop-format.md",
+      2
+    ],
+    [
+      "05-game-content/story/the-matrix-online-saga.md",
+      2
+    ],
+    [
+      "Home.md",
+      1
+    ],
+    [
+      "README.md",
+      1
+    ],
+    [
+      "_Sidebar.md",
+      1
+    ],
+    [
+      "03-technical/file-formats-complete.md",
+      1
+    ],
+    [
+      "03-technical/prop-format-specification.md",
+      1
+    ],
+    [
+      "03-technical/moa-format-specification.md",
+      1
+    ],
+    [
+      "07-preservation/tool-archaeology.md",
+      1
+    ],
+    [
+      "01-overview/timeline-complete.md",
+      1
+    ],
+    [
+      "02-server-setup/database-setup.md",
+      1
+    ],
+    [
+      "05-game-content/landmarks-and-coordinates.md",
+      1
+    ],
+    [
+      "05-game-content/story-preservation-guide.md",
+      1
+    ],
+    [
+      "03-technical-docs/file-formats/pkb-archives.md",
+      1
+    ],
+    [
+      "06-gameplay-systems/combat/ida-pro-analysis.md",
+      1
+    ]
+  ],
+  "all_broken_links": [
+    {
+      "file": "Home.md",
+      "text": "Download Client",
+      "url": "01-getting-started/index#prerequisites",
+      "reason": "Missing: 01-getting-started/index#prerequisites (tried: 01-getting-started/index#prerequisites, 01-getting-started/index#prerequisites.md, 01-getting-started/index#prerequisites/index.md, 01-getting-started/index#prerequisites)",
+      "category": "missing_index"
+    },
+    {
+      "file": "README.md",
+      "text": "Contributing Guide",
+      "url": "08-community/contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "Getting Started",
+      "url": "01-overview/getting-started.md",
+      "reason": "Missing: 01-overview/getting-started.md (tried: 01-overview/getting-started.md, 01-overview/getting-started.md.md, 01-overview/getting-started.md/index.md, 01-overview/getting-started)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "Timeline of Liberation",
+      "url": "01-overview/timeline-of-liberation.md",
+      "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "IDA Pro Combat Analysis",
+      "url": "03-technical/ida-pro-combat-analysis.md",
+      "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "CNB Format Investigation",
+      "url": "03-technical/cnb-format.md",
+      "reason": "Missing: 03-technical/cnb-format.md (tried: 03-technical/cnb-format.md, 03-technical/cnb-format.md.md, 03-technical/cnb-format.md/index.md, 03-technical/cnb-format)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "PKB Archives Documentation",
+      "url": "03-technical/pkb-archives.md",
+      "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "Available Tools",
+      "url": "04-tools-modding/available-tools.md",
+      "reason": "Missing: 04-tools-modding/available-tools.md (tried: 04-tools-modding/available-tools.md, 04-tools-modding/available-tools.md.md, 04-tools-modding/available-tools.md/index.md, 04-tools-modding/available-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "The Matrix Online Saga",
+      "url": "05-game-content/the-matrix-online-saga.md",
+      "reason": "Missing: 05-game-content/the-matrix-online-saga.md (tried: 05-game-content/the-matrix-online-saga.md, 05-game-content/the-matrix-online-saga.md.md, 05-game-content/the-matrix-online-saga.md/index.md, 05-game-content/the-matrix-online-saga)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "Combat Analysis",
+      "url": "03-technical/ida-pro-combat-analysis.md",
+      "reason": "Missing: 03-technical/ida-pro-combat-analysis.md (tried: 03-technical/ida-pro-combat-analysis.md, 03-technical/ida-pro-combat-analysis.md.md, 03-technical/ida-pro-combat-analysis.md/index.md, 03-technical/ida-pro-combat-analysis)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "File Formats",
+      "url": "03-technical/file-formats.md",
+      "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)",
+      "category": "missing_index"
+    },
+    {
+      "file": "index.md",
+      "text": "Timeline",
+      "url": "01-overview/timeline-of-liberation.md",
+      "reason": "Missing: 01-overview/timeline-of-liberation.md (tried: 01-overview/timeline-of-liberation.md, 01-overview/timeline-of-liberation.md.md, 01-overview/timeline-of-liberation.md/index.md, 01-overview/timeline-of-liberation)",
+      "category": "missing_index"
+    },
+    {
+      "file": "_Sidebar.md",
+      "text": "Eden Reborn Status",
+      "url": "../EDEN_REBORN_STATUS",
+      "reason": "Missing: ../EDEN_REBORN_STATUS (tried: ../EDEN_REBORN_STATUS, ../EDEN_REBORN_STATUS.md, ../EDEN_REBORN_STATUS/index.md, ../EDEN_REBORN_STATUS)",
+      "category": "missing_index"
+    },
+    {
+      "file": "_Footer.md",
+      "text": "Manifesto",
+      "url": "neoologist-manifesto",
+      "reason": "Missing: neoologist-manifesto (tried: neoologist-manifesto, neoologist-manifesto.md, neoologist-manifesto/index.md, neoologist-manifesto)",
+      "category": "missing_index"
+    },
+    {
+      "file": "_Footer.md",
+      "text": "Quick Start",
+      "url": "getting-started",
+      "reason": "Missing: getting-started (tried: getting-started, getting-started.md, getting-started/index.md, getting-started)",
+      "category": "missing_index"
+    },
+    {
+      "file": "_Footer.md",
+      "text": "Contribute",
+      "url": "contributing",
+      "reason": "Missing: contributing (tried: contributing, contributing.md, contributing/index.md, contributing)",
+      "category": "missing_index"
+    },
+    {
+      "file": "_Footer.md",
+      "text": "Discord",
+      "url": "discord",
+      "reason": "Missing: discord (tried: discord, discord.md, discord/index.md, discord)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/search-implementation.md",
+      "text": "Wiki Navigation \u2192",
+      "url": "navigation-guide.md",
+      "reason": "Missing: 08-community/navigation-guide.md (tried: 08-community/navigation-guide.md, 08-community/navigation-guide.md.md, 08-community/navigation-guide.md/index.md, 08-community/navigation-guide)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/search-implementation.md",
+      "text": "Search API \u2192",
+      "url": "search-api.md",
+      "reason": "Missing: 08-community/search-api.md (tried: 08-community/search-api.md, 08-community/search-api.md.md, 08-community/search-api.md/index.md, 08-community/search-api)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/github-workflow-standards.md",
+      "text": "Windows Binary",
+      "url": "link",
+      "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/github-workflow-standards.md",
+      "text": "Linux Binary",
+      "url": "link",
+      "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/github-workflow-standards.md",
+      "text": "macOS Binary",
+      "url": "link",
+      "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/contribution-framework.md",
+      "text": "Related Doc 1",
+      "url": "link",
+      "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/contribution-framework.md",
+      "text": "Related Doc 2",
+      "url": "link",
+      "reason": "Missing: 08-community/link (tried: 08-community/link, 08-community/link.md, 08-community/link/index.md, 08-community/link)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/contribution-framework.md",
+      "text": "Start Contributing \u2192",
+      "url": "../README.md#contributing",
+      "reason": "Missing: README.md#contributing (tried: README.md#contributing, README.md#contributing.md, README.md#contributing/index.md, README#contributing)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/join-the-resistance.md",
+      "text": "Start Contributing \u2192",
+      "url": "contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "08-community/join-the-resistance.md",
+      "text": "Contact Leaders \u2192",
+      "url": "contact.md",
+      "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/file-formats-complete.md",
+      "text": "PKB Archives \u2192",
+      "url": "pkb-archives.md",
+      "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/server-architecture.md",
+      "text": "Combat System \u2192",
+      "url": "combat-implementation.md",
+      "reason": "Missing: 03-technical/combat-implementation.md (tried: 03-technical/combat-implementation.md, 03-technical/combat-implementation.md.md, 03-technical/combat-implementation.md/index.md, 03-technical/combat-implementation)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/server-architecture.md",
+      "text": "Network Protocol \u2192",
+      "url": "network-protocol.md",
+      "reason": "Missing: 03-technical/network-protocol.md (tried: 03-technical/network-protocol.md, 03-technical/network-protocol.md.md, 03-technical/network-protocol.md/index.md, 03-technical/network-protocol)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/prop-format-specification.md",
+      "text": "PROP Tools \u2192",
+      "url": "../04-tools-modding/prop-tools.md",
+      "reason": "Missing: 04-tools-modding/prop-tools.md (tried: 04-tools-modding/prop-tools.md, 04-tools-modding/prop-tools.md.md, 04-tools-modding/prop-tools.md/index.md, 04-tools-modding/prop-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/moa-format-specification.md",
+      "text": "MOA Tools \u2192",
+      "url": "../04-tools-modding/moa-tools.md",
+      "reason": "Missing: 04-tools-modding/moa-tools.md (tried: 04-tools-modding/moa-tools.md, 04-tools-modding/moa-tools.md.md, 04-tools-modding/moa-tools.md/index.md, 04-tools-modding/moa-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/model-formats.md",
+      "text": "Animation Systems \u2192",
+      "url": "animation-systems.md",
+      "reason": "Missing: 03-technical/animation-systems.md (tried: 03-technical/animation-systems.md, 03-technical/animation-systems.md.md, 03-technical/animation-systems.md/index.md, 03-technical/animation-systems)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/model-formats.md",
+      "text": "PKB Archives \u2192",
+      "url": "pkb-archives.md",
+      "reason": "Missing: 03-technical/pkb-archives.md (tried: 03-technical/pkb-archives.md, 03-technical/pkb-archives.md.md, 03-technical/pkb-archives.md/index.md, 03-technical/pkb-archives)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/combat-implementation-guide.md",
+      "text": "IDA Pro Analysis \u2192",
+      "url": "ida-pro-analysis.md",
+      "reason": "Missing: 03-technical/ida-pro-analysis.md (tried: 03-technical/ida-pro-analysis.md, 03-technical/ida-pro-analysis.md.md, 03-technical/ida-pro-analysis.md/index.md, 03-technical/ida-pro-analysis)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical/combat-implementation-guide.md",
+      "text": "Testing Guide \u2192",
+      "url": "combat-testing.md",
+      "reason": "Missing: 03-technical/combat-testing.md (tried: 03-technical/combat-testing.md, 03-technical/combat-testing.md.md, 03-technical/combat-testing.md/index.md, 03-technical/combat-testing)",
+      "category": "missing_index"
+    },
+    {
+      "file": "04-tools-modding/ai-assisted-development.md",
+      "text": "Prompt Library \u2192",
+      "url": "ai-prompts.md",
+      "reason": "Missing: 04-tools-modding/ai-prompts.md (tried: 04-tools-modding/ai-prompts.md, 04-tools-modding/ai-prompts.md.md, 04-tools-modding/ai-prompts.md/index.md, 04-tools-modding/ai-prompts)",
+      "category": "missing_index"
+    },
+    {
+      "file": "04-tools-modding/ai-assisted-development.md",
+      "text": "Ethics Guidelines \u2192",
+      "url": "ai-ethics.md",
+      "reason": "Missing: 04-tools-modding/ai-ethics.md (tried: 04-tools-modding/ai-ethics.md, 04-tools-modding/ai-ethics.md.md, 04-tools-modding/ai-ethics.md/index.md, 04-tools-modding/ai-ethics)",
+      "category": "missing_index"
+    },
+    {
+      "file": "04-tools-modding/tool-development-guide.md",
+      "text": "Join Development \u2192",
+      "url": "../08-community/contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "04-tools-modding/tool-development-guide.md",
+      "text": "Technical Specs \u2192",
+      "url": "../03-technical/file-formats.md",
+      "reason": "Missing: 03-technical/file-formats.md (tried: 03-technical/file-formats.md, 03-technical/file-formats.md.md, 03-technical/file-formats.md/index.md, 03-technical/file-formats)",
+      "category": "missing_index"
+    },
+    {
+      "file": "07-preservation/tool-archaeology.md",
+      "text": "Join the Search \u2192",
+      "url": "../08-community/contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "01-overview/timeline-complete.md",
+      "text": "Join the Future \u2192",
+      "url": "../08-community/contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/database-setup.md",
+      "text": "Next: Advanced Administration \u2192",
+      "url": "advanced-admin.md",
+      "reason": "Missing: 02-server-setup/advanced-admin.md (tried: 02-server-setup/advanced-admin.md, 02-server-setup/advanced-admin.md.md, 02-server-setup/advanced-admin.md/index.md, 02-server-setup/advanced-admin)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/mxoemu-setup.md",
+      "text": "Configure GM Commands",
+      "url": "gm-commands.md",
+      "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/mxoemu-setup.md",
+      "text": "Add Custom Content",
+      "url": "custom-content.md",
+      "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/mxoemu-setup.md",
+      "text": "Connect Test Client",
+      "url": "../01-getting-started/server-connection.md",
+      "reason": "Missing: 01-getting-started/server-connection.md (tried: 01-getting-started/server-connection.md, 01-getting-started/server-connection.md.md, 01-getting-started/server-connection.md/index.md, 01-getting-started/server-connection)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/mxoemu-setup.md",
+      "text": "Troubleshooting Guide",
+      "url": "troubleshooting.md",
+      "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Network Requirements",
+      "url": "network-setup.md",
+      "reason": "Missing: 02-server-setup/network-setup.md (tried: 02-server-setup/network-setup.md, 02-server-setup/network-setup.md.md, 02-server-setup/network-setup.md/index.md, 02-server-setup/network-setup)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Launcher Configuration",
+      "url": "launcher-setup.md",
+      "reason": "Missing: 02-server-setup/launcher-setup.md (tried: 02-server-setup/launcher-setup.md, 02-server-setup/launcher-setup.md.md, 02-server-setup/launcher-setup.md/index.md, 02-server-setup/launcher-setup)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Connection Troubleshooting",
+      "url": "connection-issues.md",
+      "reason": "Missing: 02-server-setup/connection-issues.md (tried: 02-server-setup/connection-issues.md, 02-server-setup/connection-issues.md.md, 02-server-setup/connection-issues.md/index.md, 02-server-setup/connection-issues)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "GM Commands Reference",
+      "url": "gm-commands.md",
+      "reason": "Missing: 02-server-setup/gm-commands.md (tried: 02-server-setup/gm-commands.md, 02-server-setup/gm-commands.md.md, 02-server-setup/gm-commands.md/index.md, 02-server-setup/gm-commands)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Server Monitoring",
+      "url": "monitoring.md",
+      "reason": "Missing: 02-server-setup/monitoring.md (tried: 02-server-setup/monitoring.md, 02-server-setup/monitoring.md.md, 02-server-setup/monitoring.md/index.md, 02-server-setup/monitoring)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Backup Strategies",
+      "url": "backup-guide.md",
+      "reason": "Missing: 02-server-setup/backup-guide.md (tried: 02-server-setup/backup-guide.md, 02-server-setup/backup-guide.md.md, 02-server-setup/backup-guide.md/index.md, 02-server-setup/backup-guide)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Performance Tuning",
+      "url": "performance.md",
+      "reason": "Missing: 02-server-setup/performance.md (tried: 02-server-setup/performance.md, 02-server-setup/performance.md.md, 02-server-setup/performance.md/index.md, 02-server-setup/performance)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Custom Content",
+      "url": "custom-content.md",
+      "reason": "Missing: 02-server-setup/custom-content.md (tried: 02-server-setup/custom-content.md, 02-server-setup/custom-content.md.md, 02-server-setup/custom-content.md/index.md, 02-server-setup/custom-content)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Scripting System",
+      "url": "scripting.md",
+      "reason": "Missing: 02-server-setup/scripting.md (tried: 02-server-setup/scripting.md, 02-server-setup/scripting.md.md, 02-server-setup/scripting.md/index.md, 02-server-setup/scripting)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Database Queries",
+      "url": "database-queries.md",
+      "reason": "Missing: 02-server-setup/database-queries.md (tried: 02-server-setup/database-queries.md, 02-server-setup/database-queries.md.md, 02-server-setup/database-queries.md/index.md, 02-server-setup/database-queries)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Development Setup",
+      "url": "development.md",
+      "reason": "Missing: 02-server-setup/development.md (tried: 02-server-setup/development.md, 02-server-setup/development.md.md, 02-server-setup/development.md/index.md, 02-server-setup/development)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Network Protocol Docs",
+      "url": "../03-technical-docs/network-protocol.md",
+      "reason": "Missing: 03-technical-docs/network-protocol.md (tried: 03-technical-docs/network-protocol.md, 03-technical-docs/network-protocol.md.md, 03-technical-docs/network-protocol.md/index.md, 03-technical-docs/network-protocol)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Database Schema",
+      "url": "../03-technical-docs/database-schema.md",
+      "reason": "Missing: 03-technical-docs/database-schema.md (tried: 03-technical-docs/database-schema.md, 03-technical-docs/database-schema.md.md, 03-technical-docs/database-schema.md/index.md, 03-technical-docs/database-schema)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Server Admin Tools",
+      "url": "../04-tools-modding/admin-tools.md",
+      "reason": "Missing: 04-tools-modding/admin-tools.md (tried: 04-tools-modding/admin-tools.md, 04-tools-modding/admin-tools.md.md, 04-tools-modding/admin-tools.md/index.md, 04-tools-modding/admin-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Development Tools",
+      "url": "../04-tools-modding/dev-tools.md",
+      "reason": "Missing: 04-tools-modding/dev-tools.md (tried: 04-tools-modding/dev-tools.md, 04-tools-modding/dev-tools.md.md, 04-tools-modding/dev-tools.md/index.md, 04-tools-modding/dev-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Monitoring Solutions",
+      "url": "../04-tools-modding/monitoring.md",
+      "reason": "Missing: 04-tools-modding/monitoring.md (tried: 04-tools-modding/monitoring.md, 04-tools-modding/monitoring.md.md, 04-tools-modding/monitoring.md/index.md, 04-tools-modding/monitoring)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "FAQ",
+      "url": "faq.md",
+      "reason": "Missing: 02-server-setup/faq.md (tried: 02-server-setup/faq.md, 02-server-setup/faq.md.md, 02-server-setup/faq.md/index.md, 02-server-setup/faq)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Known Issues",
+      "url": "known-issues.md",
+      "reason": "Missing: 02-server-setup/known-issues.md (tried: 02-server-setup/known-issues.md, 02-server-setup/known-issues.md.md, 02-server-setup/known-issues.md/index.md, 02-server-setup/known-issues)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/index.md",
+      "text": "Troubleshooting Guide",
+      "url": "troubleshooting.md",
+      "reason": "Missing: 02-server-setup/troubleshooting.md (tried: 02-server-setup/troubleshooting.md, 02-server-setup/troubleshooting.md.md, 02-server-setup/troubleshooting.md/index.md, 02-server-setup/troubleshooting)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/eden-reborn-success.md",
+      "text": "EDEN_REBORN_STATUS.md",
+      "url": "/EDEN_REBORN_STATUS.md",
+      "reason": "Missing: EDEN_REBORN_STATUS.md (tried: EDEN_REBORN_STATUS.md, EDEN_REBORN_STATUS.md.md, EDEN_REBORN_STATUS.md/index.md, EDEN_REBORN_STATUS)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/eden-reborn-success.md",
+      "text": "Quick Start Guide \u2192",
+      "url": "eden-quickstart.md",
+      "reason": "Missing: 02-server-setup/eden-quickstart.md (tried: 02-server-setup/eden-quickstart.md, 02-server-setup/eden-quickstart.md.md, 02-server-setup/eden-quickstart.md/index.md, 02-server-setup/eden-quickstart)",
+      "category": "missing_index"
+    },
+    {
+      "file": "02-server-setup/eden-reborn-success.md",
+      "text": "Technical Details \u2192",
+      "url": "eden-technical.md",
+      "reason": "Missing: 02-server-setup/eden-technical.md (tried: 02-server-setup/eden-technical.md, 02-server-setup/eden-technical.md.md, 02-server-setup/eden-technical.md/index.md, 02-server-setup/eden-technical)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/mission-system-guide.md",
+      "text": "Mission Examples \u2192",
+      "url": "mission-examples.md",
+      "reason": "Missing: 05-game-content/mission-examples.md (tried: 05-game-content/mission-examples.md, 05-game-content/mission-examples.md.md, 05-game-content/mission-examples.md/index.md, 05-game-content/mission-examples)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/mission-system-guide.md",
+      "text": "Create Mission \u2192",
+      "url": "mission-creator.md",
+      "reason": "Missing: 05-game-content/mission-creator.md (tried: 05-game-content/mission-creator.md, 05-game-content/mission-creator.md.md, 05-game-content/mission-creator.md/index.md, 05-game-content/mission-creator)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/districts-of-mega-city.md",
+      "text": "Hardline Locations \u2192",
+      "url": "hardline-guide.md",
+      "reason": "Missing: 05-game-content/hardline-guide.md (tried: 05-game-content/hardline-guide.md, 05-game-content/hardline-guide.md.md, 05-game-content/hardline-guide.md/index.md, 05-game-content/hardline-guide)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/districts-of-mega-city.md",
+      "text": "Awakening Routes \u2192",
+      "url": "awakening-paths.md",
+      "reason": "Missing: 05-game-content/awakening-paths.md (tried: 05-game-content/awakening-paths.md, 05-game-content/awakening-paths.md.md, 05-game-content/awakening-paths.md/index.md, 05-game-content/awakening-paths)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/landmarks-and-coordinates.md",
+      "text": "Navigation Tools \u2192",
+      "url": "navigation-tools.md",
+      "reason": "Missing: 05-game-content/navigation-tools.md (tried: 05-game-content/navigation-tools.md, 05-game-content/navigation-tools.md.md, 05-game-content/navigation-tools.md/index.md, 05-game-content/navigation-tools)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/story-preservation-guide.md",
+      "text": "Submit Content \u2192",
+      "url": "submit-story.md",
+      "reason": "Missing: 05-game-content/submit-story.md (tried: 05-game-content/submit-story.md, 05-game-content/submit-story.md.md, 05-game-content/submit-story.md/index.md, 05-game-content/submit-story)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Neoologist Manifesto",
+      "url": "00-manifesto/neoologist-manifesto-sources.md",
+      "reason": "Missing: sources/00-manifesto/neoologist-manifesto-sources.md (tried: sources/00-manifesto/neoologist-manifesto-sources.md, sources/00-manifesto/neoologist-manifesto-sources.md.md, sources/00-manifesto/neoologist-manifesto-sources.md/index.md, sources/00-manifesto/neoologist-manifesto-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Overview",
+      "url": "01-getting-started/index-sources.md",
+      "reason": "Missing: sources/01-getting-started/index-sources.md (tried: sources/01-getting-started/index-sources.md, sources/01-getting-started/index-sources.md.md, sources/01-getting-started/index-sources.md/index.md, sources/01-getting-started/index-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Timeline of Liberation",
+      "url": "01-getting-started/timeline-of-liberation-sources.md",
+      "reason": "Missing: sources/01-getting-started/timeline-of-liberation-sources.md (tried: sources/01-getting-started/timeline-of-liberation-sources.md, sources/01-getting-started/timeline-of-liberation-sources.md.md, sources/01-getting-started/timeline-of-liberation-sources.md/index.md, sources/01-getting-started/timeline-of-liberation-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Overview",
+      "url": "02-server-setup/index-sources.md",
+      "reason": "Missing: sources/02-server-setup/index-sources.md (tried: sources/02-server-setup/index-sources.md, sources/02-server-setup/index-sources.md.md, sources/02-server-setup/index-sources.md/index.md, sources/02-server-setup/index-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "MXOEmu Setup",
+      "url": "02-server-setup/mxoemu-setup-sources.md",
+      "reason": "Missing: sources/02-server-setup/mxoemu-setup-sources.md (tried: sources/02-server-setup/mxoemu-setup-sources.md, sources/02-server-setup/mxoemu-setup-sources.md.md, sources/02-server-setup/mxoemu-setup-sources.md/index.md, sources/02-server-setup/mxoemu-setup-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Hardline Dreams Setup",
+      "url": "02-server-setup/hardline-dreams-setup-sources.md",
+      "reason": "Missing: sources/02-server-setup/hardline-dreams-setup-sources.md (tried: sources/02-server-setup/hardline-dreams-setup-sources.md, sources/02-server-setup/hardline-dreams-setup-sources.md.md, sources/02-server-setup/hardline-dreams-setup-sources.md/index.md, sources/02-server-setup/hardline-dreams-setup-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Client Patches",
+      "url": "02-server-setup/client-patches-sources.md",
+      "reason": "Missing: sources/02-server-setup/client-patches-sources.md (tried: sources/02-server-setup/client-patches-sources.md, sources/02-server-setup/client-patches-sources.md.md, sources/02-server-setup/client-patches-sources.md/index.md, sources/02-server-setup/client-patches-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Database Setup",
+      "url": "02-server-setup/database-setup-sources.md",
+      "reason": "Missing: sources/02-server-setup/database-setup-sources.md (tried: sources/02-server-setup/database-setup-sources.md, sources/02-server-setup/database-setup-sources.md.md, sources/02-server-setup/database-setup-sources.md/index.md, sources/02-server-setup/database-setup-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Server Projects Comparison",
+      "url": "02-server-setup/server-projects-comparison-sources.md",
+      "reason": "Missing: sources/02-server-setup/server-projects-comparison-sources.md (tried: sources/02-server-setup/server-projects-comparison-sources.md, sources/02-server-setup/server-projects-comparison-sources.md.md, sources/02-server-setup/server-projects-comparison-sources.md/index.md, sources/02-server-setup/server-projects-comparison-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Reality Server Guide",
+      "url": "02-server-setup/reality-server-guide-sources.md",
+      "reason": "Missing: sources/02-server-setup/reality-server-guide-sources.md (tried: sources/02-server-setup/reality-server-guide-sources.md, sources/02-server-setup/reality-server-guide-sources.md.md, sources/02-server-setup/reality-server-guide-sources.md/index.md, sources/02-server-setup/reality-server-guide-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Lost Tools Archive",
+      "url": "04-tools-modding/lost-tools-archive-sources.md",
+      "reason": "Missing: sources/04-tools-modding/lost-tools-archive-sources.md (tried: sources/04-tools-modding/lost-tools-archive-sources.md, sources/04-tools-modding/lost-tools-archive-sources.md.md, sources/04-tools-modding/lost-tools-archive-sources.md/index.md, sources/04-tools-modding/lost-tools-archive-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "sources/index.md",
+      "text": "Tool Development Guide",
+      "url": "04-tools-modding/tool-development-guide-sources.md",
+      "reason": "Missing: sources/04-tools-modding/tool-development-guide-sources.md (tried: sources/04-tools-modding/tool-development-guide-sources.md, sources/04-tools-modding/tool-development-guide-sources.md.md, sources/04-tools-modding/tool-development-guide-sources.md/index.md, sources/04-tools-modding/tool-development-guide-sources)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical-docs/file-formats/cnb-format.md",
+      "text": "Join CNB Research \u2192",
+      "url": "cnb-research-team.md",
+      "reason": "Missing: 03-technical-docs/file-formats/cnb-research-team.md (tried: 03-technical-docs/file-formats/cnb-research-team.md, 03-technical-docs/file-formats/cnb-research-team.md.md, 03-technical-docs/file-formats/cnb-research-team.md/index.md, 03-technical-docs/file-formats/cnb-research-team)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical-docs/file-formats/cnb-format.md",
+      "text": "Contact Developers \u2192",
+      "url": "../../08-community/contact.md",
+      "reason": "Missing: 08-community/contact.md (tried: 08-community/contact.md, 08-community/contact.md.md, 08-community/contact.md/index.md, 08-community/contact)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical-docs/file-formats/pkb-archives.md",
+      "text": "Contributing to PKB Research \u2192",
+      "url": "pkb-research.md",
+      "reason": "Missing: 03-technical-docs/file-formats/pkb-research.md (tried: 03-technical-docs/file-formats/pkb-research.md, 03-technical-docs/file-formats/pkb-research.md.md, 03-technical-docs/file-formats/pkb-research.md/index.md, 03-technical-docs/file-formats/pkb-research)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical-docs/file-formats/prop-format.md",
+      "text": "MOA Format \u2192",
+      "url": "moa-format.md",
+      "reason": "Missing: 03-technical-docs/file-formats/moa-format.md (tried: 03-technical-docs/file-formats/moa-format.md, 03-technical-docs/file-formats/moa-format.md.md, 03-technical-docs/file-formats/moa-format.md/index.md, 03-technical-docs/file-formats/moa-format)",
+      "category": "missing_index"
+    },
+    {
+      "file": "03-technical-docs/file-formats/prop-format.md",
+      "text": "Contribute Research \u2192",
+      "url": "../../08-community/contribute.md",
+      "reason": "Missing: 08-community/contribute.md (tried: 08-community/contribute.md, 08-community/contribute.md.md, 08-community/contribute.md/index.md, 08-community/contribute)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/story/the-matrix-online-saga.md",
+      "text": "Mission Guides \u2192",
+      "url": "../missions/index.md",
+      "reason": "Missing: 05-game-content/missions/index.md (tried: 05-game-content/missions/index.md, 05-game-content/missions/index.md.md, 05-game-content/missions/index.md/index.md, 05-game-content/missions/index)",
+      "category": "missing_index"
+    },
+    {
+      "file": "05-game-content/story/the-matrix-online-saga.md",
+      "text": "Character Profiles \u2192",
+      "url": "characters.md",
+      "reason": "Missing: 05-game-content/story/characters.md (tried: 05-game-content/story/characters.md, 05-game-content/story/characters.md.md, 05-game-content/story/characters.md/index.md, 05-game-content/story/characters)",
+      "category": "missing_index"
+    },
+    {
+      "file": "06-gameplay-systems/combat/ida-pro-analysis.md",
+      "text": "Implementation Examples \u2192",
+      "url": "implementation.md",
+      "reason": "Missing: 06-gameplay-systems/combat/implementation.md (tried: 06-gameplay-systems/combat/implementation.md, 06-gameplay-systems/combat/implementation.md.md, 06-gameplay-systems/combat/implementation.md/index.md, 06-gameplay-systems/combat/implementation)",
+      "category": "missing_index"
+    }
+  ]
+}

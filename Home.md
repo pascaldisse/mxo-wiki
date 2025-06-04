@@ -1,6 +1,10 @@
 # 🕶️ The Matrix Online: Eden Reborn Wiki
 **The Comprehensive Resource for MXO Liberation**
 
+> ### 🚧 **EDEN REBORN PROJECT IN DEVELOPMENT**
+> **[Read the Development Status →](02-server-setup/eden-reborn-success)**  
+> *June 3, 2025: Eden Reborn project launched - comprehensive MXO revival in active development*
+>
 Welcome to Eden Reborn - where The Matrix Online lives again, free from corporate control.
 
 ---
@@ -13,7 +17,7 @@ Welcome to Eden Reborn - where The Matrix Online lives again, free from corporat
 
 ### 🎮 For Players
 **Get into the Matrix in 30 minutes**
-- [Download Client](01-getting-started/index#prerequisites)
+- [Download Client](01-getting-started/index)
 - [Patch for Private Servers](02-server-setup/client-patches)
 - [Getting Started Guide](01-getting-started/index)
 - [Server Setup](02-server-setup/index)

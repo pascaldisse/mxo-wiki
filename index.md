@@ -38,12 +38,12 @@ This is your gateway to everything. Every page, every tool, every secret of the 
    - Quick navigation and latest updates
    - Eden Reborn success announcement
 
-3. **[Getting Started](01-overview/getting-started.md)**
+3. **[Getting Started](01-getting-started/index.md)**
    - *Beginner's guide to the Matrix Online*
    - Prerequisites and first steps
    - Path selection guidance
 
-4. **[Timeline of Liberation](01-overview/timeline-of-liberation.md)**
+4. **[Timeline of Liberation](01-getting-started/timeline-of-liberation.md)**
    - *History reframed through Neoologist lens*
    - From 2009 closure to 2025 victory
    - Pattern recognition insights
@@ -80,7 +80,7 @@ This is your gateway to everything. Every page, every tool, every secret of the 
     - 40,000+ objects documented
     - Combat message flow
 
-11. **[IDA Pro Combat Analysis](03-technical/ida-pro-combat-analysis.md)**
+11. **[IDA Pro Combat Analysis](06-gameplay-systems/combat/ida-pro-analysis.md)**
     - *1,035 combat strings decoded*
     - D100 system implementation
     - Packet structure revealed
@@ -100,12 +100,12 @@ This is your gateway to everything. Every page, every tool, every secret of the 
     - PLY export success story
     - Skeletal system details
 
-15. **[CNB Format Investigation](03-technical/cnb-format.md)**
+15. **[CNB Format Investigation](03-technical-docs/file-formats/cnb-format.md)**
     - *Cinematic bundle format (#1 PRIORITY)*
     - Real-time 3D cutscenes
     - No viewer exists - CRITICAL
 
-16. **[PKB Archives Documentation](03-technical/pkb-archives.md)**
+16. **[PKB Archives Documentation](03-technical-docs/file-formats/pkb-archives.md)**
     - *Game asset container format*
     - ~180 archives total
     - reztools recreation needed
@@ -121,13 +121,13 @@ This is your gateway to everything. Every page, every tool, every secret of the 
     - Technical foundations
     - Neoologist development philosophy
 
-19. **[Available Tools](04-tools-modding/available-tools.md)**
+19. **[Available Tools](04-tools-modding/available-tools-catalog.md)**
     - *What still works in 2025*
     - Cortana parser survivor
     - Modern alternatives
 
 ### 05 - Game Content & Story
-20. **[The Matrix Online Saga](05-game-content/the-matrix-online-saga.md)**
+20. **[The Matrix Online Saga](05-game-content/story/the-matrix-online-saga.md)**
     - *Complete 4-act story*
     - All chapters summarized
     - Morpheus' fate revealed
@@ -240,8 +240,8 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 
 ### Need Technical Info?
 - [Server Architecture](03-technical/server-architecture.md) - How it works
-- [Combat Analysis](03-technical/ida-pro-combat-analysis.md) - D100 system
-- [File Formats](03-technical/file-formats.md) - Data structures
+- [Combat Analysis](06-gameplay-systems/combat/ida-pro-analysis.md) - D100 system
+- [File Formats](03-technical/file-formats-complete.md) - Data structures
 
 ### Want to Contribute?
 - [Join the Resistance](08-community/join-the-resistance.md) - Get involved
@@ -249,7 +249,7 @@ This is your gateway to everything. Every page, every tool, every secret of the 
 - [Manifesto](00-manifesto/neoologist-manifesto.md) - Understand why
 
 ### Studying History?
-- [Timeline](01-overview/timeline-of-liberation.md) - Complete history
+- [Timeline](01-getting-started/timeline-of-liberation.md) - Complete history
 - [Tool Archaeology](07-preservation/tool-archaeology.md) - What we lost
 - [Research Summary](09-appendix/research-integration-summary.md) - Findings
 
