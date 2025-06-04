@@ -676,6 +676,44 @@ print(f"Defense rating: {defender.get_defense_rating()}")
 print(f"Stance bonus: {stance_bonus}")
 ```
 
+### Community Insights (December 2024)
+
+#### The Real Challenge: Complexity, Not Knowledge
+
+From recent Discord discussions between key developers:
+
+```
+codejunky: "I don't understand the issue. you seem to confirm my suspicion that 
+this is more of a complexity problem than a skill issue. so ai would be helpful"
+
+rajkosto: "Time and motivation"
+
+Morph: "yes. we could do it"
+```
+
+**Key Revelation**: The combat system implementation isn't blocked by lack of knowledge - rajkosto and Morph understand the system completely. The challenge is the sheer complexity and time required to implement it correctly.
+
+#### What's Actually Needed
+
+Based on Morph's clarification when asked what's needed for combat:
+
+1. **Time**: Not a weekend project - requires sustained effort
+2. **Motivation**: The will to tackle complex interconnected systems
+3. **Systematic Approach**: Breaking down the overwhelming complexity
+
+The knowledge exists. The packets are understood. What's missing is the dedicated implementation effort.
+
+#### AI-Assisted Implementation Strategy
+
+Given that this is a "complexity problem" as codejunky identified, AI can help by:
+
+1. **Code Generation**: Boilerplate for packet handlers, state machines
+2. **Testing Automation**: Validate thousands of combat scenarios
+3. **Pattern Recognition**: Identify edge cases in combat logic
+4. **Documentation**: Generate comprehensive test cases
+
+The visual validation approach (see [Automated Packet Analysis](../06-gameplay-systems/automated-packet-analysis.md)) could particularly help here - letting AI handle the tedious validation while developers focus on core logic.
+
 ### Future Enhancements
 
 #### Phase 2 Features
