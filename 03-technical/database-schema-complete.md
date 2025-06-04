@@ -1422,4 +1422,4 @@ This comprehensive database schema provides the complete foundation for running 
 
 ---
 
-[← Back to Technical](index.md) | [Server Setup →](../02-servers/database-setup-guide.md) | [Network Protocol →](network-protocol-complete.md)
+[← Back to Technical](index.md) | [Server Setup →](../02-server-setup/database-setup.md) | [Network Protocol →](network-protocol-complete.md)
