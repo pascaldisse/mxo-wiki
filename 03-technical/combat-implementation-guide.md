@@ -680,22 +680,15 @@ print(f"Stance bonus: {stance_bonus}")
 
 #### The Real Challenge: Complexity, Not Knowledge
 
-From recent Discord discussions between key developers:
+Recent community discussions among key developers have revealed important insights about combat system implementation:
 
-```
-codejunky: "I don't understand the issue. you seem to confirm my suspicion that 
-this is more of a complexity problem than a skill issue. so ai would be helpful"
+The primary barrier to combat system implementation has been identified as a complexity problem rather than a knowledge gap. Core developers have confirmed that comprehensive understanding of the system already exists within the community.
 
-rajkosto: "Time and motivation"
-
-Morph: "yes. we could do it"
-```
-
-**Key Revelation**: The combat system implementation isn't blocked by lack of knowledge - rajkosto and Morph understand the system completely. The challenge is the sheer complexity and time required to implement it correctly.
+**Key Revelation**: The combat system implementation isn't blocked by lack of knowledge - the community understands the system completely. The challenge is the sheer complexity and time required to implement it correctly.
 
 #### What's Actually Needed
 
-Based on Morph's clarification when asked what's needed for combat:
+Based on community analysis of combat implementation requirements:
 
 1. **Time**: Not a weekend project - requires sustained effort
 2. **Motivation**: The will to tackle complex interconnected systems
@@ -705,7 +698,7 @@ The knowledge exists. The packets are understood. What's missing is the dedicate
 
 #### AI-Assisted Implementation Strategy
 
-Given that this is a "complexity problem" as codejunky identified, AI can help by:
+Given that this has been identified as a "complexity problem," AI can help by:
 
 1. **Code Generation**: Boilerplate for packet handlers, state machines
 2. **Testing Automation**: Validate thousands of combat scenarios

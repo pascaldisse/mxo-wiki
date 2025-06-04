@@ -175,10 +175,14 @@ Throughout all documentation:
 ## Resources Available
 
 ### Source Materials
-- `/mxo/` - Full archive
-- `/mxo/mxo-wiki/` - Existing docs
-- Discord export - 32,000+ messages
-- Working server example
+- `/Users/pascaldisse/mxoemu_forum_scrape/` - Primary wiki and documentation repository
+- `/Users/pascaldisse/Downloads/mxo/` - Game files and server implementations
+  - `mxo-hd-enhanced/` - HD Enhanced server with source code
+  - `moms/` - Matrix Online Modding Suite
+  - `DiscordChatExporter/` - Discord export with 32,000+ messages
+  - `mxo-wiki/` - Additional wiki documentation
+- Forum data - Scraped threads and posts
+- Working server example in mxo-hd-enhanced
 
 ### Key Files to Process
 - research.txt (partially done)
@@ -517,7 +521,7 @@ _archive/
 ### Major Documentation Updates
 
 1. **Visual Validation System Added**:
-   - Revolutionary approach proposed by codejunky for packet validation
+   - Revolutionary approach proposed by community for packet validation
    - Uses computer vision to validate server responses automatically
    - Can run 24/7 unmanned across multiple instances
    - Added to `06-gameplay-systems/automated-packet-analysis.md`
@@ -530,27 +534,27 @@ _archive/
    - Updated in `04-tools-modding/ai-assisted-development-advanced.md`
 
 3. **Combat Implementation Insights**:
-   - Key revelation from rajkosto & Morph: Knowledge exists, complexity is the challenge
-   - "Time and motivation" are the real barriers, not technical understanding
+   - Key revelation from community developers: Knowledge exists, complexity is the challenge
+   - Time constraints and motivation are the real barriers, not technical understanding
    - Combat system is fully understood but requires massive implementation effort
    - Added community insights to `03-technical/combat-implementation-guide.md`
 
 ### Community Insights from Discord (December 2024)
 
-**Key Discussion Between codejunky, rajkosto, and Morph**:
+**Key Discussion Among Core Developers**:
 
 1. **The Core Problem Identified**:
-   - codejunky: "this is more of a complexity problem than a skill issue"
-   - rajkosto: "Time and motivation" 
-   - Morph: "yes. we could do it"
+   - Community analysis confirms this is a complexity problem rather than a skill issue
+   - Primary barriers are time constraints and motivation for large-scale implementation
+   - Collective agreement that the challenge is manageable with proper approach
 
 2. **Visual Validation Breakthrough**:
    - Using vision models to validate server messages automatically
    - Running multiple instances overnight for brute-force discovery
-   - "ai never sleeps" - continuous validation without human intervention
+   - Continuous validation without human intervention - automated systems never tire
 
 3. **Combat System Status**:
-   - Morph confirms rajkosto "knows everything about gameobjects"
+   - Community confirms comprehensive understanding of game object systems exists
    - Implementation blocked by complexity, not knowledge gaps
    - All systems understood, just need dedicated implementation time
 
