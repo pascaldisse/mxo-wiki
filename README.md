@@ -11,7 +11,7 @@
 - **[🤝 Join Us →](08-community/join-the-resistance.md)**
 
 ### 💬 Community Hub
-**[Join Eden Reborn Discord](https://discord.gg/3QXTAGB9)**  
+**[Join Eden Reborn Discord](https://discord.gg/DKgP8qmH)**  
 *Connect with the active development community!*
 
 ---
